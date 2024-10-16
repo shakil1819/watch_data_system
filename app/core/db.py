@@ -2,7 +2,7 @@ from sqlalchemy import create_engine, Column, Integer, String, Float, DateTime, 
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, relationship
 
-DATABASE_URL = "postgresql://root:root@172.18.0.3:5432/watchdb"
+DATABASE_URL = "postgresql://root:root@172.18.0.2:5432/example_db"
 
 engine = create_engine(DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
@@ -36,3 +36,10 @@ class Review(Base):
 
 Base.metadata.create_all(bind=engine)
 
+# Add this function to create a new database session
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
