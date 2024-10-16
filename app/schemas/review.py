@@ -1,18 +1,23 @@
 from pydantic import BaseModel
+from datetime import datetime
+from typing import Optional
 
 class ReviewBase(BaseModel):
-    text: str
+    product_id: int
     rating: int
+    comment: str
 
 class ReviewCreate(ReviewBase):
     pass
 
 class ReviewUpdate(ReviewBase):
-    pass
+    product_id: Optional[int] = None
+    rating: Optional[int] = None
+    comment: Optional[str] = None
 
-class Review(ReviewBase):
+class ReviewResponse(ReviewBase):
     id: int
-    product_id: int
+    created_at: datetime
 
     class Config:
         orm_mode = True
