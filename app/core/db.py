@@ -3,10 +3,10 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, relationship
 from dotenv import load_dotenv
 import os
-
+from app.core.config import settings
 load_dotenv()
 
-DATABASE_URL = os.getenv("pg_url")
+DATABASE_URL = settings.pg_url
 
 
 engine = create_engine(DATABASE_URL)
