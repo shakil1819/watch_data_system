@@ -1,6 +1,6 @@
 from app.models.review import Review
 from app.schemas.review import ReviewCreate, ReviewUpdate
-from app.core.database import SessionLocal
+from app.core.db import SessionLocal
 
 class ReviewService:
 

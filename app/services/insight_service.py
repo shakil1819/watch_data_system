@@ -1,4 +1,4 @@
-from app.core.database import SessionLocal
+from app.core.db import SessionLocal
 
 class InsightService:
 

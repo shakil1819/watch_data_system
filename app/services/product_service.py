@@ -1,6 +1,6 @@
 from app.models.product import Product
 from app.schemas.product import ProductCreate, ProductUpdate
-from app.core.database import SessionLocal
+from app.core.db import SessionLocal
 
 class ProductService:
 
