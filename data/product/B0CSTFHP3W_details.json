@@ -1,0 +1,493 @@
+{
+    "results": [
+        {
+            "content": {
+                "url": "https://www.amazon.com/dp/B0CSTFHP3W?th=1&psc=1",
+                "asin": "B0CSTFHP3W",
+                "page": 1,
+                "brand": "Apple",
+                "price": 329,
+                "stock": "In Stock",
+                "title": "Apple Watch Series 9 [GPS 45mm] Smartwatch with Midnight Aluminum Case with Midnight Sport Band M/L. Fitness Tracker, ECG Apps, Always-On Retina Display, Water Resistant",
+                "buybox": [
+                    {
+                        "price": 329,
+                        "stock": "In Stock",
+                        "condition": " Buy new: ",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 329,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/71OSc6IfGcL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61UPDbyE96L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/7133bwKH9aL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71kxyx5fVfL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/81C8zw3D4YL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61ERiv4wf4L._AC_SL1500_.jpg"
+                ],
+                "rating": 4.7,
+                "category": [],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Prime members",
+                            "from": null
+                        },
+                        "type": "Or"
+                    }
+                ],
+                "_warnings": [
+                    "Could not parse pricing count.",
+                    "Could not parse description.",
+                    "Could not parse category.",
+                    "Could not parse sales ranks."
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [
+                    {
+                        "asin": "B0CSTFRJGN",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "45mm Case",
+                            "Color": "(PRODUCT)RED Aluminum with (PRODUCT)RED Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSTGY9TG",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "45mm Case",
+                            "Color": "Starlight Aluminum Case with Starlight Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSTGN3XM",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41mm Case",
+                            "Color": "Pink Aluminum Case with Light Pink Sport Loop",
+                            "Style": "One Size - fits 130\u2013200mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSTY93PP",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "45mm Case",
+                            "Color": "Midnight Aluminum Case with Midnight Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVJ69TP",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41mm Case",
+                            "Color": "Silver Aluminum Case with Winter Blue Sport Loop",
+                            "Style": "One Size - fits 130\u2013200mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSTJML9X",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41mm Case",
+                            "Color": "Midnight Aluminum Case with Midnight Sport Loop",
+                            "Style": "One Size - fits 130\u2013200mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSV6MF8C",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41mm Case",
+                            "Color": "Starlight Aluminum Case with Starlight Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVH84P7",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "45mm Case",
+                            "Color": "Pink Aluminum Case with Light Pink Sport Loop",
+                            "Style": "One Size - fits 145\u2013220mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSTHRVJD",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "45mm Case",
+                            "Color": "Midnight Aluminum Case with Midnight Sport Loop",
+                            "Style": "One Size - fits 145\u2013220mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSTFRJGR",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41mm Case",
+                            "Color": "Silver Aluminum Case with Storm Blue Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVB8BP1",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41mm Case",
+                            "Color": "Midnight Aluminum Case with Midnight Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVHR6R5",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "45mm Case",
+                            "Color": "(PRODUCT)RED Aluminum with (PRODUCT)RED Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41L00cXAJGL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CSTJY2XT",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41mm Case",
+                            "Color": "Silver Aluminum Case with Storm Blue Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSTJR1X1",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "45mm Case",
+                            "Color": "Starlight Aluminum Case with Starlight Sport Loop",
+                            "Style": "One Size - fits 145\u2013220mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVDF576",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "45mm Case",
+                            "Color": "Pink Aluminum Case with Light Pink Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/31oexe7oiQL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CSTHZD38",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "45mm Case",
+                            "Color": "Starlight Aluminum Case with Starlight Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/31LTvs7lSkL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CSVHS6GX",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "45mm Case",
+                            "Color": "Silver Aluminum Case with Storm Blue Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/419u+db8LnL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CSTJ2Y5F",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41mm Case",
+                            "Color": "Midnight Aluminum Case with Midnight Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVCD314",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41mm Case",
+                            "Color": "Starlight Aluminum Case with Starlight Sport Loop",
+                            "Style": "One Size - fits 130\u2013200mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSTFHP3W",
+                        "selected": true,
+                        "dimensions": {
+                            "Size": "45mm Case",
+                            "Color": "Midnight Aluminum Case with Midnight Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41SY6xY5hkL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CSV7352Q",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "45mm Case",
+                            "Color": "Silver Aluminum Case with Storm Blue Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSV6LV26",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "45mm Case",
+                            "Color": "Silver Aluminum Case with Winter Blue Sport Loop",
+                            "Style": "One Size - fits 145\u2013220mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSV946N8",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41mm Case",
+                            "Color": "Starlight Aluminum Case with Starlight Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSTH5K5R",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41mm Case",
+                            "Color": "Pink Aluminum Case with Light Pink Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists"
+                        }
+                    },
+                    {
+                        "asin": "B0CSV9Y331",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41mm Case",
+                            "Color": "Pink Aluminum Case with Light Pink Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists"
+                        }
+                    }
+                ],
+                "has_videos": true,
+                "sales_rank": [],
+                "top_review": "The media could not be loaded.\n                \n            \n                \n            \n            \n        \n    \n    \n\n\n\n\n\n\n\n\n  \n  \n    This is a nice, sleek watch. It has been a game changer for my exercise routine and essential for my overall health. And as someone with ADHD, this has been an amazing tool for locating my phone in a pinch.I have to take a lot of medication in a day. I put the information in the health app and set reminders, the watch reminds me until I long the medication. It\u2019s been very helpful, and provides an easy way to record the time my meds were taken. I consistently have panic attacks, and my watch will notify me when my heart rate spikes, giving me enough time to relocate and try to ground myself. The breathe app is also a great grounding tool for me, the haptic feedback is a great thing to focus on when everything else around me gets hard to process. Furthermore, it has made it easier to sleep! I have never completed a 5 min breathing exercise in bed, I always fall asleep before it is done. I just close my eyes and match my breathing with the vibrations, it eases the anxiety and gives my brain something to focus on when winding down. Speaking of the haptic feedback, that combined with the amazing sound coming from this watch has broken my habit of snoozing the alarm and falling back asleep. This watch also tracks my sleep, so I can get an idea of how long I sleep each night!For exercise, it has been nice tracking my steps. I had no idea that I walked up and down 27-30 flights of stairs at work! I knew I moved around a lot, but not that much. It serves as good motivation for recording my exercises at the gym. I now log everything and can create a nicer workout schedule.The battery life is great, and it takes maybe 45 mins to charge. I keep it on when I\u2019m sleeping and charge it when I\u2019m showering before work. It is water resistant, but I don\u2019t think I\u2019ll ever be comfortable with wearing a watch in the shower. So far there have been no scratches on the display, and I don\u2019t have a screen protector on it. The only thing I don\u2019t like is the wristband. I think it induces sweat that ultimately irritates my skin, so I habitually wipe it down with an alcohol pad. I\u2019m on the lookout for a professional looking band that has nice airflow.\n  \nRead more",
+                "asin_in_url": "B0CSTFHP3W",
+                "description": "",
+                "parent_asin": "B0D1CN58DN",
+                "price_upper": 329,
+                "pricing_str": "New & Used (20) from $315.84$315.84 & FREE Shipping.",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B0CSTFHP3W/ref=dp_olp_ALL_mbc?ie=UTF8&condition=ALL",
+                "manufacturer": "Apple",
+                "max_quantity": 3,
+                "price_buybox": 329,
+                "product_name": "Apple Watch Series 9 [GPS 45mm] Smartwatch with Midnight Aluminum Case with Midnight Sport Band M/L. Fitness Tracker, ECG Apps, Always-On Retina Display, Water Resistant",
+                "sales_volume": "7K+ bought in past month",
+                "amazon_choice": true,
+                "bullet_points": "CARBON NEUTRAL \u2014 An aluminum Apple Watch Series 9 paired with the latest Sport Loop is carbon neutral. Learn more about Apple\u2019s commitment to the environment at apple.com/2030.\nWHY APPLE WATCH SERIES 9 \u2014 Your essential companion for a healthy life is now even more powerful. The S9 chip enables a superbright display and a magical new way to quickly and easily interact with your Apple Watch without touching the screen. Advanced health, safety, and activity features provide powerful insights and help when you need it. And redesigned apps in watchOS give you more information at a glance.\nADVANCED HEALTH FEATURES \u2014 Take an ECG anytime. Get notifications if you have an irregular heart rhythm. See how much time you spent in REM, Core, or Deep sleep with sleep stages. Temperature sensing provides insights into overall wellbeing and cycle tracking. And take note of your state of mind to help build emotional awareness and resilience.\nA POWERFUL FITNESS PARTNER \u2014 The Workout app gives you a range of ways to train plus advanced metrics for more insights about your workout performance. And Apple Watch comes with three months of Apple Fitness+ free.\nINNOVATIVE SAFETY FEATURES \u2014 Fall Detection and Crash Detection can connect you with emergency services in the event of a hard fall or a severe car crash. And Emergency SOS lets you call for help with the press of a button.\nSIMPLY COMPATIBLE \u2014 It works seamlessly with your Apple devices and services. Unlock your Mac automatically. Get approximate distance and directions to your iPhone with Precision Finding on supported iPhone models. Pay and send money with Apple Pay. Apple Watch requires iPhone XS or later with the latest iOS version.\nEASILY CUSTOMIZABLE \u2014 With watch bands in a range of styles, materials, and colors and fully customizable watch faces, you can change your watch to fit your mood or the moment.\nINCREDIBLE DURABILITY \u2014 Tougher than tough. It\u2019s crack resistant, IP6X-certified dust resistant, and swimproof with 50m water resistance.\nSTAY CONNECTED \u2014 Send a text, take a call, listen to music and podcasts, use Siri, and get notifications on the go. Apple Watch Series 9 (GPS) works with your iPhone or Wi-Fi to keep you connected.\nLEGAL DISCLAIMERS \u2014 This is a summary of the main product features. See below to learn more.",
+                "other_sellers": "New & Used (20) from $315.84 & FREE Shipping.",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 7333,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "featured_merchant": [],
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "discount_percentage": 23,
+                "price_strikethrough": 429,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 84
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 8
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 3
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 1
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 4
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:37:26",
+            "updated_at": "2024-10-17 10:37:30",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B0CSTFHP3W?th=1&psc=1",
+            "job_id": "7252628773286213633",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:37:26",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252628773286213633",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B0CSTFHP3W",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:37:30",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252628773286213633",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252628773286213633/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252628773286213633/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252628773286213633/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252628773286213633/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252628773286213633/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252628773286213633/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

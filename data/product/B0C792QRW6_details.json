@@ -1,0 +1,705 @@
+{
+    "results": [
+        {
+            "content": {
+                "ads": [
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": 1,
+                        "asin": "B0D1YQKDML",
+                        "type": "organic_also_viewed",
+                        "price": 294.97,
+                        "title": "SAMSUNG Galaxy Watch 7 40mm Bluetooth AI Smartwatch w/Energy Score, Wellness Tips, Heart Rate Tracking, Sleep Monitor, Fitness Tracker, 2024, Green [US Version, 1Yr Manufacturer Warranty]",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/41ew4GQ5kML._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.4,
+                        "location": "carousel",
+                        "price_upper": 294.97,
+                        "reviews_count": 44,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 2,
+                        "asin": "B0C4DJNMP9",
+                        "type": "organic_also_viewed",
+                        "price": 49.95,
+                        "title": "Fitpolo Smart Watches for Women Android & iPhone, Alexa Built-in [1.8\" HD Screen] IP68 Waterproof Fitness Watch with Bluetooth Call (Answer/Make), Heart Rate/Sleep/SpO2 Monitor, 105+ Sports Tracker",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/51E6f0OePfL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.1,
+                        "location": "carousel",
+                        "price_upper": 49.95,
+                        "reviews_count": 41,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 3,
+                        "asin": "B0C2YB2G8S",
+                        "type": "organic_also_viewed",
+                        "price": 57.99,
+                        "title": "ENOMIR Smart watch for Women Men with Bluetooth Call,Smartwatch with Alexa Built-in,Heart Rate SpO2 Sleep Monitor,5ATM Waterproof,Step Calorie Activity Trackers and Smartwatches for iOS&Android Phones",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/41moJeZqI5L._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 57.99,
+                        "reviews_count": 40,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 4,
+                        "asin": "B0CZNX1YBK",
+                        "type": "organic_also_viewed",
+                        "price": 39.99,
+                        "title": "Smart Watch, 1.91\"Smartwatch for Men Women (Answer/Make Call), Fitness Tracker with 100+ Sport Modes, IP68 Waterproof, Heart Rate/Sleep Monitor, Spo2, Pedometer, Activity Tracker for Android iOS",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/41BJrdkzLfL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 39.99,
+                        "reviews_count": 40,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 5,
+                        "asin": "B0BFQ5PK63",
+                        "type": "organic_also_viewed",
+                        "price": 59.99,
+                        "title": "Smart Watch for Women Android & iPhone, Alexa Built-in, 1.8\" Touch Screen Fitness Tracker with Answer/Make Calls, IP68 Waterproof Heart Rate/Sleep/SpO2 Monitor, Pedometer, 100+ Sport Modes",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/41OxTIot6kL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.1,
+                        "location": "carousel",
+                        "price_upper": 59.99,
+                        "reviews_count": 41,
+                        "is_prime_eligible": false
+                    }
+                ],
+                "url": "https://www.amazon.com/dp/B0C792QRW6?th=1&psc=1",
+                "asin": "B0C792QRW6",
+                "page": 1,
+                "brand": "SAMSUNG",
+                "price": 169.99,
+                "stock": "In Stock",
+                "title": "SAMSUNG Galaxy Watch 6 40mm Bluetooth Smartwatch, Fitness Tracker, Personalized HR Zones, Advanced Sleep Coaching, Heart Monitor, BIA Sensor, Health Wellness Insights, Big Screen, US Version, Graphite",
+                "buybox": [
+                    {
+                        "price": 169.99,
+                        "stock": "In Stock",
+                        "condition": " Buy new: ",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Wednesday, October 23",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Wednesday, October 23",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "Or fastest delivery"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 169.99,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Saturday, October 19",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            },
+                            {
+                                "date": {
+                                    "by": "Tomorrow, October 18",
+                                    "from": null
+                                },
+                                "type": "Or fastest pickup"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/711f6KLsMaL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61Zk7b7JfdL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61QmoHDDaZL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61w2OFgLcRL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61sRAxs4KzL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/615KYkqsMwL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71yCONzT2DL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71rhY7cv0AL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61di0XcResL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71771hYa36L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61Dwyhti4xL._AC_SL1500_.jpg"
+                ],
+                "rating": 4.5,
+                "_errors": [
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'"
+                ],
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/electronics-store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=172282",
+                                "name": "Electronics"
+                            },
+                            {
+                                "url": "/Wearable-Technology/b/ref=dp_bc_aui_C_2?ie=UTF8&node=10048700011",
+                                "name": "Wearable Technology"
+                            },
+                            {
+                                "url": "/smart-watches/b/ref=dp_bc_aui_C_3?ie=UTF8&node=7939901011",
+                                "name": "Smartwatches"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Wednesday, October 23",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "Or fastest delivery"
+                    }
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [
+                    {
+                        "asin": "B0C79FFBW4",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm",
+                            "Color": "Graphite",
+                            "Style": "LTE",
+                            "Pattern Name": "Watch6"
+                        }
+                    },
+                    {
+                        "asin": "B0C7991TVY",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "47mm",
+                            "Color": "Silver",
+                            "Style": "Bluetooth",
+                            "Pattern Name": "Watch6 Classic"
+                        }
+                    },
+                    {
+                        "asin": "B0C79918S5",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "47mm",
+                            "Color": "Black",
+                            "Style": "Bluetooth",
+                            "Pattern Name": "Watch6 Classic"
+                        }
+                    },
+                    {
+                        "asin": "B0C7911WYL",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm",
+                            "Color": "Graphite",
+                            "Style": "LTE",
+                            "Pattern Name": "Watch6"
+                        }
+                    },
+                    {
+                        "asin": "B0C78ZR22C",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm",
+                            "Color": "Gold",
+                            "Style": "Bluetooth",
+                            "Pattern Name": "Watch6"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/11VVa15j1RL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0C792QRW6",
+                        "selected": true,
+                        "dimensions": {
+                            "Size": "40mm",
+                            "Color": "Graphite",
+                            "Style": "Bluetooth",
+                            "Pattern Name": "Watch6"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/11U29Yguk0L._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0C7929ML6",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "43mm",
+                            "Color": "Silver",
+                            "Style": "Bluetooth",
+                            "Pattern Name": "Watch6 Classic"
+                        }
+                    },
+                    {
+                        "asin": "B0C7929YMK",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm",
+                            "Color": "Silver",
+                            "Style": "Bluetooth",
+                            "Pattern Name": "Watch6"
+                        }
+                    },
+                    {
+                        "asin": "B0C791819Q",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "43mm",
+                            "Color": "Black",
+                            "Style": "Bluetooth",
+                            "Pattern Name": "Watch6 Classic"
+                        }
+                    },
+                    {
+                        "asin": "B0CG7PYYS1",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm",
+                            "Color": "Milanese Black",
+                            "Style": "Bespoke",
+                            "Pattern Name": "Watch6 Bespoke"
+                        }
+                    },
+                    {
+                        "asin": "B0C78QRD92",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm",
+                            "Color": "Gold",
+                            "Style": "LTE",
+                            "Pattern Name": "Watch6"
+                        }
+                    },
+                    {
+                        "asin": "B0C797946T",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm",
+                            "Color": "Graphite",
+                            "Style": "Bluetooth",
+                            "Pattern Name": "Watch6"
+                        }
+                    },
+                    {
+                        "asin": "B0C79181HB",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "43mm",
+                            "Color": "Black",
+                            "Style": "LTE",
+                            "Pattern Name": "Watch6 Classic"
+                        }
+                    },
+                    {
+                        "asin": "B0C7977CDQ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm",
+                            "Color": "Silver",
+                            "Style": "LTE",
+                            "Pattern Name": "Watch6"
+                        }
+                    },
+                    {
+                        "asin": "B0CG7QMYKL",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "47mm",
+                            "Color": "Black",
+                            "Style": "Bespoke",
+                            "Pattern Name": "Watch6 Bespoke"
+                        }
+                    },
+                    {
+                        "asin": "B0CG7M8312",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "47mm",
+                            "Color": "Hybrid Camel",
+                            "Style": "Bespoke",
+                            "Pattern Name": "Watch6 Bespoke"
+                        }
+                    },
+                    {
+                        "asin": "B0C78ZT4MW",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "43mm",
+                            "Color": "Silver",
+                            "Style": "LTE",
+                            "Pattern Name": "Watch6 Classic"
+                        }
+                    },
+                    {
+                        "asin": "B0C798X8KZ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "47mm",
+                            "Color": "Black",
+                            "Style": "LTE",
+                            "Pattern Name": "Watch6 Classic"
+                        }
+                    },
+                    {
+                        "asin": "B0CG88XGJJ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "43mm",
+                            "Color": "Hybrid Blue",
+                            "Style": "Bespoke",
+                            "Pattern Name": "Watch6 Bespoke"
+                        }
+                    },
+                    {
+                        "asin": "B0CG7RY6JJ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm",
+                            "Color": "Hybrid Cream",
+                            "Style": "Bespoke",
+                            "Pattern Name": "Watch6 Bespoke"
+                        }
+                    },
+                    {
+                        "asin": "B0C78NJVWK",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "47mm",
+                            "Color": "Silver",
+                            "Style": "LTE",
+                            "Pattern Name": "Watch6 Classic"
+                        }
+                    }
+                ],
+                "has_videos": true,
+                "sales_rank": [],
+                "top_review": "Coming from being an apple user and making the switch to android, this watch thus far is superior in almost every way in comparison. From the screen pixelation to sound quality to vibration intensity to superior app integrated. The samsung watch offers a variety of superior features which I think is definitely enticing enough for the switch. Coming from the apple watch it had the basics, the message replies, calls, apple pay, a few mediation and breathing apps, remote phone camera click and an ECG app that never worked. With the Samsung Galaxy watch 6 you're definitely getting better value per buck, you can use Google maps, a semi small but functional google web browser, a watch that measures your stress, gives you a decent review of how you slept from body temperature, heart rate and the cycles of sleep from rem to awake, a customizable watch face, Gmail, YouTube music, various work out apps, fitness and calorie tracking apps, games, a variety of music listening apps, etc. The only necessary cons I would mention about this watch is the voice to text feature isn't quite as consistent or picks up words correctly and the battery life is definitely a little short then my previous apple watch and the band that it comes with for us petite people is horrendous; I had it on the smallest hook and it was still about 3 inches above my wrist and would slide down, thankfully I bought a replacement band that is much better, however I would say for the value, quality and features this the watch to go.\n  \nRead more",
+                "asin_in_url": "B0C792QRW6",
+                "buy_it_with": [
+                    {
+                        "asin": "B0CBX6HNXR",
+                        "price": 9.99,
+                        "title": "KIMILAR [5+5 Pack] Galaxy Watch 6 Screen Protector Case 40mm, Anti-Fog Tempered Glass Protective Film and Hard PC Protective Bumper Compatible with Samsung Galaxy Watch 6 40mm Accessories"
+                    },
+                    {
+                        "asin": "B09CLJPBPK",
+                        "price": 6.99,
+                        "title": "Supershieldz (3 Pack) Designed for Samsung Galaxy Watch 7 (40mm) / Watch 6 (40mm) / Watch FE (40mm) / Watch 5 (40mm) / Watch 4 (40mm) Tempered Glass Screen Protector, Anti Scratch, Bubble Free"
+                    }
+                ],
+                "description": "*Requires smartphone with Android 8.0 or later, 1.5GB or more RAM and Samsung Health app version 6.22 or later. **Available only for running workouts. Requires initial set up of 10 minutes of outside running with GPS on; smartphone with Android 8.0 or later, 1.5GB or more RAM and Samsung Health app version 6.22 or later. ***Phone must be within 2 feet of user with snore detection enabled through Samsung Health app version 6.22 or later. ****Requires Samsung Galaxy Smartphone with Android 7.0 or later, and Samsung Health Monitor app (available only at the Samsung Galaxy app store). The ECG Monitor App intended for adults 22 years and older analyzes pulse rate data to identify episodes of irregular heart rhythms suggestive of AFib and provides a notification suggesting the user record an ECG to analyze the heart rhythm. The IHRN feature is not intended to provide a notification on every episode of irregular rhythm suggestive of AFib and the absence of a notification is not intended to indicate no disease process is present; rather the feature is intended to opportunistically acquire pulse rate data when the user is still and analyze the data when determined sufficient toward surfacing a notification. The ECG Monitor App is not intended to replace traditional methods of diagnosis or treatment. The ECG app is not intended for users with known arrhythmias other than AFib or users under 22 years old. Users should not interpret or take clinical action based on the device output without consultation of a qualified healthcare professional. *****The Samsung BIA is a body analyzer that uses bioelectrical impedance analysis (BIA) technology to track body composition based on weight, body fat, body mass index (BMI), skeletal muscle, body water, and basal metabolic rate (BMR) measurements. It is not intended to specifically diagnose or treat a medical condition. ******Compatibility for Galaxy wearable apps: Android 8.0 or later, 1.5GB of RAM. *******44mm Galaxy Watch6 model only. ********Select interchangeable watch bands sold separately.",
+                "parent_asin": "B0CMTNC35D",
+                "price_upper": 169.99,
+                "pricing_str": "New & Used (35) from $129.99$129.99 & FREE Shipping",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B0C792QRW6/ref=dp_olp_ALL_mbc?ie=UTF8&condition=ALL",
+                "manufacturer": "Samsung\u00ae",
+                "max_quantity": 30,
+                "price_buybox": 169.99,
+                "product_name": "SAMSUNG Galaxy Watch 6 40mm Bluetooth Smartwatch, Fitness Tracker, Personalized HR Zones, Advanced Sleep Coaching, Heart Monitor, BIA Sensor, Health Wellness Insights, Big Screen, US Version, Graphite",
+                "sales_volume": "9K+ bought in past month",
+                "amazon_choice": true,
+                "bullet_points": "KEEP YOUR GOALS ON TRACK: Workout to your full potential with fitness tracking* on Galaxy Watch6; Get insights on duration, distance, calories burned and more; Watch recognizes activities from running to swimming and tracks over 90 other exercises\nFIND YOUR ZONE: Zone in on the results you want with personalized heart rate zones**; Watch scans your health data to provide HR zones tailored just for you; Target your preferred intensity to maintain the heart rate needed to achieve your goals\nSLEEP COACH ON YOUR WRIST: Get the insights to develop better sleep habits with Advanced Sleep Coaching*; Use Watch to plan your bedtime, detect snoring*** and understand and track your sleep stages (awake, light, deep, REM)\nALWAYS-ON HEART MONITORING****: Your Watch continually scans your heart rate to inform you when it\u2019s detected an irregular rhythm that might be A-fib \u2014 a heart-related abnormality that can lead to serious complications\nKNOW YOUR BODY INSIDE & OUT: Stay in the know about your body with the advanced BIA sensor*****; Use your Watch to get readings on body fat, skeletal muscle, body water, Body Mass Index (BMI) and more*\nKEEP CONNECTED ON THE GO: Your Watch syncs with your other Galaxy devices seamlessly so you can play your favorite music, control your smartphone camera, make calls, text and do more from anywhere******\nOUR LARGEST WATCH DISPLAY YET: See even more on our largest display yet******* and quickly navigate apps thanks to an improved interface; Plus, durable crystal glass keeps screen looking great and protected from bumps and scratches\nMAKE MOVES IN STYLE: Match any mood or style with a wide variety of bands \u2014 now even easier to swap with one simple click********; Then accent your look with an assortment of new and enhanced Watch faces",
+                "other_sellers": "New & Used (35) from $129.99 & FREE Shipping",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 5701,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "upc": "887276760049",
+                    "asin": "B0C792QRW6",
+                    "brand": "SAMSUNG",
+                    "color": "Graphite",
+                    "language": "English",
+                    "band_color": "Graphite",
+                    "item_shape": "Round",
+                    "model_name": "Galaxy Watch 6",
+                    "sport_type": "Running, Swimming, Fitness",
+                    "style_name": "Bluetooth",
+                    "item_weight": "0.18 Kilograms",
+                    "screen_size": "40 Millimeters",
+                    "closure_type": "Buckle",
+                    "display_type": "AMOLED",
+                    "manufacturer": "SAMSUNG",
+                    "model_number": "SM-R930NZKAXAA",
+                    "warranty_type": "Limited",
+                    "built_in_media": "Watch Strap, Galaxy Watch Charger, Watch Body",
+                    "controller_type": "Android",
+                    "target_audience": "Unisex Adult",
+                    "customer_reviews": "4.5 4.5 out of 5 stars 5,701 ratings 4.5 out of 5 stars",
+                    "operating_system": "Android",
+                    "battery_cell_type": "Lithium Ion",
+                    "best_sellers_rank": "#199 in Electronics (See Top 100 in Electronics) #4 in Smartwatches",
+                    "waterproof_rating": "IP67",
+                    "compatible_devices": "Smartphone",
+                    "additional_features": "Sleep Monitor",
+                    "wireless_compability": "Bluetooth",
+                    "age_range_description": "Adult",
+                    "communication_feature": "Email, Messages, Notification, Phone call",
+                    "human_interface_input": "Touchscreen",
+                    "supported_application": "Sleep Monitor",
+                    "water_resistance_level": "Water Resistant",
+                    "wearable_computer_type": "Smart Watch",
+                    "connectivity_technology": "Bluetooth, Wi-Fi",
+                    "gps_geotagging_functionality": "True"
+                },
+                "featured_merchant": {
+                    "link": "/sp?marketplaceID=ATVPDKIKX0DER&seller=A39YHAI3NCE75F&ref_=dp_merchant_link&asin=B0C792QRW6",
+                    "name": "Celltraders",
+                    "seller_id": "A39YHAI3NCE75F",
+                    "shipped_from": "Celltraders",
+                    "is_amazon_fulfilled": false
+                },
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "discount_percentage": 43,
+                "price_strikethrough": 299.99,
+                "refurbished_product": {
+                    "link": {
+                        "url": "/dp/B0CH3N79WC/ref=dp_cr_wdg_tit_rfb",
+                        "title": "SAMSUNG Galaxy Watch 6 40mm Bluetooth Smartwatch w/ Fitness Tracker, Personalized HR Zones, Advanced Sleep Coaching, Heart Monitor, BIA Sensor, US Version, Graphite (Renewed)"
+                    },
+                    "condition_title": "Buy this product as Renewed and save $30.02 off the current New price."
+                },
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 77
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 11
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 4
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 3
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 5
+                    }
+                ],
+                "frequently_bought_together": [
+                    {
+                        "asin": "B0C792QRW6"
+                    },
+                    {
+                        "asin": "B0CBX6HNXR"
+                    },
+                    {
+                        "asin": "B09CLJPBPK"
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:38:52",
+            "updated_at": "2024-10-17 10:38:57",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B0C792QRW6?th=1&psc=1",
+            "job_id": "7252629132813561857",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:38:52",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252629132813561857",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B0C792QRW6",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:38:57",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252629132813561857",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252629132813561857/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252629132813561857/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252629132813561857/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252629132813561857/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252629132813561857/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252629132813561857/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

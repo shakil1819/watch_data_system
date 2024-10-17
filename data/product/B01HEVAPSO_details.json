@@ -1,0 +1,574 @@
+{
+    "results": [
+        {
+            "content": {
+                "ads": [
+                    {
+                        "pos": 1,
+                        "asin": "B0BL5KRFCD",
+                        "type": "organic_also_viewed",
+                        "price": 49.99,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/51T5Y0RmG-L._AC_SR555,630,0,C_BR3_.jpg",
+                            "https://images-na.ssl-images-amazon.com/images/I/81-Wn97n6DL._AC_SR555,630,0,C_BR3_.jpg",
+                            "https://images-na.ssl-images-amazon.com/images/I/61-ndnw7YtL._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 49.99,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 2,
+                        "asin": "B0BL5KRFCD",
+                        "type": "organic_also_viewed",
+                        "price": 49.99,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/51T5Y0RmG-L._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 49.99,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 3,
+                        "asin": "B07VY1DLLB",
+                        "type": "organic_also_viewed",
+                        "price": 31.99,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/81-Wn97n6DL._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 31.99,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 4,
+                        "asin": "B0B8N8VC72",
+                        "type": "organic_also_viewed",
+                        "price": 86.89,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/61-ndnw7YtL._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 86.89,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    }
+                ],
+                "url": "https://www.amazon.com/dp/B01HEVAPSO?th=1&psc=1",
+                "asin": "B01HEVAPSO",
+                "page": 1,
+                "price": 95,
+                "stock": "In Stock",
+                "title": "Michael Kors Oversized Slim Runway Men's Watch, Stainless Steel Watch for Men",
+                "buybox": [
+                    {
+                        "price": 95,
+                        "stock": "In Stock",
+                        "condition": " Buy new: ",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 95,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/71-32BOYPrL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61kUOokG1GL._AC_SL1000_.jpg",
+                    "https://m.media-amazon.com/images/I/61bm0Jeek9L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61aYNPcqhuL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/81foeHtjskL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/21ZZ2fWg5eL._AC_.jpg",
+                    "https://m.media-amazon.com/images/I/61iYhcRZhkL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61iYhcRZhkL._AC_SL1500_.jpg"
+                ],
+                "rating": 4.7,
+                "_errors": [
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'"
+                ],
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011",
+                                "name": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "url": "/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011",
+                                "name": "Men"
+                            },
+                            {
+                                "url": "/Mens-Watches/b/ref=dp_bc_aui_C_3?ie=UTF8&node=6358539011",
+                                "name": "Watches"
+                            },
+                            {
+                                "url": "/Mens-Wrist-Watches/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6358540011",
+                                "name": "Wrist Watches"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Prime members",
+                            "from": null
+                        },
+                        "type": "Or"
+                    }
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [
+                    {
+                        "asin": "B077SK599F",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Black Mesh"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41jSpUGtDTL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0BZRZSHMT",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Wallet Gift Set"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41IIiXngQ7L._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B07SXCV2V3",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Black/Red Dial"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/31FY0DG+EzL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B06XJNM54R",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Gunmetal/Rose gold"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41yZFTwF0QL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0BG1R15C7",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Gold Mesh Chrono"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41eb2Y8kkyL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B092PV1NYL",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Gunmetal"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41qpwclo0fL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CFVKXP33",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Two Tone/Green"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41AHE5lv3yL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B079G3YPQ9",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Gold/Black"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41J33iBoicL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0B5TJ2HYZ",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Gunmetal & Blue Chrono"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41R7xVD1dcL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CFVL1GQN",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Black Mesh Wallet Gift Set"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41tlGRUegZL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B07CNRQZB8",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Gold Mesh"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41+TkaKUB4L._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B01HEVAPSO",
+                        "selected": true,
+                        "dimensions": {
+                            "Color": "Black"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/31m3kUficAL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0978Q3L4B",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Gold Chrono"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41ol1SA+stL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0B5TKWTXM",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Two Tone Chrono"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/418A9p94sZL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B09CTJJS6N",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Silver Chronograph"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41gnRrKEDkL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B09CTH3BVP",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Black Chronograph"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/317tWuHAfQL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0C7WLGJ1J",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Beige Gold"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/419NgN9Le4L._SS36_.jpg"
+                    }
+                ],
+                "has_videos": false,
+                "sales_rank": [
+                    {
+                        "rank": 11992,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/ref=pd_zg_ts_fashion",
+                                "name": "Clothing, Shoes & Jewelry"
+                            }
+                        ]
+                    },
+                    {
+                        "rank": 17,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/6358540011/ref=pd_zg_hrsr_fashion",
+                                "name": "Men's Wrist Watches"
+                            }
+                        ]
+                    }
+                ],
+                "top_review": "This appears to be a high quality product with a high quality look and feel.  Yes, it's affordable.  The watch is a very nice formal work watch.\n  \nRead more",
+                "asin_in_url": "B01HEVAPSO",
+                "description": "",
+                "parent_asin": "B0CRB9BPVT",
+                "price_upper": 95,
+                "pricing_str": "New & Used (6) from $84.48$84.48 & FREE Shipping.",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B01HEVAPSO/ref=dp_olp_ALL_mbc?ie=UTF8&condition=ALL",
+                "manufacturer": "MichaelKors",
+                "max_quantity": 30,
+                "price_buybox": 95,
+                "product_name": "Michael Kors Oversized Slim Runway Men's Watch, Stainless Steel Watch for Men",
+                "sales_volume": "1K+ bought in past month",
+                "bullet_points": "The black IP Michael Kors Slim Runway watch is polished perfection. A classic three-link bracelet and monochromatic sunray dial with stick indexes add up to a wear-with-everything timepiece that dresses up and down with ease.\nCase & Dial: Round 44mm stainless steel case with a black dial; mineral crystal face resists scratches\nWatch Band: Black stainless steel bracelet band; 22mm band width; links can be removed for a customized fit\nMovement: Quartz movement with three-hand analog display; imported\nWater Resistant: Up to 50m (165ft): Wearable while swimming in shallow water; 5 ATM",
+                "other_sellers": "New & Used (6) from $84.48 & FREE Shipping.",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 11476,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "asin": "B01HEVAPSO",
+                    "batteries": "1 Lithium Metal batteries required.",
+                    "department": "mens",
+                    "manufacturer": "Michael Kors Watches",
+                    "country_of_origin": "China",
+                    "item_model_number": "MK8507",
+                    "product_dimensions": "3.46 x 3.7 x 3.7 inches; 4.23 ounces",
+                    "date_first_available": "March 1, 2024",
+                    "is_discontinued_by_manufacturer": "No"
+                },
+                "featured_merchant": [],
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "product_dimensions": "3.46 x 3.7 x 3.7 inches; 4.23 ounces",
+                "discount_percentage": 53,
+                "price_strikethrough": 200,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 85
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 8
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 3
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 1
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 3
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:38:12",
+            "updated_at": "2024-10-17 10:38:16",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B01HEVAPSO?th=1&psc=1",
+            "job_id": "7252628965750217729",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:38:12",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252628965750217729",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B01HEVAPSO",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:38:16",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252628965750217729",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252628965750217729/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252628965750217729/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252628965750217729/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252628965750217729/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252628965750217729/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252628965750217729/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

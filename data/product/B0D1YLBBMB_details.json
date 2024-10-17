@@ -1,0 +1,890 @@
+{
+    "results": [
+        {
+            "content": {
+                "ads": [
+                    {
+                        "pos": 1,
+                        "asin": "B0CSTJML9X",
+                        "type": "sponsored_products",
+                        "price": 0,
+                        "title": "Apple Watch Series 9 [GPS 41mm] Smartwatch with Midnight Aluminum Case with Midnight Sport Loop One Size. Fitness Tracker, ECG Apps, Always-On Retina Display, Carbon Neutral",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41d6YTpzKWL._AC_UF480,480_SR480,480_.jpg",
+                            "https://m.media-amazon.com/images/I/216-OX9rBaL.png"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 2,
+                        "asin": "B0C7929YMK",
+                        "type": "sponsored_products",
+                        "price": 42,
+                        "title": "SAMSUNG Galaxy Watch 6 44mm Bluetooth Smartwatch, Fitness Tracker, Personalized HR Zones, Advanced Sleep Coaching, Heart Monitor, BIA Sensor for Health Wellness Insights, Big Screen, US Version Silver",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/31pT3iy7meL._AC_UF480,480_SR480,480_.jpg",
+                            "https://m.media-amazon.com/images/I/216-OX9rBaL.png"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 42,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 3,
+                        "asin": "B0DGHYDYMR",
+                        "type": "sponsored_products",
+                        "price": 0,
+                        "title": "Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch, Sport Watch with Black Titanium Case with Black Trail Loop - M/L. Fitness Tracker, Precision GPS, Action Button, Carbon Neutral",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41PRlIHiYsL._AC_UF480,480_SR480,480_.jpg",
+                            "https://m.media-amazon.com/images/I/216-OX9rBaL.png"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 4,
+                        "asin": "B0CHX9N594",
+                        "type": "sponsored_products",
+                        "price": 0,
+                        "title": "Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch with Rugged Titanium Case & Blue Alpine Loop Medium. Fitness Tracker, Precision GPS, Action Button, Extra-Long Battery Life, Carbon Neutral",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/51kn5FCS8NL._AC_UF480,480_SR480,480_.jpg",
+                            "https://m.media-amazon.com/images/I/216-OX9rBaL.png"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 5,
+                        "asin": "B0CN3SMTRG",
+                        "type": "sponsored_products",
+                        "price": 0,
+                        "title": "Samsung Galaxy Watch6 Classic 47mm R960N GPS",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41k0X4O-dgL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 6,
+                        "asin": "B0DGJ4RTVT",
+                        "type": "sponsored_products",
+                        "price": 0,
+                        "title": "Apple Watch SE (2nd Gen) [GPS 40mm] Smartwatch with Aluminum Case with Midnight Sport Loop. Fitness & Sleep Tracker, Crash Detection, Heart Rate Monitor, Retina Display, Carbon Neutral",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41l2p208jwL._AC_UF480,480_SR480,480_.jpg",
+                            "https://m.media-amazon.com/images/I/216-OX9rBaL.png"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 7,
+                        "asin": "B0DGHV6HMS",
+                        "type": "sponsored_products",
+                        "price": 0,
+                        "title": "Apple Watch Series 10 [GPS + Cellular 42mm case] Smartwatch with Natural Titanium Case with Natural Milanese Loop. Fitness Tracker, ECG App, Always-On Retina Display, Carbon Neutral",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/51xe7+7zwZL._AC_UF480,480_SR480,480_.jpg",
+                            "https://m.media-amazon.com/images/I/216-OX9rBaL.png"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 8,
+                        "asin": "B08HMRY8NG",
+                        "type": "sponsored_products",
+                        "price": 0,
+                        "title": "AGPTEK Smart Watch for Women, 5ATM Waterproof Smartwatch for Android and iOS Phones, Fitness Tracker Watch with 100+ Sports Modes, Heart Rate Monitor Pedometer Sleep Monitor, Pink",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/410UqAvgeBL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 9,
+                        "asin": "B0DGHV8NLZ",
+                        "type": "sponsored_products",
+                        "price": 0,
+                        "title": "Apple Watch Series 10 [GPS 42mm case] Smartwatch with Rose Gold Aluminium Case with Plum Sport Loop. Fitness Tracker, ECG App, Always-On Retina Display, Carbon Neutral",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41o9NXsTg6L._AC_UF480,480_SR480,480_.jpg",
+                            "https://m.media-amazon.com/images/I/216-OX9rBaL.png"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 10,
+                        "asin": "B0DG8JCDFQ",
+                        "type": "sponsored_products",
+                        "price": 0,
+                        "title": "SUPCASE for Samsung Galaxy Watch Ultra 47mm Case with Band (Unicorn Beetle Pro), [2 Pack Screen Protector] Rugged Protective Cover with Adjustable Strap Band for Galaxy Watch Ultra, Black",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41mMkIO2XrL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 3.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 1,
+                        "asin": "B0C7929YMK",
+                        "type": "sponsored_products_bottom",
+                        "price": 42,
+                        "title": "SAMSUNG Galaxy Watch 6 44mm Bluetooth Smartwatch, Fitness Tracker, Personalized HR Zones, Advanced Sleep Coaching, Heart Monitor, BIA Sensor for Health Wellness Insights, Big Screen, US Version Silver",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/31pT3iy7meL._AC_UF480,480_SR480,480_.jpg",
+                            "https://m.media-amazon.com/images/I/216-OX9rBaL.png"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 42,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 2,
+                        "asin": "B0DGHP9B6T",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch, Sport Watch with Natural Titanium Case with Natural Titanium Milanese Loop - Medium. Fitness Tracker, Precision GPS, Carbon Neutral",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/51bUZtgbGsL._AC_UF480,480_SR480,480_.jpg",
+                            "https://m.media-amazon.com/images/I/216-OX9rBaL.png"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 3,
+                        "asin": "B0CHX9N594",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch with Rugged Titanium Case & Blue Alpine Loop Medium. Fitness Tracker, Precision GPS, Action Button, Extra-Long Battery Life, Carbon Neutral",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/51kn5FCS8NL._AC_UF480,480_SR480,480_.jpg",
+                            "https://m.media-amazon.com/images/I/216-OX9rBaL.png"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 4,
+                        "asin": "B0CSTJML9X",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Apple Watch Series 9 [GPS 41mm] Smartwatch with Midnight Aluminum Case with Midnight Sport Loop One Size. Fitness Tracker, ECG Apps, Always-On Retina Display, Carbon Neutral",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41d6YTpzKWL._AC_UF480,480_SR480,480_.jpg",
+                            "https://m.media-amazon.com/images/I/216-OX9rBaL.png"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 5,
+                        "asin": "B0DGHV6HMX",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Apple Watch Series 10 [GPS + Cellular 46mm case] Smartwatch with Natural Titanium Case with Natural Milanese Loop - S/M. Fitness Tracker, ECG App, Always-On Retina Display, Carbon Neutral",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/51dNaQlI-uL._AC_UF480,480_SR480,480_.jpg",
+                            "https://m.media-amazon.com/images/I/216-OX9rBaL.png"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 6,
+                        "asin": "B0DGJ75HCG",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Apple Watch SE (2nd Gen) [GPS + Cellular 40mm] Smartwatch with Silver Aluminium Case with Denim Sport Band M/L. Fitness and Sleep Trackers, Crash Detection, Heart Rate Monitor, Retina Display",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/31NQr+G0DkL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 7,
+                        "asin": "B0DGHRBF1J",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Apple Watch SE (2nd Gen) [GPS 44mm] Smartwatch with Aluminum Case with Midnight Sport Loop. Fitness & Sleep Tracker, Crash Detection, Heart Rate Monitor, Retina Display, Carbon Neutral",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41H6446uZLL._AC_UF480,480_SR480,480_.jpg",
+                            "https://m.media-amazon.com/images/I/216-OX9rBaL.png"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 8,
+                        "asin": "B0CN3SMTRG",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Samsung Galaxy Watch6 Classic 47mm R960N GPS",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41k0X4O-dgL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 9,
+                        "asin": "B08HMRY8NG",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "AGPTEK Smart Watch for Women, 5ATM Waterproof Smartwatch for Android and iOS Phones, Fitness Tracker Watch with 100+ Sports Modes, Heart Rate Monitor Pedometer Sleep Monitor, Pink",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/410UqAvgeBL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 10,
+                        "asin": "B0D86VLFXB",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Band Compatible with Samsung Galaxy Watch Ultra 47mm(2024),Metal Stainless Steel Bands Strap Men Women,NOT for Galaxy Watch 7 6 5 4 Band 40mm 44mm 45mm/Watch 6 4 Classic 42mm 46mm 43mm 47mm",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41imai-DTrL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 1,
+                        "asin": "B0D1YL96ND",
+                        "type": "organic_also_viewed",
+                        "price": 519,
+                        "title": "SAMSUNG Galaxy Watch Ultra 47mm LTE AI Smartwatch w/Energy Score, Wellness Tips, Heart Rate Tracking, Sleep Monitor, Fitness Tracker, GPS, 2024,Titanium Gray [US Version, 1Yr Manufacturer Warranty]",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/51LEqBkFViL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.4,
+                        "location": "carousel",
+                        "price_upper": 519,
+                        "reviews_count": 44,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 2,
+                        "asin": "B0C4DJNMP9",
+                        "type": "organic_also_viewed",
+                        "price": 49.95,
+                        "title": "Fitpolo Smart Watches for Women Android & iPhone, Alexa Built-in [1.8\" HD Screen] IP68 Waterproof Fitness Watch with Bluetooth Call (Answer/Make), Heart Rate/Sleep/SpO2 Monitor, 105+ Sports Tracker",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/51E6f0OePfL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.1,
+                        "location": "carousel",
+                        "price_upper": 49.95,
+                        "reviews_count": 41,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 3,
+                        "asin": "B0CZ6NZKS3",
+                        "type": "organic_also_viewed",
+                        "price": 59.99,
+                        "title": "Smart Watches for Men(Answer/Dial Calls),1.43'' AMOLED Always-on Display,Fitness Tracker with Heart Rate/SpO2/Sleep Monitor,400mAh/120 Sports Modes/ IP68 Waterproof Military Smartwatch for IOS Android",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/511zwoxCmrL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.1,
+                        "location": "carousel",
+                        "price_upper": 59.99,
+                        "reviews_count": 41,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 4,
+                        "asin": "B0D6RBZ5K4",
+                        "type": "organic_also_viewed",
+                        "price": 17.99,
+                        "title": "PanPinnacle Band for Galaxy Watch Ultra 47mm(2024),No Gap Metal Bands Compatible with Samsung Galaxy Watch Ultra 47mm for Men &Women Solid Stainless Steel Metal Business Strap",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/51-eePNmCvL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 17.99,
+                        "reviews_count": 45,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 5,
+                        "asin": "B0D2L4RNB1",
+                        "type": "organic_also_viewed",
+                        "price": 39.99,
+                        "title": "Smart Watch, 1.91\"Smartwatch for Men Women (Answer/Make Call), Fitness Tracker with 100+ Sport Modes, IP68 Waterproof, Heart Rate/Sleep Monitor, Spo2, Pedometer, Activity Tracker for Android iOS",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/41jJd-bcCaL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 39.99,
+                        "reviews_count": 40,
+                        "is_prime_eligible": false
+                    }
+                ],
+                "url": "https://www.amazon.com/dp/B0D1YLBBMB?th=1&psc=1",
+                "asin": "B0D1YLBBMB",
+                "page": 1,
+                "price": 522.33,
+                "stock": "In Stock",
+                "title": "SAMSUNG Galaxy Watch Ultra 47mm LTE AI Smartwatch w/Energy Score, Wellness Tips, Heart Rate Tracking, Sleep Monitor, Fitness Tracker, GPS, 2024,Titanium Silver [US Version, 1Yr Manufacturer Warranty]",
+                "buybox": [
+                    {
+                        "price": 522.33,
+                        "stock": "In Stock",
+                        "condition": " Buy new: ",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Wednesday, October 23",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Wednesday, October 23",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 522.33,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Saturday, October 19",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/817QHxxq34L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/91UsPwhnlJL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/714rlGEEZwL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71zfvsrFhrL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71q7B2KO8QL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71SGkSJ07-L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71gtAAKoKFL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/91VKpZBHlwL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/81j2TH+Sg4L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71LYrwpBxPL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61WGpLzX--L._AC_SL1500_.jpg"
+                ],
+                "rating": 4.4,
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011",
+                                "name": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "url": "/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011",
+                                "name": "Men"
+                            },
+                            {
+                                "url": "/Mens-Watches/b/ref=dp_bc_aui_C_3?ie=UTF8&node=6358539011",
+                                "name": "Watches"
+                            },
+                            {
+                                "url": "/Mens-Smartwatches/b/ref=dp_bc_aui_C_4?ie=UTF8&node=14130292011",
+                                "name": "Smartwatches"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Wednesday, October 23",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    }
+                ],
+                "_warnings": [
+                    "Could not parse pricing count.",
+                    "Could not identify ads carousel item with id sp_detail_B0C7929YMK_dealsXbadge-badge",
+                    "Could not identify ads carousel item with id sp_detail_B0C7929YMK_stp-gridRow",
+                    "Could not identify ads carousel item with id sp_detail_B08HMRY8NG_couponBadge",
+                    "Could not identify ads carousel item with id sp_detail_B0DG8JCDFQ_couponBadge",
+                    "Could not identify ads carousel item with id sp_detail2_B0C7929YMK_dealsXbadge-badge",
+                    "Could not identify ads carousel item with id sp_detail2_B0C7929YMK_stp-gridRow",
+                    "Could not identify ads carousel item with id sp_detail2_B08HMRY8NG_couponBadge",
+                    "Could not identify ads carousel item with id sp_detail2_B0D86VLFXB_couponBadge"
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [
+                    {
+                        "asin": "B0D1YP3H4N",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm",
+                            "Color": "Silver",
+                            "Style": "LTE",
+                            "Pattern Name": "Watch7 Only"
+                        }
+                    },
+                    {
+                        "asin": "B0D1YNVD88",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm",
+                            "Color": "Cream",
+                            "Style": "Bluetooth",
+                            "Pattern Name": "Watch7 Only"
+                        }
+                    },
+                    {
+                        "asin": "B0D1YKFV5D",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "47mm",
+                            "Color": "Titanium White",
+                            "Style": "LTE",
+                            "Pattern Name": "Watch Ultra Only"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/21LARtUIvfL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0D1YL9TRK",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm",
+                            "Color": "Silver",
+                            "Style": "Bluetooth",
+                            "Pattern Name": "Watch7 Only"
+                        }
+                    },
+                    {
+                        "asin": "B0D1YP5ZQB",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm",
+                            "Color": "Green",
+                            "Style": "LTE",
+                            "Pattern Name": "Watch7 Only"
+                        }
+                    },
+                    {
+                        "asin": "B0D1YMB2GW",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm",
+                            "Color": "Green",
+                            "Style": "LTE",
+                            "Pattern Name": "Watch7 Only"
+                        }
+                    },
+                    {
+                        "asin": "B0D1YL96ND",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "47mm",
+                            "Color": "Titanium Gray",
+                            "Style": "LTE",
+                            "Pattern Name": "Watch Ultra Only"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/21DnZKTuhGL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0D1YLBBMB",
+                        "selected": true,
+                        "dimensions": {
+                            "Size": "47mm",
+                            "Color": "Titanium Silver",
+                            "Style": "LTE",
+                            "Pattern Name": "Watch Ultra Only"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/21qT4fXH+wL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0D5RKFT91",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm",
+                            "Color": "Green w/ Dark Gray Band",
+                            "Style": "Bespoke",
+                            "Pattern Name": "Watch7 Only"
+                        }
+                    },
+                    {
+                        "asin": "B0D5RKY8WF",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm",
+                            "Color": "Green w/ Navy Band",
+                            "Style": "Bespoke",
+                            "Pattern Name": "Watch7 Only"
+                        }
+                    },
+                    {
+                        "asin": "B0D1YQKDML",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm",
+                            "Color": "Green",
+                            "Style": "Bluetooth",
+                            "Pattern Name": "Watch7 Only"
+                        }
+                    },
+                    {
+                        "asin": "B0D1YQKDNL",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm",
+                            "Color": "Cream",
+                            "Style": "LTE",
+                            "Pattern Name": "Watch7 Only"
+                        }
+                    },
+                    {
+                        "asin": "B0D5RJ92ZJ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm",
+                            "Color": "White",
+                            "Style": "Bespoke",
+                            "Pattern Name": "Watch7 Only"
+                        }
+                    },
+                    {
+                        "asin": "B0D1YQ3MML",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm",
+                            "Color": "Green",
+                            "Style": "Bluetooth",
+                            "Pattern Name": "Watch7 Only"
+                        }
+                    }
+                ],
+                "has_videos": true,
+                "sales_rank": [
+                    {
+                        "rank": 1099,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/electronics/ref=pd_zg_ts_electronics",
+                                "name": "Electronics "
+                            }
+                        ]
+                    },
+                    {
+                        "rank": 8,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/14130292011/ref=pd_zg_hrsr_fashion",
+                                "name": "Men's Smartwatches"
+                            }
+                        ]
+                    },
+                    {
+                        "rank": 23,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/electronics/7939901011/ref=pd_zg_hrsr_electronics",
+                                "name": "Smartwatches"
+                            }
+                        ]
+                    }
+                ],
+                "top_review": "My Galaxy (4) watch was ready for an upgrade!I always do my research and read the reviews before I buy a product. This purchase was no different. I was somewhat concerned with a number of reviewers complaining that the battery was not good and didn't last long. So, I want to address that concern first.With all of my watches I never use the Always on Display function. I realize that the watch faces are beautiful on the Galaxy Screen. However, those beautiful bright LED's use power. If you leave them on all the time you can expect maximum battery drain. I have everything turned on except the AOD. Yesterday I used my watch a lot as I was playing and experimenting with all the cool features. Wore it through the night to monitor my sleep. This morning at 6 a.m. I had used a total of 27 percent of battery power for a 24 hour period! At this rate of power usage I can expect 3+ days of use. Battery life doesn't concern me at all.SETUP (Stars*****)I was expecting to make a trip to my service provider because I use the LTE version. I figured I could do all the setup minus the phone provider portion at home. I was extremely impressed with the setup/switch procedure. Simple, straight forward and quick!I was pleased at how simple and easy the setup was. As soon as I was done I needed to let my dogs out for a walk. While I was out walking the girls my Watch rang! I answered it and had a nice conversation. The switch feature swapped over and set up all of my LTE functions without the need to spend half a day at my phone providers location!DIGITAL RING VERSUS PHYSICAL (Stars *****)I never really liked the physical ring all that much. The new digital ring is awesome! Good job Samsung!CHARGING (Stars *****)Charges extremely fast with the little charger that comes with the watch. This small charger is great for travel. I ordered a couple more.FITNESS (Stars *****)I'm still using them and can only say that so far they are still the award winning excersize App/sensors they have always been.AI (Stars *****)Wow! This opens up a whole new experience with my watch. I use Alexa to do so many things now. The ability to put Alexa on my watch is a real game changer. Don't worry, if you prefer Google assistant you can use that as well.ASTHETICS (Stars *****)I think Samsung could have done a better job with the advertisement pics out there. I was initially disappointed at how the Galaxy 7 looked. When I actually got the watch I happily realized the pics don't do it justice. I think that this is the most aesthetically pleasing watch Samsung has made to date.THE BAND (Stars ***)Nope. I knew I didn't like the watch band it comes with from the pics. If you want an extra you can have mine. I ordered a watch band from Wingle to match the silver of the watch. Wow! They are a perfect match and look gorgeous!I couldn't be happier! What a great Smartwatch. When you pair this watch with the Samsung family of devices it is in a class of it's own!OVERALL: Five Stars!RECOMMEND?: Absolutely YES!\n  \nRead more",
+                "asin_in_url": "B0D1YLBBMB",
+                "buy_it_with": [
+                    {
+                        "asin": "B0D3SNHXQH",
+                        "price": 16.99,
+                        "title": "Spigen Tempered Glass Screen Protector [GlasTR EZ FIT] designed for Galaxy Watch Ultra - 2 Pack"
+                    },
+                    {
+                        "asin": "B0D1ZB16T6",
+                        "price": 79.99,
+                        "title": "SAMSUNG Galaxy Watch Ultra Trail Band, Smartwatch Replacement Strap for Men and Women, One Click Attachment, ET-SVL70MBEGUJ, Dark Gray"
+                    }
+                ],
+                "description": "\u00b9Consistent with 10ATM water-resistance classification (up to 100m of water for up to 10 minutes) and IP68 rating (up to 6 feet of water for up to 30 minutes). Rinse residue / dry after wet. \u00b2Galaxy AI features track data and requires compatible Samsung Galaxy phone, Samsung Health app and Samsung Account. \u00b3Available for outdoor running and cycling only. Must follow the same starting point and path as a workout selected from up to 14 days prior. \u2074The heart rate software functions are not intended for medical use. \u2075Requires compatible smartphone. \u2076Requires network connection to notify emergency contact. GPS accuracy may be affected by obstructions to satellite signal such as buildings. \u2077To activate press Quick Button for 5 seconds; to deactivate press for 3 seconds. \u2078Based on typical use; results may vary. \u00b9\u2070GPS accuracy may be affected by weather, atmosphere and other obstructions such as buildings and tall trees. \u00b9\u00b9Track Back feature leads back to the start of trail for hiking or cycling. Option is only available if you have tracked your route. \u00b9\u00b2Must wear device for 7 nights during a 30 night period. \u00b9\u00b3The Sleep Apnea Feature is an over-the-counter (OTC) software-only, mobile medical application operating on a compatible Samsung Galaxy Watch and phone. This feature is intended to detect signs of moderate to severe obstructive sleep apnea in the form of significant breathing disruptions in adult users 22 years and older, over a two-night monitoring period. It is intended for on-demand use. This feature is not intended for users who have previously been diagnosed with sleep apnea. Users should not use this feature to replace traditional methods of diagnosis and treatment by a qualified clinician. The data provided by this device is also not intended to assist clinicians in diagnosing sleep disorders.",
+                "parent_asin": "B0D8V83LD9",
+                "price_upper": 522.33,
+                "pricing_str": "New & Used (9) from $479.99$479.99 & FREE Shipping",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B0D1YLBBMB/ref=dp_olp_ALL_mbc?ie=UTF8&condition=ALL",
+                "manufacturer": "Samsung\u00ae",
+                "max_quantity": 30,
+                "price_buybox": 522.33,
+                "product_name": "SAMSUNG Galaxy Watch Ultra 47mm LTE AI Smartwatch w/Energy Score, Wellness Tips, Heart Rate Tracking, Sleep Monitor, Fitness Tracker, GPS, 2024,Titanium Silver [US Version, 1Yr Manufacturer Warranty]",
+                "sales_volume": "1K+ bought",
+                "amazon_choice": true,
+                "bullet_points": "RUGGED. RELIABLE. READY FOR ANYTHING: Climb the highest peak; Bike the long way home; The durable titanium design is our toughest yet, able to stand up to the rigors of your workout, including rainy or dusty conditions \u2014 even ocean swimming\u00b9\nUSE YESTERDAY TO BEAT TODAY: Meet your biggest competition \u2014 you; Challenge yourself to perform at your peak on your next run or bike ride using tracking with Galaxy AI\u00b2; It lets you compare your current performance to your last one\u00b3\nKNOW YOUR SCORE. OWN YOUR DAY: Get personalized insights that help you perform at your peak every day; Know your physical readiness using Energy Score with Galaxy AI\u00b2; It calculates a score based on yesterday\u2019s sleep, heart rate and steps\u2074\nPERSONALIZED TIPS TO UNLOCK THE BEST YOU: Stay at your best using daily personalized suggestions from Wellness Tips\u2075; Gain information based on insights collected by your Watch and analyzed on your phone\nMORE PRECISE HEART RATE TRACKING: Zero in on more precise readings during workouts using Heart Rate Tracking with Galaxy AI\u2074 that filters out the physical movements of your body; Insights are collected by your Watch and analyzed on your phone\nREADY, SET, CLICK: Enjoy more control over your workout with a customizable Quick Button\u2076; Choose what you want the button to do \u2014 start, pause or end your workout; You can even activate an emergency siren\u2077 for added peace of mind on the go\nOUR LONGEST-LASTING WATCH BATTERY EVER: From Monday morning runs to Thursday night basketball \u2014 our longest-lasting Watch battery ever goes up to 100 hours on a single charge\u2078\nYOUR SHORTCUT TO STAYING IN TOUCH: Easily stay in touch using Smart Reply with Galaxy AI; It offers quick text reply suggestions based on the context of your conversation\u2079\nYOUR GUIDE TO OUTDOOR ADVENTURE: Take the long trail and get help finding your way back home again. Navigate with confidence during your run or bike ride using GPS that keeps you on the right path\u00b9\u2070 \u00b9\u00b9\nUNLOCK YOUR SLEEPING A GAME: Sleep tracking\u00b9\u00b2 with Galaxy AI\u00b2 helps put you on the path to feeling well rested; Your watch tracks your sleep & offers personalized tips to help improve how you rest & helps detect moderate to severe sleep apnea\u00b9\u00b3",
+                "other_sellers": "New & Used (9) from $479.99 & FREE Shipping",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 541,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "asin": "B0D1YLBBMB",
+                    "color": "Titanium Silver",
+                    "department": "mens",
+                    "item_weight": "1.04 pounds",
+                    "manufacturer": "SAMSUNG",
+                    "customer_reviews": "4.4 4.4 out of 5 stars 541 ratings 4.4 out of 5 stars",
+                    "special_features": "Touchscreen, Lightweight",
+                    "whats_in_the_box": "Watch Strap, Galaxy Watch Charger, Watch Body",
+                    "best_sellers_rank": "#1,099 in Electronics (See Top 100 in Electronics) #8 in Men's Smartwatches #23 in Smartwatches",
+                    "country_of_origin": "Vietnam",
+                    "package_dimensions": "7.68 x 2.76 x 2.13 inches",
+                    "date_first_available": "July 10, 2024",
+                    "other_display_features": "Wireless",
+                    "connectivity_technologies": "Cellular, Bluetooth"
+                },
+                "featured_merchant": {
+                    "link": "/sp?marketplaceID=ATVPDKIKX0DER&seller=A39YHAI3NCE75F&ref_=dp_merchant_link&asin=B0D1YLBBMB",
+                    "name": "Celltraders",
+                    "seller_id": "A39YHAI3NCE75F",
+                    "shipped_from": "Celltraders",
+                    "is_amazon_fulfilled": false
+                },
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "discount_percentage": 20,
+                "price_strikethrough": 649.99,
+                "refurbished_product": {
+                    "link": {
+                        "url": "/dp/B0DJPVD6KM/ref=dp_cr_wdg_tit_rfb",
+                        "title": "SAMSUNG Galaxy Watch Ultra 47mm LTE AI Smartwatch w/Energy Score, Wellness Tips, Heart Rate Tracking, Sleep Monitor, Fitness Tracker, GPS, 2024,Titanium Silver (Renewed)"
+                    },
+                    "condition_title": "Buy this product as Renewed and save $55.34 off the current New price."
+                },
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 69
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 15
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 6
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 4
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 7
+                    }
+                ],
+                "frequently_bought_together": [
+                    {
+                        "asin": "B0D1YLBBMB"
+                    },
+                    {
+                        "asin": "B0D3SNHXQH"
+                    },
+                    {
+                        "asin": "B0D1ZB16T6"
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:42:20",
+            "updated_at": "2024-10-17 10:42:25",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B0D1YLBBMB?th=1&psc=1",
+            "job_id": "7252630005115549697",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:42:20",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252630005115549697",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B0D1YLBBMB",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:42:25",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252630005115549697",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252630005115549697/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252630005115549697/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252630005115549697/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252630005115549697/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252630005115549697/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252630005115549697/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

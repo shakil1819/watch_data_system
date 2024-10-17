@@ -1,0 +1,562 @@
+{
+    "results": [
+        {
+            "content": {
+                "ads": [
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": 1,
+                        "asin": "B0D91268TH",
+                        "type": "organic_also_viewed",
+                        "price": 399.99,
+                        "title": "Google Pixel Watch 3 (45mm) - Android Smartwatch with Heart Rate Tracking, Advanced Running from Fitbit, Fitness Insights, 24-Hour Battery - Matte Black Aluminum Case - Obsidian Band - Wi-Fi",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/312HlzE5ycL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 3.7,
+                        "location": "carousel",
+                        "price_upper": 399.99,
+                        "reviews_count": 37,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 2,
+                        "asin": "B0CYBVPW33",
+                        "type": "organic_also_viewed",
+                        "price": 29.99,
+                        "title": "Smart Watch for Men Women (Answer/Make Call), 2024 HD 1.91\"Smartwatch Fitness Activity Tracker, 110+ Sports IP68 Waterproof, Heart Rate/Sleep Monitor/Pedometer/Calories, Fitness Watch for Android iOS",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/419rFkR72-L._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 3.9,
+                        "location": "carousel",
+                        "price_upper": 29.99,
+                        "reviews_count": 39,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 3,
+                        "asin": "B0C4DJNMP9",
+                        "type": "organic_also_viewed",
+                        "price": 49.95,
+                        "title": "Fitpolo Smart Watches for Women Android & iPhone, Alexa Built-in [1.8\" HD Screen] IP68 Waterproof Fitness Watch with Bluetooth Call (Answer/Make), Heart Rate/Sleep/SpO2 Monitor, 105+ Sports Tracker",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/51E6f0OePfL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.1,
+                        "location": "carousel",
+                        "price_upper": 49.95,
+                        "reviews_count": 41,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 4,
+                        "asin": "B0CNRLBWZ8",
+                        "type": "organic_also_viewed",
+                        "price": 56.99,
+                        "title": "Smart Watch for Men Women, 1.8\" Fitness Tracker, Android iPhone Compatible Alexa Built-in, with Heart Rate SpO2 Sleep Monitor, IP68 Waterproof, Answer/Make Calls, 120+ Sports Mode",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/41qUS6ji83L._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.2,
+                        "location": "carousel",
+                        "price_upper": 56.99,
+                        "reviews_count": 42,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 5,
+                        "asin": "B0CZNX1YBK",
+                        "type": "organic_also_viewed",
+                        "price": 39.99,
+                        "title": "Smart Watch, 1.91\"Smartwatch for Men Women (Answer/Make Call), Fitness Tracker with 100+ Sport Modes, IP68 Waterproof, Heart Rate/Sleep Monitor, Spo2, Pedometer, Activity Tracker for Android iOS",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/41BJrdkzLfL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 39.99,
+                        "reviews_count": 40,
+                        "is_prime_eligible": false
+                    }
+                ],
+                "url": "https://www.amazon.com/dp/B0CCQ7DNQL?th=1&psc=1",
+                "asin": "B0CCQ7DNQL",
+                "page": 1,
+                "brand": "Google",
+                "price": 215.66,
+                "stock": "In Stock",
+                "title": "Google Pixel Watch 2 with the Best of Fitbit and Google - Heart Rate Tracking, Stress Management, Safety Features - Android Smartwatch - Matte Black Aluminum Case - Obsidian Active Band - Wi-Fi",
+                "buybox": [
+                    {
+                        "price": 215.66,
+                        "stock": "In Stock",
+                        "condition": " Buy new: ",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 215.66,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/61o0uYV9-EL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61Md2BxBnPL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61aBSu-zvVL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61cjeIjVYdL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/81uYwfvskKL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/81-d4HJsLfL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/812gK7zkO8L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/81dTPEl1GDL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/815sogp5hcL._AC_SL1500_.jpg"
+                ],
+                "rating": 4.2,
+                "_errors": [
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'"
+                ],
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/electronics-store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=172282",
+                                "name": "Electronics"
+                            },
+                            {
+                                "url": "/Wearable-Technology/b/ref=dp_bc_aui_C_2?ie=UTF8&node=10048700011",
+                                "name": "Wearable Technology"
+                            },
+                            {
+                                "url": "/smart-watches/b/ref=dp_bc_aui_C_3?ie=UTF8&node=7939901011",
+                                "name": "Smartwatches"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Prime members",
+                            "from": null
+                        },
+                        "type": "Or"
+                    }
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [
+                    {
+                        "asin": "B0CCQQ83SG",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Silver Case - Bay Active Band - LTE",
+                            "Style": "LTE"
+                        }
+                    },
+                    {
+                        "asin": "B0CCQDYY8X",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Silver Case - Bay Active Band - Wi-Fi",
+                            "Style": "WiFi"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/31bOW0wKONL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CCQP15WS",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Gold Aluminum Case - Hazel Active Band - LTE",
+                            "Style": "LTE"
+                        }
+                    },
+                    {
+                        "asin": "B0CCQ6SWQN",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Black Aluminum Case - Obsidian Active Band - LTE",
+                            "Style": "LTE"
+                        }
+                    },
+                    {
+                        "asin": "B0CCQ7DNQL",
+                        "selected": true,
+                        "dimensions": {
+                            "Color": "Black Case w/ Black Band - WiFi",
+                            "Style": "WiFi"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/31kCnIEsDBL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CCQFL1XV",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Gold Case w/ Hazel Band - WiFi",
+                            "Style": "WiFi"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/31iDotBsETL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CCQG9SRP",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Silver Case - Porcelain Active Band - LTE",
+                            "Style": "LTE"
+                        }
+                    },
+                    {
+                        "asin": "B0CCQ4BX4T",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Silver Case - Porcelain Active Band - Wi-Fi",
+                            "Style": "WiFi"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/31kZ9Sif3LL._SS36_.jpg"
+                    }
+                ],
+                "has_videos": true,
+                "sales_rank": [],
+                "top_review": "Great notification functionalities, Fast and accurate HR, GPS and run tracking and call accept and reject, is a nifty feature that comes in handy. Useful, light and unobtrusive,Two things I don't like are 1) Battery Life I have to charge every day. 2) Charging Cable It has a special, unique charging cable and only one come with it.\n  \nRead more",
+                "asin_in_url": "B0CCQ7DNQL",
+                "buy_it_with": [
+                    {
+                        "asin": "B0CM6C6FV8",
+                        "price": 9.96,
+                        "title": "Misxi 2 Pack Hard PC Case with Screen Protector Compatible with Google Pixel Watch 2 (2023) / Pixel Watch 41mm, High Sensitivity Lightweight Anti-Fall Cover for Pixel Watch, Black"
+                    },
+                    {
+                        "asin": "B0BJKBJHRM",
+                        "price": 9.99,
+                        "title": "EGV 6 Pack for Google Pixel Watch 3 41MM Screen Protector/Pixel Watch 2 Screen Protector, TPU Film [Self-Healing], Anti-Scratch, Ultra-Thin for Pixel Watch Series 3/2/1 Screen Protector"
+                    }
+                ],
+                "description": "The Google Pixel Watch 2 combines the best of Google and Fitbit.[1] Understand your health and fitness with Fitbit\u2019s most advanced heart rate tracking yet.[4,5] Use your favorite Google apps at a glance, including Gmail and Calendar, and get peace of mind from personal safety features.[15,24] And keep going with even longer battery life.[6,7]",
+                "parent_asin": "B0CH8CCT93",
+                "price_upper": 215.66,
+                "pricing_str": "New & Used (8) from $136.66$136.66 & FREE Shipping.",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B0CCQ7DNQL/ref=dp_olp_ALL_mbc?ie=UTF8&condition=ALL",
+                "manufacturer": "GoogleLLC",
+                "max_quantity": 30,
+                "price_buybox": 215.66,
+                "product_name": "Google Pixel Watch 2 with the Best of Fitbit and Google - Heart Rate Tracking, Stress Management, Safety Features - Android Smartwatch - Matte Black Aluminum Case - Obsidian Active Band - Wi-Fi",
+                "sales_volume": "2K+ bought in past month",
+                "bullet_points": "The Pixel Watch 2 comes with three new advanced sensors for heart rate tracking, skin temperature, and stress management[1,2]; 100% recycled light aluminum housing makes it comfortable to wear[3]\nThe all-new heart rate sensor and Google AI combine for Fitbit\u2019s most spot-on heart rate tracking yet[4], so you can get more precise health and fitness info[5]\nGo even longer with the enhanced 24-hour battery and always-on display[6,7]; charge for 75 minutes to get a full day of battery life[8]\nIdentify potential signs of stress with Fitbit\u2019s body-response feature, so you can manage it in the moment[5]; and track variations in your skin temperature, blood oxygen levels, and sleep to help you spot possible changes[5,9,10]\nGet help with Emergency SOS and Fall Detection if you\u2019re feeling unsafe or if you\u2019ve had a hard fall[11,12]; and Safety Check alerts your close contacts if you don\u2019t respond to a set check-in timer[13]\nAssess your heart rhythm for atrial fibrillation with the ECG app and easily share results with your doctor[5,14]\nStay on top of your workouts with features like Auto Workout mode and Heart Zone Training[5]; plus, set a goal with Pace Training when running to get real-time feedback[5]\nYour favorite Google apps, like Google Calendar, Maps, Gmail and more, are designed for the Pixel Watch 2, so you can easily respond to texts and emails, answer calls, and listen to songs and podcasts from anywhere[15]\nFast Pair makes it easy to connect Pixel devices with each other[16]; listen to music on the run with Pixel Buds, and control your Pixel Camera and Nest devices right from your watch[16,17]\nPlease refer to the Legal section below for all applicable legal disclaimers denoted by the bracketed numbers in the preceding bullet points (e.g., [1], [2], etc.)",
+                "other_sellers": "New & Used (8) from $136.66 & FREE Shipping.",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 1174,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "upc": "840353900721",
+                    "asin": "B0CCQ7DNQL",
+                    "brand": "Google",
+                    "color": "Black Case w/ Black Band - WiFi",
+                    "band_color": "black",
+                    "item_shape": "Round",
+                    "model_name": "Google Pixel Watch 2",
+                    "style_name": "WiFi",
+                    "item_weight": "0.22 Kilograms",
+                    "screen_size": "41 Millimeters",
+                    "manufacturer": "Google",
+                    "model_number": "G4TSL / GQ6H2",
+                    "controller_type": "Voice Control",
+                    "item_dimensions": "7.82 x 1.72 x 0.55 inches",
+                    "target_audience": "Unisex Adults",
+                    "customer_reviews": "4.2 4.2 out of 5 stars 1,174 ratings 4.2 out of 5 stars",
+                    "operating_system": "android",
+                    "battery_cell_type": "Lithium Ion",
+                    "best_sellers_rank": "#2,047 in Electronics (See Top 100 in Electronics) #52 in Smartwatches",
+                    "case_material_type": "Aluminum",
+                    "compatible_devices": "Android Devices",
+                    "additional_features": "Always On Display",
+                    "battery_charge_time": "75 minutes",
+                    "wireless_compability": "802.11ac",
+                    "age_range_description": "Baby",
+                    "communication_feature": "[HAS_COMMUNICATION_FEATURE]",
+                    "human_interface_input": "Touchscreen",
+                    "supported_application": "Heart Rate Monitor",
+                    "wearable_computer_type": "Smart Watch",
+                    "compatible_phone_models": "Google Pixel",
+                    "connectivity_technology": "Wi-Fi",
+                    "gps_geotagging_functionality": "GPS Via Smartphone"
+                },
+                "featured_merchant": [],
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "discount_percentage": 14,
+                "price_strikethrough": 249.99,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 65
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 13
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 7
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 5
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 10
+                    }
+                ],
+                "frequently_bought_together": [
+                    {
+                        "asin": "B0CCQ7DNQL"
+                    },
+                    {
+                        "asin": "B0CM6C6FV8"
+                    },
+                    {
+                        "asin": "B0BJKBJHRM"
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:48:42",
+            "updated_at": "2024-10-17 10:48:46",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B0CCQ7DNQL?th=1&psc=1",
+            "job_id": "7252631606853122049",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:48:42",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252631606853122049",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B0CCQ7DNQL",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:48:46",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252631606853122049",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252631606853122049/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631606853122049/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252631606853122049/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631606853122049/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252631606853122049/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631606853122049/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

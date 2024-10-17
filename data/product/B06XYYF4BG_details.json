@@ -1,0 +1,406 @@
+{
+    "results": [
+        {
+            "content": {
+                "ads": [
+                    {
+                        "pos": 1,
+                        "asin": "B0743S83GR",
+                        "type": "organic_also_viewed",
+                        "price": 39.99,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/81pSPFK9AuL._AC_SR555,630,0,C_BR3_.jpg",
+                            "https://images-na.ssl-images-amazon.com/images/I/81a5MbUbfwL._AC_SR555,630,0,C_BR3_.jpg",
+                            "https://images-na.ssl-images-amazon.com/images/I/81q1LG+t3jL._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 39.99,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 2,
+                        "asin": "B0743S83GR",
+                        "type": "organic_also_viewed",
+                        "price": 39.99,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/81pSPFK9AuL._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 39.99,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 3,
+                        "asin": "B08PW5TXJ2",
+                        "type": "organic_also_viewed",
+                        "price": 55.07,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/81a5MbUbfwL._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 55.07,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 4,
+                        "asin": "B0BLJ4MK7Q",
+                        "type": "organic_also_viewed",
+                        "price": 114.4,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/81q1LG+t3jL._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 114.4,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    }
+                ],
+                "url": "https://www.amazon.com/dp/B06XYYF4BG?th=1&psc=1",
+                "asin": "B06XYYF4BG",
+                "page": 1,
+                "price": 254.95,
+                "stock": "In Stock",
+                "title": "Citizen Men's Eco-Drive Weekender Brycen Chronograph Watch in Stainless Steel, Brown Leather strap, Ivory Dial (Model: CA0649-06X)",
+                "buybox": [
+                    {
+                        "price": 254.95,
+                        "stock": "In Stock",
+                        "condition": " Buy new: ",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 254.95,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Saturday, October 19",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            },
+                            {
+                                "date": {
+                                    "by": "Tomorrow, October 18",
+                                    "from": null
+                                },
+                                "type": "Or fastest pickup"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/81-K8IkjzVL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71ZYIh6F32L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/81N1JrMm1GL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/713wNkKjaCL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71dBNYzz4HL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71p5kTSu6WL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/713ujyaauaL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71I7lWZTjzL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61YticqdZ9L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/81gj9T9ApSL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71plk2CibtL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61SV6iOhYGL._AC_SL1500_.jpg"
+                ],
+                "rating": 4.6,
+                "_errors": [
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'"
+                ],
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011",
+                                "name": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "url": "/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011",
+                                "name": "Men"
+                            },
+                            {
+                                "url": "/Mens-Watches/b/ref=dp_bc_aui_C_3?ie=UTF8&node=6358539011",
+                                "name": "Watches"
+                            },
+                            {
+                                "url": "/Mens-Wrist-Watches/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6358540011",
+                                "name": "Wrist Watches"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    }
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [],
+                "has_videos": false,
+                "sales_rank": [
+                    {
+                        "rank": 287831,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/ref=pd_zg_ts_fashion",
+                                "name": "Clothing, Shoes & Jewelry"
+                            }
+                        ]
+                    },
+                    {
+                        "rank": 892,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/6358540011/ref=pd_zg_hrsr_fashion",
+                                "name": "Men's Wrist Watches"
+                            }
+                        ]
+                    }
+                ],
+                "top_review": "Beautiful watch - great quality item!\n  \nRead more",
+                "asin_in_url": "B06XYYF4BG",
+                "description": "Choose the newly designed CITIZEN Brycen timepiece, powered by light, with distinguished features sure to stand out on your wrist. This stylish watch in a stainless steel case with black aluminum plated bezel, hickory brown leather strap with light brown dial, features 1/5-second chronograph measuring up to 60 minutes, 12/24-hour time and date. Featuring our Eco-Drive technology \u2013 powered by light, any light. Never needs a battery. Caliber number B612. \u200b Since its foundation in 1930, CITIZEN has promoted a multi-cultural mindset that fosters excellence and creativity. The very name of the brand conveys a deep respect toward craftsmanship and considered as familiar by citizens the world-over. So as a \u201ccitizen\u201d of the world, we bear the responsibility to help cultivate a culture of positive change and on-going evolution through our craft. We take that mission seriously and steadfastly welcome what the future may bring. As a true manufacture d\u2019horlogerie, CITIZEN integrates a comprehensive manufacturing process from creating individual components to a watch\u2019s final assembly. It\u2019s an artisan\u2019s approach to watch making based on pushing forward the boundaries of technology and leveraging our experience toward exploring new possibilities. One pivotal technological breakthrough was the development of a light-driven watch. CITIZEN pioneered this engineering innovation well ahead of other watch manufacturers as early as 1976, which led to the launch of the highly acclaimed Eco-Drive in 1995. Utilizing electrical power converted from virtually any light source, this extraordinary innovation changed forever the way watches could be powered. Eco-Drive eliminated the need to ever replace batteries, which made it especially beneficial to areas where such specialist batteries were not obtainable. This leveled the field for citizens of virtually every country to be able to experience unrestricted joy of wearing and using a CITIZEN watch. The product development policy, \u201cThe Fusion of Technology and Beauty,\u201d remains a constant motivation for us to merge cutting-edge technology with perfection of design beauty, which as a consequence inspires people to strive to be their best at any time. CITIZEN launches a new campaign in collaboration with Wieden+Kennedy, Better Starts Now. This is the simple belief that no matter who you are or what you do, it is always possible to make something better \u2014 and now is the time to start doing it. We believe that better and now are both infinite, and that there is always a next \u2018better\u2019 and a new \u2018now\u2019 in which you can start pursuing it. It was clear from the onset of this project that we are dedicated to this ideal\u2026not to the past but to the present, and all the way we can improve it. To help communicate this belief to the world we have created a new global CITIZEN brand movie, brand identity and brand website that represents out Better Starts Now philosophy.",
+                "parent_asin": "B06XYYF4BG",
+                "price_upper": 254.95,
+                "pricing_str": "New & Used (3) from $242.69$242.69 & FREE Shipping.",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B06XYYF4BG/ref=dp_olp_ALL_mbc?ie=UTF8&condition=ALL",
+                "manufacturer": "Citizen",
+                "max_quantity": 30,
+                "price_buybox": 254.95,
+                "product_name": "Citizen Men's Eco-Drive Weekender Brycen Chronograph Watch in Stainless Steel, Brown Leather strap, Ivory Dial (Model: CA0649-06X)",
+                "sales_volume": "200+ bought in past month",
+                "bullet_points": "Men's luxury timepieces with technical advancements and a sporty style\n1/5 Second Chronograph Measures up to 60 Minutes, 12/24 Hour Time, Date\nSilver-Tone Stainless Steel\nLuminous Hands and Mineral Crystal\n100 Meters Water Resistant and 5 Year Limited Warranty",
+                "other_sellers": "New & Used (3) from $242.69 & FREE Shipping.",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 1865,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "asin": "B06XYYF4BG",
+                    "batteries": "1 Product Specific batteries required.",
+                    "department": "mens",
+                    "manufacturer": "Citizen Watch Company",
+                    "country_of_origin": "Japan",
+                    "item_model_number": "CA0649-06X",
+                    "product_dimensions": "5 x 5 x 0.7 inches; 0.01 ounces",
+                    "date_first_available": "June 12, 2017",
+                    "is_discontinued_by_manufacturer": "No"
+                },
+                "featured_merchant": [],
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "product_dimensions": "5 x 5 x 0.7 inches; 0.01 ounces",
+                "discount_percentage": 35,
+                "price_strikethrough": 395,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 77
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 14
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 5
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 1
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 2
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:51:21",
+            "updated_at": "2024-10-17 10:51:25",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B06XYYF4BG?th=1&psc=1",
+            "job_id": "7252632273340604418",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:51:21",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252632273340604418",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B06XYYF4BG",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:51:25",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252632273340604418",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252632273340604418/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252632273340604418/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252632273340604418/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252632273340604418/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252632273340604418/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252632273340604418/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

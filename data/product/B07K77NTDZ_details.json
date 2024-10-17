@@ -1,0 +1,419 @@
+{
+    "results": [
+        {
+            "content": {
+                "ads": [
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    }
+                ],
+                "url": "https://www.amazon.com/dp/B07K77NTDZ?th=1&psc=1",
+                "asin": "B07K77NTDZ",
+                "page": 1,
+                "brand": "LYMFHCH",
+                "price": 15.45,
+                "stock": "In Stock",
+                "title": "LYMFHCH Men's Digital Watch, Sports Waterproof Military Watches for Men LED Casual Stopwatch Alarm Tactical Army Watch",
+                "buybox": [
+                    {
+                        "price": 15.45,
+                        "stock": "In Stock",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 15.45,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/61AepCrYDOL._AC_SL1067_.jpg",
+                    "https://m.media-amazon.com/images/I/61oRQFT3MrL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71PEATT0kDL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61fFsA1doTL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61Bktgz1XKL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71YhlzlsF8L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61yQnUJMgKL._AC_SL1000_.jpg",
+                    "https://m.media-amazon.com/images/I/61oRQFT3MrL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61AepCrYDOL._AC_SL1067_.jpg"
+                ],
+                "rating": 4.5,
+                "_errors": [
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'"
+                ],
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011",
+                                "name": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "url": "/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011",
+                                "name": "Men"
+                            },
+                            {
+                                "url": "/Mens-Watches/b/ref=dp_bc_aui_C_3?ie=UTF8&node=6358539011",
+                                "name": "Watches"
+                            },
+                            {
+                                "url": "/Mens-Wrist-Watches/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6358540011",
+                                "name": "Wrist Watches"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Prime members",
+                            "from": null
+                        },
+                        "type": "Or"
+                    }
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [
+                    {
+                        "asin": "B07K77NTDZ",
+                        "selected": true,
+                        "dimensions": {
+                            "Band Color": "Black"
+                        }
+                    }
+                ],
+                "has_videos": false,
+                "sales_rank": [
+                    {
+                        "rank": 51513,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/ref=pd_zg_ts_fashion",
+                                "name": "Clothing, Shoes & Jewelry"
+                            }
+                        ]
+                    },
+                    {
+                        "rank": 81,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/6358540011/ref=pd_zg_hrsr_fashion",
+                                "name": "Men's Wrist Watches"
+                            }
+                        ]
+                    }
+                ],
+                "top_review": "I recently purchased the LYMFHCH Men's Digital Watch, and it has exceeded my expectations in every way. This watch is a fantastic blend of style and functionality. The design is sleek, with a sporty and rugged look that complements both casual and outdoor attire perfectly.The watch's durability is top-notch, and its waterproof feature has proven invaluable in various situations. Whether I'm caught in the rain or need to track time during water-based activities, this watch can handle it all without missing a beat.The LED display is clear and easy to read, and the stopwatch feature is a handy addition for my outdoor adventures and workouts. I appreciate the versatility and reliability of this timepiece, which is further accentuated by its shock-resistant build.The best part is that this watch comes at an incredibly affordable price point for the quality and features it offers. If you're in the market for a sports watch that performs exceptionally well and looks great on your wrist, the LYMFHCH Men's Digital Watch is a five-star choice. I'm extremely satisfied with this purchase and highly recommend it to others.\n  \nRead more",
+                "asin_in_url": "B07K77NTDZ",
+                "buy_it_with": [
+                    {
+                        "asin": "B082X7DM3R",
+                        "price": 17.99,
+                        "title": "Beeasy Digital Watch Waterproof with Stopwatch Alarm Countdown Dual Time, Ultra-Thin Super Wide-Angle Display Digital Wrist Watches for Men Women"
+                    },
+                    {
+                        "asin": "B0B4V76LFG",
+                        "price": 14.39,
+                        "title": "GOLDEN HOUR Ultra-Thin Minimalist Sports Waterproof Digital Watches Men with Wide-Angle Display Rubber Strap Wrist Watch for Men Women"
+                    }
+                ],
+                "description": "Main Features: - LED digital military watch designed for men. - Equipped with alarm, day, date and stopwatch function. - Can see the time clearly in the dark with back-light. - Taiwan IC chipset, time goes precisely. - Imported PC case and highly transparent resin mirror, sturdy in structure. - PU band and highly transparent resin mirror, soft to wear. - 5ATM water resistant is convenient for daily life. - This is a good present for your relatives and friends. About Water-resistant Watches Water Resistant Watches are sealed to withstand some pressure. Water resistance is tested in measurements of atmosphere (ATM). Each ATM denotes 10 meters of static water pressure. This is not the depth to which a watch can be worn. Many watch cases will list the basic measurement of 1 ATM as \"water-resistant.\" These watches will withstand small splashes of water but should not be worn while washing the hands or submerging the hands in water. Remember, water resistance is tested under static conditions. Wearing a watch which is 50 metres water resistant to water will expose the watch to a much greater pressure than during a 50-metre static test. Therefore the number of metres shown on the watch does not indicate the depth that the watch can be taken to. Here is a general guide 50M = 5ATM = Shower Proof - it's ok to get it wet a bit. 100M = 10ATM = Extended Water Exposure good for swimming or snorkeling. 200M = 20ATM = Pressure Resistant made for Scuba and Skin Diving.",
+                "parent_asin": "B0BHMRZ9N5",
+                "price_upper": 15.45,
+                "pricing_str": "",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B07K77NTDZ?startIndex=0",
+                "manufacturer": "LYMFHCH",
+                "max_quantity": 10,
+                "price_buybox": 15.45,
+                "product_name": "LYMFHCH Men's Digital Watch, Sports Waterproof Military Watches for Men LED Casual Stopwatch Alarm Tactical Army Watch",
+                "sales_volume": "1K+ bought in past month",
+                "amazon_choice": true,
+                "bullet_points": "Digital watch: Hourly time, Date/Week, Luminous, Stopwatch(1/100 seconds), Alarm, 12/24 hour formart. Use import EL Lamp, Press\"LIGHT\"button to see the time clearly in the light, easy to read.\nMens watch: Appeals to mens, especially to those who like doing sports, shock resistant, stop watch, military 24H time mode, and LED back light functions make it perfect for all kind of sport and daily use\nStainless steel clasp and back plate will bring you excellent wearing experience.\nSports stylish design,resin bezel and case,wearproof and lightweight. big digital back light display.\nWaterproof watch: 164FT/50M WATERPROOF: Can't wear swimming and taking a hot bath. Because the general watch uses a sealing method to prevent the intrusion of sweat and harmful gases, it is not absolutely not water. only wash hands, shower, Satisfy daily use. NOTE: *Please don't press any buttons under water*",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 2620,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "asin": "B0BHMRZ9N5",
+                    "department": "mens",
+                    "manufacturer": "LYMFHCH",
+                    "date_first_available": "October 8, 2022"
+                },
+                "featured_merchant": {
+                    "link": "/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A5NVCDVJYTJQ&asin=B07K77NTDZ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+                    "name": "LYMFHCH",
+                    "seller_id": "A5NVCDVJYTJQ",
+                    "shipped_from": "Amazon",
+                    "is_amazon_fulfilled": true
+                },
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 71
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 16
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 6
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 3
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 4
+                    }
+                ],
+                "frequently_bought_together": [
+                    {
+                        "asin": "B07K77NTDZ"
+                    },
+                    {
+                        "asin": "B082X7DM3R"
+                    },
+                    {
+                        "asin": "B0B4V76LFG"
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:51:38",
+            "updated_at": "2024-10-17 10:51:42",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B07K77NTDZ?th=1&psc=1",
+            "job_id": "7252632346208258049",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:51:38",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252632346208258049",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B07K77NTDZ",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:51:42",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252632346208258049",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252632346208258049/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252632346208258049/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252632346208258049/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252632346208258049/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252632346208258049/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252632346208258049/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

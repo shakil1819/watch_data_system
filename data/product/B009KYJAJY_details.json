@@ -1,0 +1,492 @@
+{
+    "results": [
+        {
+            "content": {
+                "ads": [
+                    {
+                        "pos": 1,
+                        "asin": "B0D4TVDJ11",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Perry Ellis Solar Powered Mens Watch | Alloy Bracelet | Water-Resistant Analog Wrist Watches for Men | 42mm Case | Relojes para Hombres | Elegant Gift for Man (Silver)",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41kDxCLhOuL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 2,
+                        "asin": "B000820YBU",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Invicta Men's 0070 \"Pro Diver Collection\" Stainless Steel and Blue Dial Watch",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41ccYGeX4tL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 3,
+                        "asin": "B0D4THZZ7C",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Perry Ellis Solar Powered Mens Watch | Alloy Bracelet | Water-Resistant Analog Wrist Watches for Men | 42mm Case | Relojes para Hombres | Elegant Gift for Man (Gun)",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41YduhesYKL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 4,
+                        "asin": "B0D4TY7P1X",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Perry Ellis Solar Powered Mens Watch | Vegan Leather Water-Resistant Analog Wrist Watches for Men | 42mm Case | Relojes para Hombres | Elegant Gift for Man (Green)",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41K16-P8DSL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 5,
+                        "asin": "B0CQ2LZ2YG",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "BENYAR AKNIGHT Mens Watches 45mm Big Face Waterproof Analog Quartz Chronograph Business Work Sport Casual Fashion Designer Dress Men's Wrist Watches with Calendar, Luminous Hand Watch for Men",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/51aGireYoLL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 6,
+                        "asin": "B0CVR4BXBH",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Invicta Pro Diver Men 47mm Stainless Steel Steel Blue dial NH35A Automatic",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41zSupl1kRL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 7,
+                        "asin": "B0CTJ8NGGL",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Invicta Pro Diver Men 48mm Stainless Steel Steel Blue dial VD53 Quartz",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41yvowrrC1L._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 8,
+                        "asin": "B09NQSZJK2",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Invicta Pro Diver Men's Scuba Watch, 48 mm, Gold, Black (37229), Diver",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41nhbgGxZNL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 9,
+                        "asin": "B005FMZY36",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Invicta Men's 1515 I \"Force Collection\" 18k Gold Ion-Plated Stainless Steel and Black Cloth Watch",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41wZ1fftkPL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 10,
+                        "asin": "B0C4G74NTB",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Invicta Pro Diver Men 44mm Stainless Steel Gold + Black Black dial NH35A Automatic",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/51IwpNO2exL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    }
+                ],
+                "url": "https://www.amazon.com/dp/B009KYJAJY?th=1&psc=1",
+                "asin": "B009KYJAJY",
+                "page": 1,
+                "price": 52.11,
+                "stock": "In Stock",
+                "title": "Casio Men's MDV106-1AV 200 M WR Black Dive Watch (MDV106-1A)",
+                "buybox": [
+                    {
+                        "price": 52.11,
+                        "stock": "In Stock",
+                        "condition": " Buy new: ",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 52.11,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Saturday, October 19",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/61nHUVwR65L._AC_SL1102_.jpg"
+                ],
+                "rating": 4.7,
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011",
+                                "name": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "url": "/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011",
+                                "name": "Men"
+                            },
+                            {
+                                "url": "/Mens-Watches/b/ref=dp_bc_aui_C_3?ie=UTF8&node=6358539011",
+                                "name": "Watches"
+                            },
+                            {
+                                "url": "/Mens-Wrist-Watches/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6358540011",
+                                "name": "Wrist Watches"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Prime members",
+                            "from": null
+                        },
+                        "type": "Or"
+                    }
+                ],
+                "_warnings": [
+                    "Could not parse pricing count.",
+                    "Could not identify ads carousel item with id sp_detail_thematic-cfv_B09NQSZJK2",
+                    "Could not identify ads carousel item with id sp_detail_thematic-cfv_B000820YBU",
+                    "Could not identify ads carousel item with id sp_detail_thematic-cfv_B0D4THZZ7C",
+                    "Could not identify ads carousel item with id sp_detail_thematic-cfv_B0D4THZZ7C_couponBadge",
+                    "Could not identify ads carousel item with id sp_detail_thematic-cfv_B087JQHJ1L",
+                    "Could not identify ads carousel item with id sp_detail_thematic-cfv_B087JQHJ1L_dealsXbadge-badge",
+                    "Could not identify ads carousel item with id sp_detail_thematic-cfv_B087JQHJ1L_stp-gridRow",
+                    "Could not identify ads carousel item with id sp_detail_thematic-cfv_B0CGCNCXYB",
+                    "Could not identify ads carousel item with id sp_detail_thematic-cfv_B003ZYZEWM",
+                    "Could not identify ads carousel item with id sp_detail_thematic-cfv_B0B715RSHW",
+                    "Could not identify ads carousel item with id sp_detail_thematic-cfv_B0B715RSHW_couponBadge",
+                    "Could not identify ads carousel item with id sp_detail_thematic-cfv_B005FMZY36",
+                    "Could not identify ads carousel item with id sp_detail_thematic-cfv_B0B6ZHG4S7",
+                    "Could not identify ads carousel item with id sp_detail_thematic-cfv_B0B6ZHG4S7_couponBadge",
+                    "Could not identify ads carousel item with id sp_detail_thematic-cfv_B06XMQH34J",
+                    "Could not identify ads carousel item with id sp_detail2_B0D4TVDJ11_couponBadge",
+                    "Could not identify ads carousel item with id sp_detail2_B0D4THZZ7C_couponBadge",
+                    "Could not identify ads carousel item with id sp_detail2_B0D4TY7P1X_couponBadge",
+                    "Could not identify ads carousel item with id sp_detail2_B0CQ2LZ2YG_couponBadge"
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [
+                    {
+                        "asin": "B009KYJAJY",
+                        "selected": true,
+                        "dimensions": {
+                            "Color": "Black"
+                        }
+                    }
+                ],
+                "has_videos": false,
+                "sales_rank": [
+                    {
+                        "rank": 16147,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/ref=pd_zg_ts_fashion",
+                                "name": "Clothing, Shoes & Jewelry"
+                            }
+                        ]
+                    },
+                    {
+                        "rank": 25,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/6358540011/ref=pd_zg_hrsr_fashion",
+                                "name": "Men's Wrist Watches"
+                            }
+                        ]
+                    }
+                ],
+                "top_review": "As my eyesight gets worse with age, I was looking for a durable, waterproof, easy-to-read watch with a simple timer that looked great on my wrist.  I own both a Fitbit and Apple watch \u2013 I was getting tired of being tracked all the time and getting notifications about everything (which yes, I know can be adjusted).  I\u2019ve owned Casio watches before and still have a G-Shock digital that\u2019s been running great for almost 20 years, so after reading many reviews here on Amazon and elsewhere, it was an easy decision to make.I went with the black face and bezel model, although you really can\u2019t go wrong with any of the other colors offered.  It\u2019s a classic diving watch that, in my opinion, looks sturdy, cleaner and more elegant than some of the more expensive competitors.  Given Casio\u2019s proven durability over the decades and the price point of this particular watch, you can't miss with this one.There are a ton of You Tube videos and review articles online about this diver (which is a bit of a cult classic it seems) \u2013 the vast majority of which are overwhelmingly positive, so I won\u2019t add much more here that hasn\u2019t already been stated there.  One common \u201ccomplaint\u201d that I noticed though is regarding the stock watchband.  Many are critical of it, but I tend to disagree.I did take the advice of some and tried a few different aftermarket bands \u2013 the Barton elite silicone, a Ritchie classic leather band, and a Ritchie nylon NATO strap (all available on Amazon).  With the exception of the NATO, I personally found the stock Casio diver band the watch comes with to be the most comfortable of the others tried \u2013 not taking away from or knocking the others by any means, it\u2019s just a \u201cwhy spend the extra money\u201d type thing for a $50-ish watch.  Simply a personal thing\u2026Re the NATO strap in my pics:  I did keep the Ritchie Premium Nylon strap to compliment the watch.  It really does dress it up and make the timepiece pop for more \u201cformal\u201d occasions if you will \u2013 and very comfortable too.  For everyday use though, the stock classic diver-style band turned out to be the most practical for me \u2013 one I recommend over aftermarket options and especially for those in the trades or who are knocking around on the beach, out hunting, at the lake, etc.If I had to be critical of any aspect of this watch, it would be the luminescent capacity of the hands and markers \u2013 something also frequently mentioned in many of the reviews I read online.  It\u2019s marginal at best.  When blasted with high intensity light, the markers glow brilliantly initially, but it does seem to fade quick.  I mention it because if this is an important feature for you night owls, it is something to consider. For me, it\u2019s acceptable and not enough of a factor for me to change my rating of the piece.Bottom line is that I highly recommend this waterproof diver.  It\u2019s superior quality with Casio durability and reliability at a price that can\u2019t be beat.  It keeps d***-near perfect time and doesn\u2019t have to be charged on a daily basis or wound ever \u2013 just a simple, inexpensive battery keeps it going for a couple of years.  You will not be disappointed with this one!  Thx, DTEdit 2/2/2024:  A word on timekeeping:  Having owned this watch for a while now, it does GAIN a few seconds every month.  I go to www.time.gov to set adjust time every now and then...  It's still more accurate than my other watches though - amazing considering this is a $50-ish dollar piece.  Highly recommend this watch!\n  \nRead more",
+                "asin_in_url": "B009KYJAJY",
+                "buy_it_with": [
+                    {
+                        "asin": "B083VMFR4C",
+                        "price": 54,
+                        "title": "Casio MDV-106B-2AVCF Blue Dive Watch with Black Resin Strap"
+                    }
+                ],
+                "description": "",
+                "parent_asin": "B0DHWBYNFG",
+                "price_upper": 52.11,
+                "pricing_str": "New & Used (11) from $46.08$46.08 & FREE Shipping.",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B009KYJAJY/ref=dp_olp_ALL_mbc?ie=UTF8&condition=ALL",
+                "manufacturer": "Casio",
+                "max_quantity": 3,
+                "price_buybox": 52.11,
+                "product_name": "Casio Men's MDV106-1AV 200 M WR Black Dive Watch (MDV106-1A)",
+                "sales_volume": "2K+ bought",
+                "amazon_choice": true,
+                "bullet_points": "Band Size: mens-standard",
+                "other_sellers": "New & Used (11) from $46.08 & FREE Shipping.",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 21206,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "asin": "B009KYJAJY",
+                    "batteries": "1 Lithium Metal batteries required. (included)",
+                    "department": "mens",
+                    "manufacturer": "Casio",
+                    "country_of_origin": "China",
+                    "item_model_number": "MDV106-1A",
+                    "product_dimensions": "1.74 x 1.91 x 0.48 inches; 3.25 ounces",
+                    "date_first_available": "October 11, 2011",
+                    "is_discontinued_by_manufacturer": "No"
+                },
+                "featured_merchant": [],
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "product_dimensions": "1.74 x 1.91 x 0.48 inches; 3.25 ounces",
+                "discount_percentage": 26,
+                "price_strikethrough": 69.95,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 86
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 9
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 2
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 1
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 3
+                    }
+                ],
+                "frequently_bought_together": [
+                    {
+                        "asin": "B009KYJAJY"
+                    },
+                    {
+                        "asin": "B083VMFR4C"
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:46:50",
+            "updated_at": "2024-10-17 10:46:54",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B009KYJAJY?th=1&psc=1",
+            "job_id": "7252631139322433538",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:46:50",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252631139322433538",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B009KYJAJY",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:46:54",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252631139322433538",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252631139322433538/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631139322433538/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252631139322433538/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631139322433538/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252631139322433538/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631139322433538/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

@@ -1,0 +1,486 @@
+{
+    "results": [
+        {
+            "content": {
+                "ads": [
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    }
+                ],
+                "url": "https://www.amazon.com/dp/B0CS3GTYXZ?th=1&psc=1",
+                "asin": "B0CS3GTYXZ",
+                "page": 1,
+                "brand": "LIVIKEY",
+                "price": 17.99,
+                "stock": "In Stock",
+                "title": "Fitness Tracker Watch with Heart Rate Monitor, Activity Tracker with Pedometer, Sleep Monitor, Calories & Step Counter, 5ATM Waterproof Smart Watch for Women Men Health Fitness Watch for Sports",
+                "buybox": [
+                    {
+                        "price": 17.99,
+                        "stock": "In Stock",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 17.99,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "Apply $4 coupon",
+                "images": [
+                    "https://m.media-amazon.com/images/I/7120xfZ5PGL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71Tm5OC4NDL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71052NSj+EL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/81pbJLp5fpL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71P3uF9T5zL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71qhAwHFBcL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61k3FArH64L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/7120xfZ5PGL._AC_SL1500_.jpg"
+                ],
+                "rating": 4,
+                "_errors": [
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'"
+                ],
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/sports-outdoors/b/ref=dp_bc_aui_C_1?ie=UTF8&node=3375251",
+                                "name": "Sports & Outdoors"
+                            },
+                            {
+                                "url": "/Exercise-Equipment-Gym-Equipment/b/ref=dp_bc_aui_C_2?ie=UTF8&node=3407731",
+                                "name": "Exercise & Fitness"
+                            },
+                            {
+                                "url": "/fitness-tracker-fit-tech/b/ref=dp_bc_aui_C_3?ie=UTF8&node=5393952011",
+                                "name": "Fitness Technology"
+                            },
+                            {
+                                "url": "/fitness-tracker/b/ref=dp_bc_aui_C_4?ie=UTF8&node=5393958011",
+                                "name": "Activity & Fitness Trackers"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Prime members",
+                            "from": null
+                        },
+                        "type": "Or"
+                    }
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [
+                    {
+                        "asin": "B0D1FTSTCX",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Blue"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/512JKRa78DL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0D1FN44LH",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Light Pink"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/51UCZBergPL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CYFNBB4F",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Gray"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/512wi1yy4vL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CC9C6P16",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Purple"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/51I2hcbAeXL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CS3GTYXZ",
+                        "selected": true,
+                        "dimensions": {
+                            "Color": "Cyan"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/51m8GpkuchL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CTC5QQ47",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Blue Gold"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/511OlbdFv5L._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CC9DXVPF",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Black"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/51wsUbjcW7L._SS36_.jpg"
+                    }
+                ],
+                "has_videos": false,
+                "sales_rank": [],
+                "top_review": "I counted 20 steps out. It counted over 450. That's an insane difference. Absolutely not helpful if you bought it specifically for that purpose. Returning it.Edit: changing my review and star rating. My husband had me delete the app and re connect everything...and somehow it worked. The watch works great now and is accurate within 10 steps, which I can deal with. It tracked my sleep which is interesting. Going to test it for a week and see how it goesEdited again to add: this thing is amazing. Totally worth the money. I've had it for about 10 days and it's still at half charge. I really didn't expect such quality for this low price. Amazing.\n  \nRead more",
+                "asin_in_url": "B0CS3GTYXZ",
+                "buy_it_with": [
+                    {
+                        "asin": "B0D7S5PMD6",
+                        "price": 21.99,
+                        "title": "Asuwish Phone Case for Samsung Galaxy A73 5G Zipper Wallet with Tempered Glass Screen Protector Crossbody Strap Card Holder RFID Blocking Stand Flip Accessories Cell Cover A 73 Women Girls Red"
+                    },
+                    {
+                        "asin": "B09FT58QQP",
+                        "price": 15.29,
+                        "title": "TOZO A1 Mini Wireless Earbuds Bluetooth 5.3 in Ear Light-Weight Headphones Built-in Microphone, IPX5 Waterproof, Immersive Premium Sound Long Distance Connection Headset with Charging Case, Black"
+                    }
+                ],
+                "description": "",
+                "parent_asin": "B0D7345KDQ",
+                "price_upper": 17.99,
+                "pricing_str": "",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B0CS3GTYXZ?startIndex=0",
+                "manufacturer": "YourHealthPartner",
+                "max_quantity": 20,
+                "price_buybox": 17.99,
+                "product_name": "Fitness Tracker Watch with Heart Rate Monitor, Activity Tracker with Pedometer, Sleep Monitor, Calories & Step Counter, 5ATM Waterproof Smart Watch for Women Men Health Fitness Watch for Sports",
+                "sales_volume": "500+ bought in past month",
+                "bullet_points": "Heart Rate and Sleep Monitoring: The Fitness Tracker monitors your heart rate automatically all day, and you can select manual mode through the App. The fitness Watch also monitors your sleep at night, providing a detailed analysis of your sleep quality (deep sleep, light sleep, awake time). It is a health advisor for women men in daily life.\nMulti Sport Modes with Activity Tracking: The fitness tracker features 9 sport modes like running, walking and more. Additionally, the activity tracker records daily steps, calories burned, walking distance and active time throughout the day. You can also set a daily steps goals through the App to track your progress.\nSmart Notification Reminder: You can get SMS messages, and SNS notifications directly on your wrist including Facebook, Twitter, Gmail ect. You won't miss any important calls and message and stay updated. Please note: the smart watch can not make calls or text.\nLong Battery Life and 5ATM Waterproof: This smart watch only requires 2 hours of charging and can be used for 5-7 days continuously. 5ATM waterproof rating can withstand daily sweat, washing hands and rainy day, allowing you to fully enjoy your workouts.\nMore Functions & Compatibility: Fitness watch comes with multiple smart functions such as stopwatch, alarm clock, breathing guide and sedentary alert, enhancing convenience to your daily routine. The tracker is compatible with iPhone Android Phones which run on iOS 8.0 or Android OS 4.0 & Bluetooth 4.0 or above. Please note that it is not compatible with tablets or computers.",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 863,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "asin": "B0CS3GTYXZ",
+                    "brand": "LIVIKEY",
+                    "color": "Cyan",
+                    "band_width": "22 Millimeters",
+                    "item_shape": "Square",
+                    "sport_type": "Running, Walking",
+                    "style_name": "Modern",
+                    "screen_size": "1.3 Inches",
+                    "display_type": "LCD",
+                    "manufacturer": "LIVIKEY",
+                    "controller_type": "Android",
+                    "item_dimensions": "6.8 x 3.3 x 0.6 inches",
+                    "target_audience": "Unisex adult",
+                    "customer_reviews": "4.0 4.0 out of 5 stars 863 ratings 4.0 out of 5 stars",
+                    "operating_system": "Android 4.0 / iOS 8.0 or above, Bluetooth 4.0 or above",
+                    "battery_cell_type": "Lithium Polymer",
+                    "best_sellers_rank": "#618 in Sports & Outdoors (See Top 100 in Sports & Outdoors) #3 in Activity & Fitness Trackers",
+                    "waterproof_rating": "5ATM Waterproof",
+                    "compatible_devices": "Google, Samsung, Smartphone, IPhone",
+                    "additional_features": "Activity Tracker, Sleep Monitor, Heart Rate Monitor, Pedometer, Calories Tracker, Time Display",
+                    "battery_charge_time": "2 Hours",
+                    "battery_average_life": "7 days",
+                    "wireless_compability": "Bluetooth",
+                    "age_range_description": "Adult",
+                    "communication_feature": "Receive SMS, Receive select SNS notifications",
+                    "human_interface_input": "Touchscreen",
+                    "supported_application": "Reminders, Phone, Multisport Tracker",
+                    "water_resistance_depth": "50 Meters",
+                    "water_resistance_level": "Waterproof",
+                    "wearable_computer_type": "Smart Watch",
+                    "compatible_phone_models": "IPhone 15/15 Pro/15 Pro Max/iPhone 14 mini/14/14 Pro/14 Pro Max/iPhone 13 mini/13/13 Pro/13 Pro Max/iPhone 12 mini/12/12 Pro/12 Pro Max/iPhone 11/11 Pro/11 Max/11 Pro Max/iPhone XS/iPhone X/iPhone 8/8 plus/iPhone 7/7 plus/iPhone 6/6s/6 Plus/6s Plus/iPhone 5 ios phones; Samsung Galaxy S22, S21, S21 Plus, S21 Ultra, S20, S20 Plus, S20 Ultra, S20 FE, S10, S10 Plus, S9, S9 Plus, S8, S8 Plus, S7, S7 Edge, S6, S6 Edge, S5, Samsung Note 8, 5, 4; HUAWEI P40/P40 Pro/P30/P10/P9/MATE40/MATE40 Pro/MATE30/MATE30 Pro/MATE9/MATE 8/MATE 7; HONOR VIVO OPPO HTC SONY LG OnePlus Nexus Google pixel/pixel xl BlackBerry with most smartphones with iOS 11.0/Android 6.0 or above and Bluetooth 4.0 or above.",
+                    "connectivity_technology": "Bluetooth"
+                },
+                "featured_merchant": {
+                    "link": "/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1ZHT3X1VDR6DH&asin=B0CS3GTYXZ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+                    "name": "Wondebor",
+                    "seller_id": "A1ZHT3X1VDR6DH",
+                    "shipped_from": "Amazon",
+                    "is_amazon_fulfilled": true
+                },
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "discount_percentage": 10,
+                "price_strikethrough": 19.99,
+                "warranty_and_support": {
+                    "links": [
+                        {
+                            "url": "/gp/feature.html/ref=dp_warranty_request_3P?docId=1002406021",
+                            "title": "click here"
+                        }
+                    ],
+                    "description": "Product Warranty: For warranty information about this product, please click here"
+                },
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 56
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 15
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 9
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 8
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 12
+                    }
+                ],
+                "frequently_bought_together": [
+                    {
+                        "asin": "B0CS3GTYXZ"
+                    },
+                    {
+                        "asin": "B0D7S5PMD6"
+                    },
+                    {
+                        "asin": "B09FT58QQP"
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:49:02",
+            "updated_at": "2024-10-17 10:49:06",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B0CS3GTYXZ?th=1&psc=1",
+            "job_id": "7252631691347368961",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:49:02",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252631691347368961",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B0CS3GTYXZ",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:49:06",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252631691347368961",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252631691347368961/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631691347368961/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252631691347368961/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631691347368961/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252631691347368961/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631691347368961/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

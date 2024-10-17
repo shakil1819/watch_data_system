@@ -1,0 +1,124 @@
+{
+    "results": [
+        {
+            "content": {
+                "parse_status_code": 12003
+            },
+            "created_at": "2024-10-17 11:20:22",
+            "updated_at": "2024-10-17 11:20:34",
+            "page": 1,
+            "url": "https://www.amazon.com/product-reviews/B000AYYIYU?reviewerType=all_reviews&pageNumber=1",
+            "job_id": "7252639577888808961",
+            "is_render_forced": false,
+            "status_code": 404,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 11:20:22",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252639577888808961",
+        "limit": 10,
+        "locale": null,
+        "pages": 5,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B000AYYIYU",
+        "source": "amazon_reviews",
+        "start_page": 1,
+        "status": "faulted",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 11:20:34",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252639577888808961",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252639577888808961/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252639577888808961/results/1/content",
+                    "http://data.oxylabs.io/v1/queries/7252639577888808961/results/2/content",
+                    "http://data.oxylabs.io/v1/queries/7252639577888808961/results/3/content",
+                    "http://data.oxylabs.io/v1/queries/7252639577888808961/results/4/content",
+                    "http://data.oxylabs.io/v1/queries/7252639577888808961/results/5/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252639577888808961/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252639577888808961/results/1/content?type=raw",
+                    "http://data.oxylabs.io/v1/queries/7252639577888808961/results/2/content?type=raw",
+                    "http://data.oxylabs.io/v1/queries/7252639577888808961/results/3/content?type=raw",
+                    "http://data.oxylabs.io/v1/queries/7252639577888808961/results/4/content?type=raw",
+                    "http://data.oxylabs.io/v1/queries/7252639577888808961/results/5/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252639577888808961/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252639577888808961/results/1/content?type=parsed",
+                    "http://data.oxylabs.io/v1/queries/7252639577888808961/results/2/content?type=parsed",
+                    "http://data.oxylabs.io/v1/queries/7252639577888808961/results/3/content?type=parsed",
+                    "http://data.oxylabs.io/v1/queries/7252639577888808961/results/4/content?type=parsed",
+                    "http://data.oxylabs.io/v1/queries/7252639577888808961/results/5/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "results": [
+        {
+            "content": {
+                "url": "https://www.amazon.com/dp/B0CRH3LKJZ?th=1&psc=1",
+                "asin": "B0CRH3LKJZ",
+                "page": 1,
+                "brand": "Garmin",
+                "price": 1399.99,
+                "stock": "In Stock",
+                "title": "Garmin D2\u2122 Mach 1 Pro, Aviator Smartwatch with GPS Moving Map, Aviation Weather, Health and Wellness Features, AMOLED Display, and Built-in Flashlight",
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/71pIjzX4+zL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61FYDd3r8WL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71a-1VqJImL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71sYph5L6AL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71smI7d4VtL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71DOaS2E6-L._AC_SL1500_.jpg"
+                ],
+                "rating": 4.4,
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/electronics-store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=172282",
+                                "name": "Electronics"
+                            },
+                            {
+                                "url": "/Wearable-Technology/b/ref=dp_bc_aui_C_2?ie=UTF8&node=10048700011",
+                                "name": "Wearable Technology"
+                            },
+                            {
+                                "url": "/smart-watches/b/ref=dp_bc_aui_C_3?ie=UTF8&node=7939901011",
+                                "name": "Smartwatches"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Monday, October 21",
+                            "from": null
+                        },
+                        "type": "Or fastest delivery"
+                    }
+                ],
+                "_warnings": [
+                    "Could not parse pricing count.",
+                    "Could not parse sales ranks."
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [],
+                "has_videos": true,
+                "sales_rank": [],
+                "top_review": "I am not a pilot, I just like aviation.  I had a Fenix 7X Pro solar and got this for the screen.  Its brighter, the battery life is roughly 2 weeks.  On a commercial airplane its kinda hard to get a signal though. I thought I would be tracking my flights but unless you wanna hold to the glass the entire flight it wont do it.Overall though great watch!  Heart rate and ECG are spot on in my opinion.\n  \nRead more",
+                "asin_in_url": "B0CRH3LKJZ",
+                "buy_it_with": [
+                    {
+                        "asin": "B0CM9PK7Y3",
+                        "price": 14.95,
+                        "title": "IPG for Garmin D2 Mach 1 Pro Smart Watch Hydrogel Screen Protector (2 Units) Invisible HD Clear Film Anti Scratch Guard-Smooth/Self-Healing/Bubble for 1 Pro"
+                    }
+                ],
+                "description": "Be ready for takeoff, day or night. This premium smartwatch has a built-in flashlight, superbright AMOLED display and advanced tools for flying and fitness.",
+                "parent_asin": "B0CRH3LKJZ",
+                "price_upper": 1399.99,
+                "pricing_str": "New & Used (7) from $949.50$949.50 & FREE Shipping",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B0CRH3LKJZ/ref=dp_olp_ALL_mbc?ie=UTF8&condition=ALL",
+                "manufacturer": "Garmin",
+                "max_quantity": 30,
+                "price_buybox": 1399.99,
+                "product_name": "Garmin D2\u2122 Mach 1 Pro, Aviator Smartwatch with GPS Moving Map, Aviation Weather, Health and Wellness Features, AMOLED Display, and Built-in Flashlight",
+                "sales_volume": "50+",
+                "amazon_choice": true,
+                "bullet_points": "Get instant red light or variable intensities of white light with a built-in LED flashlight.\nPreserve your night vision with red shift mode, which filters out blue light.\nStay aware with a high-resolution 1.4\u201d AMOLED touchscreen.\nSee aviation weather, airport information and phone-free maps.\nStay in top condition with 24/7 health monitoring and 30+ built-in sports apps.",
+                "other_sellers": "New & Used (7) from $949.50 & FREE Shipping",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 21,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "upc": "753759331665 753759283568",
+                    "asin": "B0CRH3LKJZ",
+                    "brand": "Garmin",
+                    "color": "Black",
+                    "band_width": "10",
+                    "model_name": "D2 Mach 1 Pro",
+                    "sport_type": "Training, Cardio, Exercise & Fitness, Running, Outdoor Lifestyle",
+                    "item_weight": "126 Grams",
+                    "screen_size": "1.4 Inches",
+                    "closure_type": "Neither",
+                    "manufacturer": "Garmin",
+                    "model_number": "010-02804-80",
+                    "built_in_media": "D2 Mach 1 Pro aviator smartwatch, Black silicone watch band; USB-C charging/data cable; Documentation, carbon gray DLC titanium with vented titanium bracelet",
+                    "item_dimensions": "2 x 0.59 x 2 inches",
+                    "target_audience": "Unisex adult",
+                    "customer_reviews": "4.4 4.4 out of 5 stars 21 ratings 4.4 out of 5 stars",
+                    "battery_cell_type": "Lithium Polymer",
+                    "best_sellers_rank": "#27,906 in Electronics (See Top 100 in Electronics) #762 in Smartwatches",
+                    "compatible_devices": "iPhone, Android",
+                    "additional_features": "Bluetooth",
+                    "wireless_compability": "Bluetooth",
+                    "communication_feature": "Bluetooth, USB, Wi-Fi",
+                    "human_interface_input": "Touchscreen, Buttons",
+                    "supported_application": "GPS",
+                    "wearable_computer_type": "Smart Watch",
+                    "connectivity_technology": "Bluetooth, Wi-Fi, USB",
+                    "gps_geotagging_functionality": "Built-in GPS",
+                    "supported_satellite_navigation_system": "GLONASS, GPS, Galileo"
+                },
+                "featured_merchant": [],
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 82
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 0
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 0
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 7
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 11
+                    }
+                ],
+                "frequently_bought_together": [
+                    {
+                        "asin": "B0CRH3LKJZ"
+                    },
+                    {
+                        "asin": "B0CM9PK7Y3"
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:45:48",
+            "updated_at": "2024-10-17 10:45:52",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B0CRH3LKJZ?th=1&psc=1",
+            "job_id": "7252630878659043329",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:45:48",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252630878659043329",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B0CRH3LKJZ",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:45:52",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252630878659043329",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252630878659043329/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252630878659043329/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252630878659043329/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252630878659043329/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252630878659043329/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252630878659043329/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

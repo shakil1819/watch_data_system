@@ -1,0 +1,1033 @@
+{
+    "results": [
+        {
+            "content": {
+                "url": "https://www.amazon.com/dp/B0DGHV6HMS?th=1&psc=1",
+                "asin": "B0DGHV6HMS",
+                "page": 1,
+                "brand": "Apple",
+                "price": 709,
+                "stock": "In Stock",
+                "title": "Apple Watch Series 10 [GPS + Cellular 42mm case] Smartwatch with Natural Titanium Case with Natural Milanese Loop. Fitness Tracker, ECG App, Always-On Retina Display, Carbon Neutral",
+                "buybox": [
+                    {
+                        "price": 709,
+                        "stock": "In Stock",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 709,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/81rua+Dn2+L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/81acjzYkeVL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71NihfpY-lL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/818xrQntlhL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/81gHBG3QVVL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/710YaMPq9AL._AC_SL1500_.jpg"
+                ],
+                "rating": 4.7,
+                "category": [],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Prime members",
+                            "from": null
+                        },
+                        "type": "Or"
+                    }
+                ],
+                "_warnings": [
+                    "Could not parse pricing count.",
+                    "Could not parse description.",
+                    "Could not parse category.",
+                    "Could not parse sales ranks."
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [
+                    {
+                        "asin": "B0DGJBGHF5",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Silver Aluminium Case with Blue Cloud Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "Without AppleCare+"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41y3C+HHE+L._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0DGJ74GKP",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Jet Black Aluminium Case with Black Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ2Y33Z",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW57LDN",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Natural Titanium Case with Natural Milanese Loop",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVW8B2K",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVQDW69",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Slate Titanium Case with Slate Milanese Loop",
+                            "Style": "One Size",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJCSX1G",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Gold Titanium Case with Starlight Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHNRRXV",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Slate Titanium Case with Slate Milanese Loop",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ13T94",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Gold Titanium Case with Gold Milanese Loop",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ3LJYM",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Natural Titanium Case with Stone Grey Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ5L8RR",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Natural Titanium Case with Stone Grey Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVT9BWF",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Slate Titanium Case with Black Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVWHJKL",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Gold Titanium Case with Starlight Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVQ55SY",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Jet Black Aluminium Case with Ink Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHY4349",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Natural Titanium Case with Stone Grey Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ5BDSF",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Slate Titanium Case with Black Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJCSSQC",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGWR29DX",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "RoseGold Aluminium Case with LightBlush Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ752WH",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "RoseGold Aluminium Case with LightBlush Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVTLR9L",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Gold Titanium Case with Starlight Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGWRH274",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "RoseGold Aluminium Case with LightBlush Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVTYR73",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Slate Titanium Case with Black Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVQYFWQ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Gold Titanium Case with Starlight Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHTCKB1",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Jet Black Aluminium Case with Black Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHVPKXP",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Slate Titanium Case with Slate Milanese Loop",
+                            "Style": "One Size",
+                            "Configuration": "Without AppleCare+"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/51jvLXc-W4L._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0DGVXXQS6",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Natural Titanium Case with Stone Grey Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW4YY41",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Silver Aluminium Case with Blue Cloud Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHS61SS",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW55F17",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Slate Titanium Case with Slate Milanese Loop",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVWXBGK",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Slate Titanium Case with Black Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGWFK3VT",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "RoseGold Aluminium Case with LightBlush Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVZM3ZV",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Jet Black Aluminium Case with Black Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHP766V",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Jet Black Aluminium Case with Black Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ4QS26",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Jet Black Aluminium Case with Black Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ4RBB7",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Gold Titanium Case with Starlight Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ2NM8M",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Natural Titanium Case with Natural Milanese Loop",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW4Z9FK",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Rose Gold Aluminium Case with Plum Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVQCBVJ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Jet Black Aluminium Case with Black Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGWSJQC4",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "RoseGold Aluminium Case with LightBlush Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVQKHRP",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Natural Titanium Case with Natural Milanese Loop",
+                            "Style": "One Size",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVY87PK",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVSLKRK",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Natural Titanium Case with Stone Grey Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHSK49M",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Gold Titanium Case with Gold Milanese Loop",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHSN1CK",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Rose Gold Aluminium Case with Plum Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "Without AppleCare+"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/417IABMaMuL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0DGHYDYNP",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Slate Titanium Case with Slate Milanese Loop",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHPPP4L",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Slate Titanium Case with Black Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW8GJLM",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Jet Black Aluminium Case with Black Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVWYRT8",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Jet Black Aluminium Case with Black Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVTKY8X",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW5M1CR",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Gold Titanium Case with Gold Milanese Loop",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ3S117",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Gold Titanium Case with Starlight Sport Band",
+                            "Style": "M/L - fits 160\u2013210mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVNQH7K",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Natural Titanium Case with Stone Grey Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVVCSVS",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Silver Aluminium Case with Blue Cloud Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHV6HMS",
+                        "selected": true,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Natural Titanium Case with Natural Milanese Loop",
+                            "Style": "One Size",
+                            "Configuration": "Without AppleCare+"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/51dNaQlI-uL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0DGVXPTZW",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Gold Titanium Case with Gold Milanese Loop",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHV6HMX",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Natural Titanium Case with Natural Milanese Loop",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ2N1BK",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Slate Titanium Case with Black Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHWG9QJ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "RoseGold Aluminium Case with LightBlush Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHRH9DF",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJGX496",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Jet Black Aluminium Case with Ink Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "Without AppleCare+"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/4192DBfPhTL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0DGHZQMKR",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Rose Gold Aluminium Case with Plum Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW61DKZ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Rose Gold Aluminium Case with Plum Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVXP5CV",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Gold Titanium Case with Starlight Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ1VCST",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Natural Titanium Case with Stone Grey Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DHFXHVQJ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Gold Titanium Case with Gold Milanese Loop",
+                            "Style": "One Size",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVP84B5",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Natural Titanium Case with Stone Grey Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVWJPXW",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Slate Titanium Case with Black Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHY16JH",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "RoseGold Aluminium Case with LightBlush Sport Band",
+                            "Style": "M/L - fits 150\u2013200mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHPYS4T",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Silver Aluminium Case with Blue Cloud Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVQ9R9D",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Slate Titanium Case with Slate Milanese Loop",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHPW6NB",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Gold Titanium Case with Starlight Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHZF317",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "RoseGold Aluminium Case with LightBlush Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVWFNPC",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Jet Black Aluminium Case with Ink Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHT7M8B",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Gold Titanium Case with Gold Milanese Loop",
+                            "Style": "One Size",
+                            "Configuration": "Without AppleCare+"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/51dujgasLYL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0DGHTKNC9",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Jet Black Aluminium Case with Ink Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVWCGNX",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Natural Titanium Case with Natural Milanese Loop",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVP2SDN",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "42mm case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "S/M - fits 130\u2013180mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ3PQTN",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46mm case",
+                            "Color": "Slate Titanium Case with Black Sport Band",
+                            "Style": "S/M - fits 140\u2013190mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    }
+                ],
+                "has_videos": true,
+                "sales_rank": [],
+                "top_review": "It\u2019s a great looking watch, slimmer than the previous version, slightly better battery life and some new software features. Overall, it\u2019s a great piece of tech and I like his software keeps adding innovative features, while hardware still maintains a small but incremental change approach. Not a \u2018must buy\u2019, if you are on series 8 or 9.\n  \nRead more",
+                "asin_in_url": "B0DGHV6HMS",
+                "description": "",
+                "parent_asin": "B0DGKWJLTY",
+                "price_upper": 709,
+                "pricing_str": "",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B0DGHV6HMS?startIndex=0",
+                "manufacturer": "Apple",
+                "max_quantity": 3,
+                "price_buybox": 709,
+                "product_name": "Apple Watch Series 10 [GPS + Cellular 42mm case] Smartwatch with Natural Titanium Case with Natural Milanese Loop. Fitness Tracker, ECG App, Always-On Retina Display, Carbon Neutral",
+                "sales_volume": "100+ bought in past month",
+                "amazon_choice": true,
+                "bullet_points": "WHY APPLE WATCH SERIES 10 \u2014 Bigger display with up to 30 percent more screen area.* A thinner, lighter, and more comfortable design.* Advanced health and fitness features provide invaluable insights.* Safety features connect you to help when you need it.* Faster charging gives you 80 percent battery in about 30 minutes.*\nADVANCED HEALTH INSIGHTS \u2014 Take an ECG anytime.* Get notifications if you have high or low heart rate or an irregular heart rhythm.* Understand your menstrual cycle and get retrospective ovulation estimates.* See overnight health metrics like heart rate, respiratory rate, and more with the Vitals app.* Track sleep and get notifications if Apple Watch detects signs of sleep apnea.*\nA POWERFUL FITNESS PARTNER \u2014 Measure all the ways you move with Activity Rings, which are customizable to match your lifestyle. Get advanced metrics for a range of workouts with the Workout app. Track the intensity of your workouts with training load. Use depth and water temperature sensors for your aquatic adventures. And Apple Watch comes with three months of Apple Fitness+ free.*\nCELLULAR CONNECTIVITY \u2014 With a cellular service plan you can send a text, make a call, and stream music without your iPhone nearby.* Use Apple Watch For Your Kids to set up Apple Watch for those who don\u2019t yet have their own iPhone, so everyone can stay connected, active, healthy, and safe.*\nINNOVATIVE SAFETY FEATURES \u2014 Fall Detection and Crash Detection can connect you with emergency services in the event of a hard fall or a severe car crash. Emergency SOS lets you call for help with the press of a button.* Check In automatically notifies a loved one when you\u2019ve arrived at your destination.*\nINCREDIBLE DURABILITY \u2014 Crack resistant and IP6X-certified dust resistant. With 50m water resistance.*\nCARBON NEUTRAL \u2014 Apple Watch Series 10 is carbon neutral when paired with select bands. Learn more about Apple\u2019s commitment to the environment at apple.com/2030.\nSIMPLY COMPATIBLE \u2014 It works seamlessly with your Apple devices and services.* Unlock your Mac automatically. Get approximate distance and directions to your iPhone with Precision Finding on supported iPhone models.* Pay and send money with Apple Pay.\nEASILY CUSTOMIZABLE \u2014 With watch bands in a range of styles, materials, and colors and fully customizable watch faces, you can change your watch to fit your mood or the moment.\n* LEGAL DISCLAIMERS \u2014 This is a summary of the main product features. See below to learn more.",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 37,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "featured_merchant": [],
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "discount_percentage": 5,
+                "price_strikethrough": 749,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 86
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 10
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 0
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 0
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 4
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:46:22",
+            "updated_at": "2024-10-17 10:46:35",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B0DGHV6HMS?th=1&psc=1",
+            "job_id": "7252631020795617281",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:46:22",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252631020795617281",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B0DGHV6HMS",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:46:35",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252631020795617281",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252631020795617281/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631020795617281/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252631020795617281/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631020795617281/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252631020795617281/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631020795617281/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

@@ -1,0 +1,551 @@
+{
+    "results": [
+        {
+            "content": {
+                "ads": [
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": 1,
+                        "asin": "B0C4DJNMP9",
+                        "type": "organic_also_viewed",
+                        "price": 49.95,
+                        "title": "Fitpolo Smart Watches for Women Android & iPhone, Alexa Built-in [1.8\" HD Screen] IP68 Waterproof Fitness Watch with Bluetooth Call (Answer/Make), Heart Rate/Sleep/SpO2 Monitor, 105+ Sports Tracker",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/51E6f0OePfL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.1,
+                        "location": "carousel",
+                        "price_upper": 49.95,
+                        "reviews_count": 41,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 2,
+                        "asin": "B0CH82365L",
+                        "type": "organic_also_viewed",
+                        "price": 459.99,
+                        "title": "Wearable4U - Garmin Venu 3S GPS Smartwatch, AMOLED Display 41 mm Watch, Advanced Health and Fitness Features, Up to 10 Days of Battery, Sleep Coach, Ivory Case with White Earbuds Bundle",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/51He4e49XDL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.2,
+                        "location": "carousel",
+                        "price_upper": 459.99,
+                        "reviews_count": 42,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 3,
+                        "asin": "B0CZNX1YBK",
+                        "type": "organic_also_viewed",
+                        "price": 39.99,
+                        "title": "Smart Watch, 1.91\"Smartwatch for Men Women (Answer/Make Call), Fitness Tracker with 100+ Sport Modes, IP68 Waterproof, Heart Rate/Sleep Monitor, Spo2, Pedometer, Activity Tracker for Android iOS",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/41BJrdkzLfL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 39.99,
+                        "reviews_count": 40,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 4,
+                        "asin": "B0CYBXFH7D",
+                        "type": "organic_also_viewed",
+                        "price": 58.99,
+                        "title": "niolina Smart Watches for Women, 1.106\" AMOLED Small Screen Smartwatch Answer/Make Call for Android iOS Phones, IP68 Waterproof Fitness Activity Tracker with 100+ Sports, Heat Rate, SpO2, Rose Gold",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/51IrBZUj9SL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.2,
+                        "location": "carousel",
+                        "price_upper": 58.99,
+                        "reviews_count": 42,
+                        "is_prime_eligible": false
+                    }
+                ],
+                "url": "https://www.amazon.com/dp/B0CDC6Y617?th=1&psc=1",
+                "asin": "B0CDC6Y617",
+                "page": 1,
+                "brand": "Garmin",
+                "price": 399.99,
+                "stock": "In Stock",
+                "title": "Garmin Venu 3S Soft Gold Stainless Steel Bezel 1.2-Inch AMOLED Touchscreen Display Smart Watch with 41mm French Gray Case and Silicone Band",
+                "buybox": [
+                    {
+                        "price": 399.99,
+                        "stock": "In Stock",
+                        "condition": " Buy new: ",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 399.99,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/61oLm0rWyGL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/610pn6-VeWL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61cQg8V+qWL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71i5TubFAKL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/713LSGM1B3L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61liqfLI-HL._AC_SL1500_.jpg"
+                ],
+                "rating": 4.4,
+                "_errors": [
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'"
+                ],
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/electronics-store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=172282",
+                                "name": "Electronics"
+                            },
+                            {
+                                "url": "/Wearable-Technology/b/ref=dp_bc_aui_C_2?ie=UTF8&node=10048700011",
+                                "name": "Wearable Technology"
+                            },
+                            {
+                                "url": "/smart-watches/b/ref=dp_bc_aui_C_3?ie=UTF8&node=7939901011",
+                                "name": "Smartwatches"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Prime members",
+                            "from": null
+                        },
+                        "type": "Or"
+                    }
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [
+                    {
+                        "asin": "B0CDC5QC7P",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41 MM",
+                            "Color": "Pebble Gray"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41q8NYU4ZSL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CDC6Y617",
+                        "selected": true,
+                        "dimensions": {
+                            "Size": "41 MM",
+                            "Color": "French Gray"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41JDHs0uggL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CDC6C4TQ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41 MM",
+                            "Color": "Ivory"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41hzlXQjmgL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CDC4ZVHZ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41 MM",
+                            "Color": "Dust Rose"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41IzFy0zdWL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CDC6H66Y",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "45 MM",
+                            "Color": "Black"
+                        }
+                    },
+                    {
+                        "asin": "B0CDC61XKF",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41 MM",
+                            "Color": "Sage Gray"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41DOYAA+WpL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CDC6LH5W",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "45 MM",
+                            "Color": "Whitestone"
+                        }
+                    }
+                ],
+                "has_videos": true,
+                "sales_rank": [],
+                "top_review": "The media could not be loaded.\n                \n            \n                \n            \n            \n        \n    \n    \n\n\n\n\n\n\n\n\n  \n  \n    Let me preface this by saying I chose this one after buying, trying, and then returning the Apple Watch, the Samsung Galaxy Watch, FitBit, and a couple of other lesser-known brands. I actually went with a Garmin Venu Sq. 2 first and I loved it, at which point I bought this one due to the beautiful, large AMOLED screen and because it runs on the sand base software. That\u2019s a GOOD thing, so let me elaborate.This is by far the most accurate watch for counting the total calories burned. The Apple Watch simply did not let me view the TOTAL calories burned, as it would show your estimated basal metabolic rate and then stack the active expenditure in a separate category, so you\u2019d have to go back and forth to view each one and then add it up. The Galaxy watch suffered a similar problem, but it was not that accurate at measuring steps, which would directly affect the caloric expenditure. The FitBit was just WILDLY inaccurate and once told me I burned 5000+ calories in a day because I had a panic episode after something bad happened in my personal life, and so that night it registered me as having burned thousands of calories just laying in bed.The Garmin, however, did everything right (accurate steps that match the ones my iPhone said to within 5%, heart rate matched a professional blood pressure cuff, and the calorie counter tracked my weight loss exactly). It is extremely useful when counting calories where a slim margin is needed, such as aiming to lose 750 calories a day to lose 1.5 lbs/week. It it\u2019s off by just 100 or 200, that\u2019s already a half pound off, or 26 pounds a year.It is extremely important to me that it gets it right. It also has a ton of features, but I don\u2019t use them honestly. It\u2019s very easy to connect and set up, too. The price is subjectively fair but objectively it is quite high. Regardless, I am very pleased with it. The battery life is EXCELLENT if you turn Bluetooth and WiFi off, too. 5/5 all around!\n  \nRead more",
+                "asin_in_url": "B0CDC6Y617",
+                "buy_it_with": [
+                    {
+                        "asin": "B0CZ3D5RZW",
+                        "price": 9.99,
+                        "title": "ArmorSuit 6 Pack for Garmin Venu 3S (41mm) Screen Protector MilitaryShield HD Clear Film - Made in USA"
+                    },
+                    {
+                        "asin": "B0D4YT82K6",
+                        "price": 19.99,
+                        "title": "TRUMiRR Band Sets for Venu 3S (41mm) Women Smart Watch, Solid Stainless Steel Metal + Mesh Watchband for Garmin Garmin Venu 3S / Venu 2S / Forerunner 265S / Vivomove 3S"
+                    }
+                ],
+                "description": "41mm French Gray case and silicone band smartwatch Bright 1.2-inch AMOLED touchscreen display Up to 10 days of battery life in smartwatch mode Detailed health and wellness insights Advanced fitness features Works with the Garmin connect app Lightweight case with stainless steel bezel 30 preloaded GPS and indoor sports apps Sports apps and workouts for wheelchair users Hydration and respiration tracking",
+                "parent_asin": "B0CGWX4LXS",
+                "price_upper": 399.99,
+                "pricing_str": "New & Used (23) from $391.56$391.56 & FREE Shipping.",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B0CDC6Y617/ref=dp_olp_ALL_mbc?ie=UTF8&condition=ALL",
+                "manufacturer": "Garmin",
+                "max_quantity": 3,
+                "price_buybox": 399.99,
+                "product_name": "Garmin Venu 3S Soft Gold Stainless Steel Bezel 1.2-Inch AMOLED Touchscreen Display Smart Watch with 41mm French Gray Case and Silicone Band",
+                "sales_volume": "1K+",
+                "bullet_points": "Train Effectively: With more than 30 sports apps, animated workouts and Garmin coach, train purposely and effectively. Take and place calls from your wrist\nAdvanced Fitness Features: Purpose-built with advanced health and fitness features and the ability to make calls and send texts, Venu 3S is more than just a smartwatch, it\u2019s your personal on-wrist coach\nBuilt-In Sports Apps: Track all the ways you move with more than 30 preloaded GPS and indoor sports apps - including walking, running, cycling, pool swimming, activities for wheelchair users and more\nBuilt-In Speaker and Microphone: When paired with your compatible smartphone, make and take phone calls right from the watch\nWrist-Based Heart Rate: The Venu 3S smartwatch constantly samples your heart rate, so you can stay in the know all day and night",
+                "other_sellers": "New & Used (23) from $391.56 & FREE Shipping.",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 2196,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "upc": "753759314798",
+                    "asin": "B0CDC6Y617",
+                    "brand": "Garmin",
+                    "color": "French Gray",
+                    "language": "English",
+                    "band_color": "Soft Gold/French Gray",
+                    "band_width": "18 Millimeters",
+                    "item_shape": "Oval",
+                    "model_name": "GRVENU3SGG",
+                    "sport_type": "Walking, Running, Cycling, Swimming, Wheelchair Sports",
+                    "style_name": "Classic",
+                    "item_weight": "1.4 Ounces",
+                    "screen_size": "1.2 Inches",
+                    "closure_type": "Buckle",
+                    "display_type": "AMOLED",
+                    "manufacturer": "Garmin",
+                    "model_number": "010-02785-02",
+                    "item_dimensions": "1.6 x 1.6 x 0.47 inches",
+                    "target_audience": "Unisex Adult",
+                    "customer_reviews": "4.4 4.4 out of 5 stars 2,196 ratings 4.4 out of 5 stars",
+                    "operating_system": "Android & iOS",
+                    "battery_cell_type": "Lithium Ion",
+                    "best_sellers_rank": "#2,122 in Electronics (See Top 100 in Electronics) #55 in Smartwatches",
+                    "wireless_provider": "du",
+                    "band_material_type": "Silicone",
+                    "case_material_type": "Stainless Steel",
+                    "compatible_devices": "Smartphone",
+                    "additional_features": "Sleep Coach, Activity Tracking, Body Battery\u2122 Energy Monitoring, Built-in Speaker and Microphone, Animated On-Screen Workouts, Built-In Sports Apps, Workout Benefit and Recovery Time, Wrist-Based Heart Rate, Stress Tracking, Morning Report",
+                    "battery_average_life": "240 Hours",
+                    "wireless_compability": "Bluetooth",
+                    "age_range_description": "Adult",
+                    "communication_feature": "Notification,Text Message,Phone Call",
+                    "human_interface_input": "Touchscreen, Buttons",
+                    "supported_application": "Phone",
+                    "water_resistance_level": "Water Resistant",
+                    "connectivity_technology": "Wireless",
+                    "memory_storage_capacity": "8 GB",
+                    "gps_geotagging_functionality": "Built-in GPS",
+                    "global_trade_identification_number": "00753759314798",
+                    "supported_satellite_navigation_system": "GPS"
+                },
+                "featured_merchant": [],
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "discount_percentage": 11,
+                "price_strikethrough": 449.99,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 73
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 12
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 5
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 3
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 6
+                    }
+                ],
+                "frequently_bought_together": [
+                    {
+                        "asin": "B0CDC6Y617"
+                    },
+                    {
+                        "asin": "B0CZ3D5RZW"
+                    },
+                    {
+                        "asin": "B0D4YT82K6"
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:41:58",
+            "updated_at": "2024-10-17 10:42:03",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B0CDC6Y617?th=1&psc=1",
+            "job_id": "7252629912740188161",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:41:58",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252629912740188161",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B0CDC6Y617",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:42:03",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252629912740188161",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252629912740188161/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252629912740188161/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252629912740188161/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252629912740188161/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252629912740188161/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252629912740188161/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

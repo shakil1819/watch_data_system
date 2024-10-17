@@ -1,0 +1,507 @@
+{
+    "results": [
+        {
+            "content": {
+                "ads": [
+                    {
+                        "pos": 1,
+                        "asin": "B000820YBU",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Invicta Men's 0070 \"Pro Diver Collection\" Stainless Steel and Blue Dial Watch",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41ccYGeX4tL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 2,
+                        "asin": "B005FMZY36",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Invicta Men's 1515 I \"Force Collection\" 18k Gold Ion-Plated Stainless Steel and Black Cloth Watch",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41wZ1fftkPL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 3,
+                        "asin": "B0CKTXHCDY",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "UNDONE Aquadeep Signal Orange Rubber Band 43 mm Automatic Dive Watch 500M Water Resistance Wristwatch Diver for Men",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41i6IDZGxiL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 4,
+                        "asin": "B0DBQKNKFL",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Carnival Men's Wine Barrel Fully Automatic Mechanical Watch,Luxury Sport Waterproof 50m Men Wristwatch with Hollow Star (759Green)",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/51glKH+d1JL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 3.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 5,
+                        "asin": "B085PYHGCT",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "About Vintage 1815 Chronograph Mens Watch, Stainless Steel, (Steel/Green Sunray)",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41bYh2VadSL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 6,
+                        "asin": "B07W8NNHVF",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "About Vintage 1844 Chronograph Mens Watch, Stainless Steel, Analog (Steel/White)",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/316bjifjUWL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 7,
+                        "asin": "B0CSKB8SLQ",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "OLEVS Silver Blue Watches for Men Fashion with Date Business Dress Luxury Big Face Pro Diver Watch Waterproof Luminous Gift Mens Wrist Watch Analog Multifunction Stainless Steel Reloj para Hombre",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41PLZjO3nRL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 8,
+                        "asin": "B0B63BN3X4",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "Men Watch Pagani Design GMT Watches for Men Automatic 40MM Date 100M Waterproof Stainless Steel Sapphire Glass Mechanical Wristwatches PD-1662 (5 Blue Red)",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41ynZsM7XAL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 9,
+                        "asin": "B0CBXL53FT",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "SEIKO Men's Blue Dial Black Silicone Band Prospex PADI Special Edition Automatic Analog Watch",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41c8FABwk-L._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 10,
+                        "asin": "B0B715RSHW",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "BERNY Automatic Mechanical Dive Watch for Men Self Winding Sport Silicon Strap Wristwatches Waterproof 20ATM Sapphire Glass Scratch Resistant Super Luminous, Yellow Dial",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/51zAUpbPerL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 1,
+                        "asin": "B073M6F2HX",
+                        "type": "organic_also_viewed",
+                        "price": 28.99,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/71CP7KKYhhL._AC_SR555,630,0,C_BR3_.jpg",
+                            "https://images-na.ssl-images-amazon.com/images/I/41RMQbzm-ZL._AC_SR555,630,0,C_BR3_.jpg",
+                            "https://images-na.ssl-images-amazon.com/images/I/81xl-IVvHUL._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 28.99,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 2,
+                        "asin": "B073M6F2HX",
+                        "type": "organic_also_viewed",
+                        "price": 31,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/41RMQbzm-ZL._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 31,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 3,
+                        "asin": "B07RP3K74P",
+                        "type": "organic_also_viewed",
+                        "price": 35,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/81xl-IVvHUL._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 35,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    }
+                ],
+                "url": "https://www.amazon.com/dp/B00PXVU3GM?th=1&psc=1",
+                "asin": "B00PXVU3GM",
+                "page": 1,
+                "price": 199.99,
+                "stock": "In Stock",
+                "title": "Citizen Promaster Dive Eco-Drive Watch, 3-Hand Date, ISO Certified, Luminous Hands and Markers, Rotating Bezel, Blue/Stainless (Model: BN0151-09L)",
+                "buybox": [
+                    {
+                        "price": 199.99,
+                        "stock": "In Stock",
+                        "condition": " Buy new: ",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Monday, October 21",
+                                    "from": null
+                                },
+                                "type": "Or fastest delivery"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 199.99,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Saturday, October 19",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            },
+                            {
+                                "date": {
+                                    "by": "Tomorrow, October 18",
+                                    "from": null
+                                },
+                                "type": "Or fastest pickup"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/711Ptw4HSAS._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61Na7MVEVDL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/51uH-1rTlXL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61FQw4ifZ0L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61uSqTPdzHL._AC_SL1500_.jpg"
+                ],
+                "rating": 4.7,
+                "_errors": [
+                    "Could not parse ASIN for organic carousel item"
+                ],
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011",
+                                "name": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "url": "/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011",
+                                "name": "Men"
+                            },
+                            {
+                                "url": "/Mens-Watches/b/ref=dp_bc_aui_C_3?ie=UTF8&node=6358539011",
+                                "name": "Watches"
+                            },
+                            {
+                                "url": "/Mens-Wrist-Watches/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6358540011",
+                                "name": "Wrist Watches"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Monday, October 21",
+                            "from": null
+                        },
+                        "type": "Or fastest delivery"
+                    }
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [],
+                "has_videos": false,
+                "sales_rank": [
+                    {
+                        "rank": 118565,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/ref=pd_zg_ts_fashion",
+                                "name": "Clothing, Shoes & Jewelry"
+                            }
+                        ]
+                    },
+                    {
+                        "rank": 249,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/6358540011/ref=pd_zg_hrsr_fashion",
+                                "name": "Men's Wrist Watches"
+                            }
+                        ]
+                    }
+                ],
+                "top_review": "It has been a tradition for the last few cruises that I buy a watch onboard.  This time I would have, and this was the watch I planned to buy, but they didn't have it in blue, so I abstained on the ship, and ordered this one the day I got home.So why this one?  A couple of reasons.1.) It just has that classic diver look to it.2.) A friend of mine has this watch, and EVERY time I see it when we hang out, it catches my eye.  He abuses his, and years later it still looks great, which is a testament to its durability.3.) Feature packed.Ok - so let's talk about the features.1.) Eco Drive - this is a time-tested technology, and I have several Citizen Eco Drive watches, to include a 1st Gen Eco Drive purchased in 1996 that STILL takes a charge and runs when I get it out.2.) Mineral glass window - not the scratch resistance of sapphire, but TOUGH.3.) Accurate movement.  Prior to DST, I set the watch about 3 weeks prior and it had gained a grand total of 2 seconds.  That's about +3 seconds a month.  You can't find an automatic that will do that.4.) Water resistance to 200 meters with a screw-down crown.5.) Hacking movement - when you pull the stem to the 2nd click, the second hand stops, and that allows you to sync it to the exact second to another time source.-- Side note on movement.  I considered getting the version of this watch with the automatic/self-winding movement, but the movement in that watch is the Miyota 8204, which is a 21.6k movement (rather than 28.8k) that only has an accuracy guarantee of +/- 20 seconds/day.  I have other automatics that are considerably more accurate than thatBottom line - this watch looks great, and it's built to last.  I know I'll get a lot of years of use out of this timepiece.I've included two pics of this watch.  One with the stock blue rubber diver's strap, and another with an aftermarket bracelet that is specifically fitted for this watch case.  I'd name it here but I think that would invalidate the review.  In any case, it's pretty easy to find if you prefer that aesthetic, and it isn't terribly expensive - the stainless bracelet is well worth the investment and it gives the option of either aesthetic.\n  \nRead more",
+                "asin_in_url": "B00PXVU3GM",
+                "description": "Prove that a dive watch can be fun & functional with the CITIZEN\u00ae ISO-certified Promaster Diver. With Eco-Drive technology, it is powered by light and never needs a battery, so you'll never need to open your caseback or compromise your dive again. Featured with stainless steel case, dark blue polyurethane strap and dark blue dial. With aluminum ring on bezel, one-way rotating elapsed time and WR200. Featuring our Eco-Drive technology \u2013 powered by light, any light. Never needs a battery. Caliber number E168. The company was established in 1924. The founding fathers selected the name Citizen so it would be \"\"Close to the Hearts of People Everywhere\"\" and soon after adopted the company\u2019s formal name, Citizen Watch Company. During the last seventy-five years Citizen has expanded its business throughout the world and has achieved recognition as the global brand. The past twenty-five year period has coincided with the company\u2019s dramatic rise to its current position as the world\u2019s largest watchmaker, a distinction Citizen has held every year since 1986. Beyond sheer size, Citizen is also recognized as a worldwide leader in advanced technology. From the world\u2019s slimmest LCD watch to the first voice recognition watch and the world\u2019s first professional dive watch with an electronic depth sensor, Citizen\u2019s record of \"\"world\u2019s firsts\"\" is unmatched. More recently, Citizen has staked out a new position as the leader in timekeeping with its Eco-Drives watches that are light powered. With models ranging from dress models to sports models to professional dive watches, Citizen Eco-Drive runs continuously in any kind of natural or artificial light for a lifetime of use. Fueled by light, it never needs a battery. P.when('A').execute(function(A) { A.on('a:expander:toggle_description:toggle:collapse', function(data) { window.scroll(0, data.expander.$expander[0].offsetTop-100); }); }); Prove that a dive watch can be fun & functional with the CITIZEN ISO-certified Promaster Professional Diver. With Eco-Drive technology, it is powered by light and never needs a battery, so you'll never need to open your caseback or compromise your dive again. See more",
+                "parent_asin": "B00PXVU3GM",
+                "price_upper": 199.99,
+                "pricing_str": "New & Used (4) from $183.23$183.23 & FREE Shipping.",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B00PXVU3GM/ref=dp_olp_ALL_mbc?ie=UTF8&condition=ALL",
+                "manufacturer": "Citizen",
+                "max_quantity": 30,
+                "price_buybox": 199.99,
+                "product_name": "Citizen Promaster Dive Eco-Drive Watch, 3-Hand Date, ISO Certified, Luminous Hands and Markers, Rotating Bezel, Blue/Stainless (Model: BN0151-09L)",
+                "sales_volume": "400+ bought in past month",
+                "bullet_points": "Iconic Promaster watches with advanced functions designed to venture to the deepest depths.\n3 Hand, Date\nSilver-Tone Stainless Steel\nLuminous Hands and Markers and Anti-Reflective Mineral Crystal\nFeaturing our Eco-Drive technology \u2013 powered by light, any light. 200 Meters Water Resistant and 5 Year Limited Warranty",
+                "other_sellers": "New & Used (4) from $183.23 & FREE Shipping.",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 3753,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "asin": "B00PXVU3GM",
+                    "batteries": "1 Lithium Ion batteries required.",
+                    "department": "mens",
+                    "manufacturer": "Citizen Watch Company",
+                    "country_of_origin": "Japan",
+                    "item_model_number": "BN0151-09L",
+                    "product_dimensions": "4.9 x 4.5 x 4 inches; 15.17 ounces",
+                    "date_first_available": "November 15, 2023",
+                    "is_discontinued_by_manufacturer": "No"
+                },
+                "featured_merchant": [],
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "product_dimensions": "4.9 x 4.5 x 4 inches; 15.17 ounces",
+                "discount_percentage": 47,
+                "price_strikethrough": 375,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 84
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 9
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 3
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 1
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 3
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:48:05",
+            "updated_at": "2024-10-17 10:48:10",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B00PXVU3GM?th=1&psc=1",
+            "job_id": "7252631453287084033",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:48:05",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252631453287084033",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B00PXVU3GM",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:48:10",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252631453287084033",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252631453287084033/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631453287084033/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252631453287084033/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631453287084033/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252631453287084033/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631453287084033/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

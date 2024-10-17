@@ -1,0 +1,503 @@
+{
+    "results": [
+        {
+            "content": {
+                "ads": [
+                    {
+                        "pos": 1,
+                        "asin": "B07FHBJGP2",
+                        "type": "organic_also_viewed",
+                        "price": 33.09,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/51A7FOjcsFL._AC_SR555,630,0,C_BR3_.jpg",
+                            "https://images-na.ssl-images-amazon.com/images/I/516irNU7kTL._AC_SR555,630,0,C_BR3_.jpg",
+                            "https://images-na.ssl-images-amazon.com/images/I/51Q3UOEMgPL._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 33.09,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 2,
+                        "asin": "B091JYVZ79",
+                        "type": "organic_also_viewed",
+                        "price": 33.09,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/516irNU7kTL._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 33.09,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": 3,
+                        "asin": "B08JY7T5D2",
+                        "type": "organic_also_viewed",
+                        "price": 23.99,
+                        "title": "YUINK Mens Watch Ultra-Thin Digital Sports Watch Waterproof Stainless Steel Fashion Wrist Watch for Men Women",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/41rTpbD6bZL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.2,
+                        "location": "carousel",
+                        "price_upper": 23.99,
+                        "reviews_count": 42,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 4,
+                        "asin": "B0BK11BV64",
+                        "type": "organic_also_viewed",
+                        "price": 39.77,
+                        "title": "OLEVS Watch for Men Diamond Business Dress Analog Quartz Stainless Steel Waterproof Luminous Date Two Tone Luxury Casual Wrist Watch",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/511AY0b24aL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.3,
+                        "location": "carousel",
+                        "price_upper": 39.77,
+                        "reviews_count": 43,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 5,
+                        "asin": "B07RJ2H8P5",
+                        "type": "organic_also_viewed",
+                        "price": 16.99,
+                        "title": "Dayllon Kids Digital Watch Outdoor Sports 50M Waterproof Electronic Watches Alarm Clock 12/24 H Stopwatch Calendar Boy Girl Wristwatch",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/41IdwZ532dL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.4,
+                        "location": "carousel",
+                        "price_upper": 16.99,
+                        "reviews_count": 44,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 6,
+                        "asin": "B07RHYYFSK",
+                        "type": "organic_also_viewed",
+                        "price": 39.99,
+                        "title": "MEGALITH Mens Watches Waterproof Digital Military Sport Tactical Multifunction Heavy Duty Led Digital Watch for Men, Alarm Stopwatch, Nylon/Leather Strap",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/51cf1FJq9cL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.1,
+                        "location": "carousel",
+                        "price_upper": 39.99,
+                        "reviews_count": 41,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 7,
+                        "asin": "B086BZTMGW",
+                        "type": "organic_also_viewed",
+                        "price": 185.99,
+                        "title": "BINLUN Men's Automatic Gold Watches 18K Gold Plated Diamond Mechanical Watch Waterproof Stainless Steel Skeleton Wrist Watch for Men",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/41BYetyG9TL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.2,
+                        "location": "carousel",
+                        "price_upper": 185.99,
+                        "reviews_count": 42,
+                        "is_prime_eligible": false
+                    }
+                ],
+                "url": "https://www.amazon.com/dp/B001AWZDA4?th=1&psc=1",
+                "asin": "B001AWZDA4",
+                "page": 1,
+                "price": 19.95,
+                "stock": "In Stock",
+                "title": "Casio Men's Classic W800H-1AV Sport Watch with Black Resin Band",
+                "buybox": [
+                    {
+                        "price": 19.95,
+                        "stock": "In Stock",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 19.95,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/6159sqOpeSL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/611wy0YfUiL._AC_SL1000_.jpg",
+                    "https://m.media-amazon.com/images/I/51GPGAbEDYL._AC_SL1024_.jpg",
+                    "https://m.media-amazon.com/images/I/41-OEaV4xcL._AC_SL1024_.jpg",
+                    "https://m.media-amazon.com/images/I/71401JFUVPL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61V-j+bNIYL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/81J6OTeiXcL._AC_SL1500_.jpg"
+                ],
+                "rating": 4.6,
+                "_errors": [
+                    "Could not parse ASIN for organic carousel item",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'"
+                ],
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011",
+                                "name": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "url": "/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011",
+                                "name": "Men"
+                            },
+                            {
+                                "url": "/Mens-Accessories/b/ref=dp_bc_aui_C_3?ie=UTF8&node=2474937011",
+                                "name": "Accessories"
+                            },
+                            {
+                                "url": "/Mens-Sunglasses-Eyewear-Accessories/b/ref=dp_bc_aui_C_4?ie=UTF8&node=7072330011",
+                                "name": "Sunglasses & Eyewear Accessories"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Prime members",
+                            "from": null
+                        },
+                        "type": "Or"
+                    }
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [],
+                "has_videos": false,
+                "sales_rank": [
+                    {
+                        "rank": 11074,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/ref=pd_zg_ts_fashion",
+                                "name": "Clothing, Shoes & Jewelry"
+                            }
+                        ]
+                    },
+                    {
+                        "rank": 14,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/6358540011/ref=pd_zg_hrsr_fashion",
+                                "name": "Men's Wrist Watches"
+                            }
+                        ]
+                    },
+                    {
+                        "rank": 77,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/7072330011/ref=pd_zg_hrsr_fashion",
+                                "name": "Men's Sunglasses & Eyewear Accessories"
+                            }
+                        ]
+                    }
+                ],
+                "top_review": "Bought this 2 years and 8 months ago and it's still great. In that time, it's drifted 27 seconds (e.g. at 8:00:00 it now reads 8:00:27). **EDIT** This drift is inaccurate. Updated at bottom of review **END EDIT**. For me, that's not a big deal, but figured I'd mention it. I wear the watch face-side down on my wrist, but it only accrued one mild scratch in all that time. Nothing terrible. I bought this watch because it had 3 things; the 24-hour time, the day of the week, and the date on a single screen. It's the only watch I've found that had all 3 of those. To find all 3 in a highly rated and CHEAP watch? I bought it in a second and haven't regretted it since. I actually returned a better and more expensive watch (Casio DW5600E-1V) before eventually finding and loving this. I especially love that it orders the date in Year-Month-Day format. I live in the US where Month-Day-Year is the norm, but I also work with thousands of computer files where the best way to organize files by date is with a Year-Month-Day system (e.g. 221102 for November 2, 2022). It's just a little nothing thing, but I love this watch for it.I should note that the watch band snapped off back in August, 2 years and 5 months after getting the watch. That's happened with other watches with resin bands that I've owned, always around the 2-3 year mark. I heard it's from sweat or showers hardening the resin or something. That could make sense as I never take mine off except when I'm rock climbing. Regardless, I just grabbed a cheap 18mm silicone watch strap for 12.99 and it's been fine ever since (bought silicone because I heard they don't snap. I'll update this if it ever does).I plan to use this watch forever. If it breaks, I'll buy a new one for the price of a burger + onion rings. I've gone through a dozen watches over the past 25 years or so, but this is the first one that I loved. It has everything I want without a bunch of other useless expensive crap that I'll never use (looking at you, altimeter; and that's coming from a hiker). It's cheap, reliable (anecdotally), has a fast band replacement process, no feature-bloat, has large text, and is DECENTLY water resistant. The only downside is that the watch isn't 200m water resistant. If it was, it'd be perfect for me. Anyway, I don't go surfing/swimming with it, but it hasn't fogged up after 2+ years of showers, rain, sweat, etc. If you want a cheap watch, I recommend this one (unless you're an avid surfer). Or if you're like me and willing to fork over $100 for a watch, maybe buy this anyway. It's certainly much better than the $21 price-tag would have you believe.**EDIT** 12/12/23I made the above review over a year ago, but I realized that I couldn't verify that the 27 seconds of drift was accurate. Well, I decided to run a little experiment over the past year and record the drift every few months (basically whenever I remembered I was even doing this) and it turns out that the drift WASN'T accurate. After a year, my watch drifted 58 seconds. To get that 27 second value, I might have reset my watch whenever we had daylight saving time or something, hence the inaccurate drift. Anyway, I included the recorded values below (MM/DD/YY format) in case someone is interested. Also, I used time.gov for the baseline comparison.12/11/22  9:55PM - 0 seconds fast01/19/23  6:18PM - 5 seconds fast02/22/23  12:48PM - 10.5 seconds fast04/15/23  9:00PM - 18.5 seconds fast05/08/23  8:22PM - 22 seconds fast06/27/23  12:52PM - 30 seconds fast09/06/23  8:15PM - 41 seconds fast11/05/23  7:18PM - 51 seconds fast12/11/23  9:55PM - 58 seconds fastThis basically means my watch drifts by a little more than 1 second every week (1sec/~6.29days). For my needs, that's fine. I'm not doing anything in my daily life that requires long-term precision to the second, and I have to reset it every so often anyway for the aforementioned daylight saving time, so I don't mind at all. Other than that, the watch still works great (nearing 4 years now) and the \"new\" silicone watchband is still great too (although it hasn't hit that 2-3 year breakdown point yet). So, all in all, still happy with it.\n  \nRead more",
+                "asin_in_url": "B001AWZDA4",
+                "description": "100M Water Resistance and 10-Year Battery life makes this watch the perfect choice for those looking for top cost performance in a timepiece. The Casio Men's Classic Digital Sport Watch features an intuitive design that makes it easy-to-use for on-the-go athletes. The timepiece is constructed with a durable resin case, a stationary black resin bezel, and a black resin band with an adjustable buckle clasp. A durable mineral window shields the square digital-gray dial face, which features a digital time display along with the day, date, and month. The watch also includes light, mode, and adjust buttons that allow you to personalize your watch display to suit your workout. The digital-quartz-powered timepiece is water resistant to 330 feet. P.when('A').execute(function(A) { A.on('a:expander:toggle_description:toggle:collapse', function(data) { window.scroll(0, data.expander.$expander[0].offsetTop-100); }); }); Casio With the launch of its first watch in November 1974, Casio entered the wristwatch market at a time when the watch industry had just discovered digital technology. As a company with cutting-edge electronic technology developed for pocket calculators, Casio entered this field confident that it could develop timepieces that would lead the market. Today, Casio is focusing its efforts on solar-powered radio-controlled watches: the built-in solar battery eliminates the nuisance of replacing batteries, atomic timekeeping means the users never have to reset the time. Recently, Casio launched a series of Bluetooth watches that sync to the users cell phone to automatically update the time. Casio is always moving time forward. See more",
+                "parent_asin": "B001AWZDA4",
+                "price_upper": 19.95,
+                "pricing_str": "New & Used (11) from $19.15$19.15 FREE Shipping on orders over $35.00 shipped by Amazon.",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B001AWZDA4/ref=dp_olp_ALL_mbc?ie=UTF8&condition=ALL",
+                "manufacturer": "Casio",
+                "max_quantity": 3,
+                "price_buybox": 19.95,
+                "product_name": "Casio Men's Classic W800H-1AV Sport Watch with Black Resin Band",
+                "sales_volume": "2K+ bought",
+                "amazon_choice": true,
+                "bullet_points": "10-year battery life\n100-meter water resistance\nLED backlight\nDual time\nApprox. battery life: 10 years on CR2025",
+                "other_sellers": "New & Used (11) from $19.15 FREE Shipping on orders over $35.00 shipped by Amazon.",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 18554,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "asin": "B001AWZDA4",
+                    "batteries": "1 Lithium Metal batteries required. (included)",
+                    "department": "mens",
+                    "manufacturer": "Casio",
+                    "country_of_origin": "China",
+                    "item_model_number": "W-800H-1AVCF",
+                    "product_dimensions": "5 x 5 x 0.7 inches; 1.2 ounces",
+                    "date_first_available": "November 12, 2003",
+                    "is_discontinued_by_manufacturer": "No"
+                },
+                "featured_merchant": [],
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "product_dimensions": "5 x 5 x 0.7 inches; 1.2 ounces",
+                "discount_percentage": 33,
+                "price_strikethrough": 29.95,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 78
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 12
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 5
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 2
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 4
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:47:09",
+            "updated_at": "2024-10-17 10:47:12",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B001AWZDA4?th=1&psc=1",
+            "job_id": "7252631215629420545",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:47:09",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252631215629420545",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B001AWZDA4",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:47:12",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252631215629420545",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252631215629420545/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631215629420545/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252631215629420545/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631215629420545/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252631215629420545/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631215629420545/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

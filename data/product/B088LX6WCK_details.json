@@ -1,0 +1,382 @@
+{
+    "results": [
+        {
+            "content": {
+                "url": "https://www.amazon.com/dp/B088LX6WCK?th=1&psc=1",
+                "asin": "B088LX6WCK",
+                "page": 1,
+                "brand": "NUOVO",
+                "price": 9.99,
+                "stock": "In Stock",
+                "title": "NUOVO Women Watch Silicone Watch for Ladies Sports Watch Casual Watch Crystal Accented Leather Strap Watch Analog Display Watch",
+                "buybox": [
+                    {
+                        "price": 9.99,
+                        "stock": "In Stock",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Monday, October 21",
+                                    "from": null
+                                },
+                                "type": "Or fastest delivery"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 9.99,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/61xU5wciA9L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71HxCAjUJfL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71h7bM7-gYL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/7124LLZr7ML._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71o11kToFDL._AC_SL1500_.jpg"
+                ],
+                "rating": 4.3,
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011",
+                                "name": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "url": "/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011",
+                                "name": "Women"
+                            },
+                            {
+                                "url": "/Womens-Watches/b/ref=dp_bc_aui_C_3?ie=UTF8&node=6358543011",
+                                "name": "Watches"
+                            },
+                            {
+                                "url": "/Womens-Wrist-Watches/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6358544011",
+                                "name": "Wrist Watches"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Monday, October 21",
+                            "from": null
+                        },
+                        "type": "Or fastest delivery"
+                    }
+                ],
+                "_warnings": [
+                    "Could not parse pricing count."
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [
+                    {
+                        "asin": "B0D66G1NH5",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "White-D"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/31QSAiVjkIL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0D66L6QKK",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "White-E"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/31qRdeOn7rL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0D83LWWT1",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "White-F"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/31f+bsaeSzL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B088LX6WCK",
+                        "selected": true,
+                        "dimensions": {
+                            "Color": "White03"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41Iq4KaaECL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0D83V1KG9",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "Black-A"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/31JRlFjjAFL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0D83L7VX8",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "White-G"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/31bqwDMJVsL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0C8TJ2CD7",
+                        "selected": false,
+                        "dimensions": {
+                            "Color": "White02"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/31CrTiIxU-L._SS36_.jpg"
+                    }
+                ],
+                "has_videos": false,
+                "sales_rank": [
+                    {
+                        "rank": 36512,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/ref=pd_zg_ts_fashion",
+                                "name": "Clothing, Shoes & Jewelry"
+                            }
+                        ]
+                    },
+                    {
+                        "rank": 47,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/6358544011/ref=pd_zg_hrsr_fashion",
+                                "name": "Women's Wrist Watches"
+                            }
+                        ]
+                    }
+                ],
+                "top_review": "It's so dainty! It comes with the battery already in. It slightly goes in the dark. I had accidentally marked my white band with blue ink pen and tried rubbing it out. It didn't come out, but I realised that overtime the mark faded on its own.\n  \nRead more",
+                "asin_in_url": "B088LX6WCK",
+                "buy_it_with": [
+                    {
+                        "asin": "B0CF1VW64P",
+                        "price": 9.99,
+                        "title": "IBSO Women Watches Ladies Quartz Wristwatches Waterproof Bracelet Watch Relogio Feminino"
+                    },
+                    {
+                        "asin": "B0CFDJRM4P",
+                        "price": 9.99,
+                        "title": "TWOPTION Womens Waterproof Wrist Watch,Women's Small Thin Analog Bracelet Quartz Watch Dainty Christmas Gifts"
+                    }
+                ],
+                "description": "",
+                "parent_asin": "B0D95DV19Y",
+                "price_upper": 9.99,
+                "pricing_str": "",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B088LX6WCK?startIndex=0",
+                "manufacturer": "Brand: NUOVO",
+                "max_quantity": 30,
+                "price_buybox": 9.99,
+                "product_name": "NUOVO Women Watch Silicone Watch for Ladies Sports Watch Casual Watch Crystal Accented Leather Strap Watch Analog Display Watch",
+                "sales_volume": "1K+ bought in past month",
+                "amazon_choice": true,
+                "bullet_points": "White and rose gold classic colors, 5 diamonds on the top and bottom of the case, elegant atmosphere.\n12 Arabic numerals on the simple white dial are easy to read.\nStylish stainless steel Buckle, easy to assemble and resize.\nJapanese quartz movement, which keeps time more accurate.\nWater resistant to 3ATM: daily waterproof,not for swimming or bathing.",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 200,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "asin": "B088LX6WCK",
+                    "batteries": "1 Product Specific batteries required. (included)",
+                    "department": "womens",
+                    "manufacturer": "NUOVO",
+                    "package_dimensions": "5.47 x 1.89 x 0.67 inches; 0.85 ounces",
+                    "date_first_available": "June 27, 2020",
+                    "is_discontinued_by_manufacturer": "No"
+                },
+                "featured_merchant": {
+                    "link": "/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2P9CZV6HM4A8Z&asin=B088LX6WCK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+                    "name": "time  shop",
+                    "seller_id": "A2P9CZV6HM4A8Z",
+                    "shipped_from": "Amazon",
+                    "is_amazon_fulfilled": true
+                },
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 69
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 12
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 6
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 3
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 9
+                    }
+                ],
+                "frequently_bought_together": [
+                    {
+                        "asin": "B088LX6WCK"
+                    },
+                    {
+                        "asin": "B0CF1VW64P"
+                    },
+                    {
+                        "asin": "B0CFDJRM4P"
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:49:38",
+            "updated_at": "2024-10-17 10:49:41",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B088LX6WCK?th=1&psc=1",
+            "job_id": "7252631841084035073",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:49:38",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252631841084035073",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B088LX6WCK",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:49:41",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252631841084035073",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252631841084035073/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631841084035073/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252631841084035073/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631841084035073/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252631841084035073/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631841084035073/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

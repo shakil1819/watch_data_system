@@ -1,0 +1,625 @@
+{
+    "results": [
+        {
+            "content": {
+                "url": "https://www.amazon.com/dp/B0DGJ73CFS?th=1&psc=1",
+                "asin": "B0DGJ73CFS",
+                "page": 1,
+                "brand": "Apple",
+                "price": 239.17,
+                "stock": "In Stock",
+                "title": "Apple Watch SE (2nd Gen) [GPS 40mm] Smartwatch with Starlight Aluminium Case with Starlight Sport Band S/M. Fitness and Sleep Trackers, Crash Detection, Heart Rate Monitor, Retina Display",
+                "buybox": [
+                    {
+                        "price": 239.17,
+                        "stock": "In Stock",
+                        "condition": " Buy new: ",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 239.17,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/61umEhyV-UL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61O-h97DtHL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71nSf3GwWkL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71ruFyzXGPL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71KzCUiJ6qL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61coYXNPNiL._AC_SL1500_.jpg"
+                ],
+                "rating": 3.9,
+                "category": [],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Prime members",
+                            "from": null
+                        },
+                        "type": "Or"
+                    }
+                ],
+                "_warnings": [
+                    "Could not parse pricing count.",
+                    "Could not parse description.",
+                    "Could not parse category.",
+                    "Could not parse sales ranks."
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [
+                    {
+                        "asin": "B0DGJGXNX6",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Starlight Aluminium Case with Starlight Sport Band",
+                            "Style": "M/L - fits 150-200mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJCTFKX",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Starlight Aluminium Case with Starlight Sport Band",
+                            "Style": "M/L - fits 160-210mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ2NM9S",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Midnight Aluminum Case with Midnight Sport Band",
+                            "Style": "M/L - fits 160-210mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHS7R27",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "M/L - fits 160-210mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ1F3W7",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Starlight Aluminium Case with Starlight Sport Band",
+                            "Style": "S/M - fits 140-190mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHZJVYY",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Starlight AluminiumCase with LakeGreen Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW2Q4C9",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Starlight Aluminium Case with Starlight Sport Band",
+                            "Style": "M/L - fits 150-200mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ73CFS",
+                        "selected": true,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Starlight Aluminum Case with Starlight Sport Band",
+                            "Style": "S/M - fits 130-180mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/316IR-VGDlL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0DGVSC4HX",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Midnight Aluminium Case with Ink Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ736JM",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Midnight Aluminum Case with Midnight Sport Band",
+                            "Style": "S/M - fits 130-180mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/318GcaNFixL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0DGVTYR2R",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Midnight Aluminum Case with Midnight Sport Band",
+                            "Style": "M/L - fits 160-210mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHR7Z3M",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "S/M - fits 140-190mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHRBF1J",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Midnight Aluminium Case with Ink Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHYNCHZ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "S/M - fits 130-180mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41tnbZeeuOL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0DGHY9T8N",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "M/L - fits 150-200mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHQ1L1T",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Silver Aluminium Case with Blue Cloud Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVS2WQV",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "M/L - fits 150-200mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVZX9KC",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Starlight Aluminium Case with Starlight Sport Band",
+                            "Style": "M/L - fits 160-210mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ4RTVT",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Midnight Aluminium Case with Ink Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW31LW8",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Silver Aluminium Case with Blue Cloud Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJGYT94",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Starlight AluminiumCase with LakeGreen Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW5WD2G",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "M/L - fits 160-210mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHPY11S",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Midnight Aluminium Case with Midnight Sport Band",
+                            "Style": "M/L - fits 150-200mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHZ1MLK",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Silver Aluminium Case with Blue Cloud Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW34ZBQ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Starlight Aluminium Case with Starlight Sport Band",
+                            "Style": "S/M - fits 140-190mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVW485Z",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Midnight Aluminum Case with Midnight Sport Band",
+                            "Style": "S/M - fits 140-190mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW31LTL",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Silver Aluminium Case with Blue Cloud Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW5XB3V",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Starlight Aluminum Case with Starlight Sport Band",
+                            "Style": "S/M - fits 130-180mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVNQXJM",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Midnight Aluminum Case with Midnight Sport Band",
+                            "Style": "S/M - fits 130-180mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVQ63KK",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Midnight Aluminium Case with Midnight Sport Band",
+                            "Style": "M/L - fits 150-200mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW3H6Q7",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Midnight Aluminium Case with Ink Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGWJ2G57",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Starlight Aluminium Case with Lake Green Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ1W9MF",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Midnight Aluminum Case with Midnight Sport Band",
+                            "Style": "S/M - fits 140-190mm wrists",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVS6H2Y",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44mm Case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "S/M - fits 140-190mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGWNRBZJ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Starlight Aluminium Case with Lake Green Sport Loop",
+                            "Style": "One Size",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVW3LVZ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40mm Case",
+                            "Color": "Silver Aluminium Case with Denim Sport Band",
+                            "Style": "S/M - fits 130-180mm wrists",
+                            "Configuration": "With AppleCare+ (2 Years)"
+                        }
+                    }
+                ],
+                "has_videos": true,
+                "sales_rank": [],
+                "top_review": "Got these at a great price during an Amazon Prime day sale. I bought them for a door prize raffle, but they arrive super quickly and new and sealed etc. You gotta watch some places like the big W as one of the Apple watches last year had been used and damaged and somehow placed back in the box and sealed. Never had that happen with Amazon as Amazon is top notch!  Thanks, appreciate it. Oh and all accolades aside for Amazon, Apple watches are the bomb, great watches.\n  \nRead more",
+                "asin_in_url": "B0DGJ73CFS",
+                "description": "",
+                "parent_asin": "B0BJMLC7WM",
+                "price_upper": 239.17,
+                "pricing_str": "New & Used (4) from $187.11$187.11 & FREE Shipping.",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B0DGJ73CFS/ref=dp_olp_ALL_mbc?ie=UTF8&condition=ALL",
+                "manufacturer": "Apple",
+                "max_quantity": 3,
+                "price_buybox": 239.17,
+                "product_name": "Apple Watch SE (2nd Gen) [GPS 40mm] Smartwatch with Starlight Aluminium Case with Starlight Sport Band S/M. Fitness and Sleep Trackers, Crash Detection, Heart Rate Monitor, Retina Display",
+                "sales_volume": "10K+ bought",
+                "bullet_points": "WHY APPLE WATCH SE \u2014 All the essentials to help you be motivated and active, keep connected, track your health, and stay safe. watchOS 11 brings more intelligence, personalization, and connectivity. With features like Fall Detection and enhanced workout metrics, Apple Watch SE is an incredible value.\nSTAY CONNECTED \u2014 Send a text, take a call, listen to music and podcasts, use Siri, or call for help with Emergency SOS.* Apple Watch SE (GPS) works with your iPhone or Wi-Fi to keep you connected.\nHEALTH AND SAFETY FEATURES \u2014 Get insights into your health, including notifications if you have an irregular heart rhythm* or an unusually high or low heart rate. Get help when you need it with Fall Detection, Crash Detection, and Emergency SOS.* Automatically notify loved ones when you arrive at your destination with Check In.*\nSIMPLY COMPATIBLE \u2014 It works seamlessly with your Apple devices and services.* Unlock your Mac automatically. Find your devices easily. Pay and send money with Apple Pay.\nSWIMPROOF AND FASHIONABLE \u2014 50m water resistance.* Three finishes. And a color-matched back case made with a production process that reduces its carbon emissions.\nEASILY CUSTOMIZABLE \u2014 With watch bands in a range of styles, materials, and colors and fully customizable watch faces, you can change your watch to fit your mood or the moment.\nA GREAT FITNESS PARTNER \u2014 The Workout app gives you a range of ways to train plus advanced metrics for more insights into your workout performance. And Apple Watch comes with three months of Apple Fitness+ free.*\nAPPLE WATCH FOR YOUR KIDS \u2014 Set up Apple Watch for those who don\u2019t yet have their own iPhone, so everyone can stay connected, active, healthy, and safe.*\nCARBON NEUTRAL \u2014 Apple Watch SE (2nd generation) is carbon neutral when paired with select bands. Learn more about Apple\u2019s commitment to the environment at apple.com/2030.\n* LEGAL DISCLAIMERS \u2014 This is a summary of the main product features. See below to learn more.",
+                "other_sellers": "New & Used (4) from $187.11 & FREE Shipping.",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 55,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "featured_merchant": [],
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "discount_percentage": 22,
+                "price_strikethrough": 239.17,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 58
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 8
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 13
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 3
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 18
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:35:35",
+            "updated_at": "2024-10-17 10:35:38",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B0DGJ73CFS?th=1&psc=1",
+            "job_id": "7252628306221081601",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:35:35",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252628306221081601",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B0DGJ73CFS",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:35:38",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252628306221081601",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252628306221081601/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252628306221081601/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252628306221081601/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252628306221081601/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252628306221081601/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252628306221081601/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

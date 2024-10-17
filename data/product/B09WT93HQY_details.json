@@ -1,0 +1,552 @@
+{
+    "results": [
+        {
+            "content": {
+                "ads": [
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    }
+                ],
+                "url": "https://www.amazon.com/dp/B09WT93HQY?th=1&psc=1",
+                "asin": "B09WT93HQY",
+                "page": 1,
+                "brand": "Garmin",
+                "price": 298.4,
+                "stock": "In Stock",
+                "title": "Garmin Forerunner\u00ae 255 Music, GPS Running Smartwatch with Music, Advanced Insights, Long-Lasting Battery, White",
+                "buybox": [
+                    {
+                        "price": 298.4,
+                        "stock": "In Stock",
+                        "condition": " Buy new: ",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Monday, October 21",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Monday, October 21",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 299,
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "18",
+                                    "from": "November 4"
+                                },
+                                "type": "FREE pickup"
+                            },
+                            {
+                                "date": {
+                                    "by": "14",
+                                    "from": "November 2"
+                                },
+                                "type": "Or fastest pickup"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/71oE4xAvSUL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61WNz8KU4PL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71jl1Zzk6NL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71cEwHEwaPL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71PHqlDDvlL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71aaNOwqyDL._AC_SL1500_.jpg"
+                ],
+                "rating": 4.7,
+                "_errors": [
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'"
+                ],
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/electronics-store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=172282",
+                                "name": "Electronics"
+                            },
+                            {
+                                "url": "/Wearable-Technology/b/ref=dp_bc_aui_C_2?ie=UTF8&node=10048700011",
+                                "name": "Wearable Technology"
+                            },
+                            {
+                                "url": "/smart-watches/b/ref=dp_bc_aui_C_3?ie=UTF8&node=7939901011",
+                                "name": "Smartwatches"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Monday, October 21",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    }
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [
+                    {
+                        "asin": "B09WTV6MMY",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46 MM",
+                            "Color": "Black",
+                            "Style": "Music",
+                            "Pattern Name": "Smartwatch"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41iFVlE1bXL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B09WT8X8TN",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41 MM",
+                            "Color": "Neo Tropic",
+                            "Style": "Non-Music",
+                            "Pattern Name": "Smartwatch"
+                        }
+                    },
+                    {
+                        "asin": "B09WT52Y8S",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41 MM",
+                            "Color": "Whitestone - Small",
+                            "Style": "Music",
+                            "Pattern Name": "Smartwatch"
+                        }
+                    },
+                    {
+                        "asin": "B0BPGGYB4K",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46 MM",
+                            "Color": "Slate Gray",
+                            "Style": "Non-Music",
+                            "Pattern Name": "Smartwatch + Monitor"
+                        }
+                    },
+                    {
+                        "asin": "B0BLTX6XT2",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46 MM",
+                            "Color": "Black",
+                            "Style": "Music",
+                            "Pattern Name": "Smartwatch + Monitor, Black"
+                        }
+                    },
+                    {
+                        "asin": "B0BFJ5376L",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41 MM",
+                            "Color": "Black - Small",
+                            "Style": "Music",
+                            "Pattern Name": "Smartwatch + Running Dynamics Pod"
+                        }
+                    },
+                    {
+                        "asin": "B09WTP57Z5",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46 MM",
+                            "Color": "Slate Gray",
+                            "Style": "Non-Music",
+                            "Pattern Name": "Smartwatch"
+                        }
+                    },
+                    {
+                        "asin": "B09WT93HQY",
+                        "selected": true,
+                        "dimensions": {
+                            "Size": "46 MM",
+                            "Color": "Whitestone",
+                            "Style": "Music",
+                            "Pattern Name": "Smartwatch"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41pSC7XVk6L._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0BPG58FZZ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41 MM",
+                            "Color": "Whitestone - Small",
+                            "Style": "Music",
+                            "Pattern Name": "Smartwatch + Strap"
+                        }
+                    },
+                    {
+                        "asin": "B09WTJ48NB",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41 MM",
+                            "Color": "Black - Small",
+                            "Style": "Music",
+                            "Pattern Name": "Smartwatch"
+                        }
+                    },
+                    {
+                        "asin": "B09WTSKRTN",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "41 MM",
+                            "Color": "Powder Gray",
+                            "Style": "Non-Music",
+                            "Pattern Name": "Smartwatch"
+                        }
+                    },
+                    {
+                        "asin": "B09WTYT878",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "46 MM",
+                            "Color": "Tidal Blue",
+                            "Style": "Non-Music",
+                            "Pattern Name": "Smartwatch"
+                        }
+                    }
+                ],
+                "has_videos": true,
+                "sales_rank": [],
+                "top_review": "This was a huge upgrade from my Vivioactive HR. The screens are crisp, buttons and actually working the watch is simple and easy to understand and it performs smoothly without any issue. Connection to my phone is quick and easy and the data for every stat when I run is always accurate. The design of the watch is also smooth and comfortable. But please note, in order to get music onto the watch, there are select apps you may use, and if you choose to use Spotify or Amazon Music, you do require a premium subscription to either one to get full access. It is also possible to transfer files from a desktop to the watch and there are 2 other apps I\u2019ve never used that also work.\n  \nRead more",
+                "asin_in_url": "B09WT93HQY",
+                "buy_it_with": [
+                    {
+                        "asin": "B0B5VVNJBF",
+                        "price": 230.77,
+                        "title": "Garmin Venu\u00ae Sq 2 GPS Smartwatch, All-Day Health Monitoring, Long-Lasting Battery Life, AMOLED Display, Slate and Shadow Gray"
+                    },
+                    {
+                        "asin": "B092FF2951",
+                        "price": 197.74,
+                        "title": "Fitbit Luxe Special Edition Fitness and Wellness Tracker, Gorjana Soft Gold Stainless Steel Parker Link Bracelet, One Size (S & L Peony Classic Bands Included)"
+                    }
+                ],
+                "description": "Run at a higher level with the Forerunner\u00ae 255 smartwatch. These running smartwatches help you train and recover smarter with training status, running power, multi-band GPS and daily suggested workouts that adapt to your performance and goals. Plus, other new features \u2014 such as race widget \u2014 help you plan your race-day strategy, and morning report with HRV status reveals your overall health alongside the day ahead. And with Garmin Pay\u2122 contactless payments with a supported card, it\u2019s never been easier to buy that post-workout coffee \u2014 no matter how you work out \u2014 with more than 30 activity profiles, including triathlon, cycling, swimming and more. With Forerunner 255, you can get a continuous picture of your health, from training and recovery to sleep quality and overall wellness \u2014 and with up to 14 days of battery life in smartwatch mode and up to 30 hours in GPS mode.",
+                "parent_asin": "B0B3LSB27T",
+                "price_upper": 298.4,
+                "pricing_str": "New & Used (27) from $249.99$249.99 & FREE Shipping",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B09WT93HQY/ref=dp_olp_ALL_mbc?ie=UTF8&condition=ALL",
+                "manufacturer": "Garmin",
+                "max_quantity": 21,
+                "price_buybox": 298.4,
+                "product_name": "Garmin Forerunner\u00ae 255 Music, GPS Running Smartwatch with Music, Advanced Insights, Long-Lasting Battery, White",
+                "sales_volume": "1K+ bought in past month",
+                "amazon_choice": true,
+                "bullet_points": "Built with a slim design and an always-on, full-color display that\u2019s light on the wrist and easy to read even in direct sunlight \u2014 with available sizes of 46 mm and 41 mm\nForerunner 255 Music provides up to 14 days of battery life in smartwatch mode and up to 30 hours in GPS mode for a full picture of your health \u2014 from sleep to training\nDownload up to 500 songs to your watch, including playlists from Spotify, Amazon Music or Deezer (subscription required), and connect with your wireless headphones for phone-free listening\nMorning report summarizes your sleep, HRV status and daily workout suggestion in one place as soon as you wake up (This device is intended to give an estimate of your activity and metrics)\nGet ready for your next race with training tips, personalized daily suggested workouts and completion time predictions based on course details, weather and performance\nView your entire week of daily suggested workouts, which adapt after every run to match your performance and recovery\nHRV status tracks your heart rate variability while you sleep, giving you greater insight into your overall wellness, recovery and training performance (This device is intended to give an estimate of your activity and metrics)\nGet free adaptive training plans from Garmin Coach for a 5K, 10K and half-marathon, or create your own custom workouts in the Garmin Connect smartphone app\nEvaluates your current training status to indicate if you\u2019re undertraining or overdoing it; offers additional performance monitoring features, including recovery time after your workouts\nWhen using a Running Dynamics Pod or HRM-Pro monitor (sold separately), get a continuous measurement on your wrist of how much power you\u2019re applying to the road as you run, so you can manage your effort",
+                "other_sellers": "New & Used (27) from $249.99 & FREE Shipping",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 127,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "upc": "753759279929",
+                    "asin": "B09WT93HQY",
+                    "brand": "Garmin",
+                    "color": "Whitestone",
+                    "band_color": "white",
+                    "band_width": "22 Millimeters",
+                    "item_shape": "Round",
+                    "model_name": "Forerunner 255",
+                    "sport_type": "Training, Track & Field, Exercise & Fitness, Running, Outdoor Lifestyle",
+                    "style_name": "Music",
+                    "band_length": "167 Millimeters",
+                    "item_weight": "1.7 Ounces",
+                    "screen_size": "1.3 Inches",
+                    "display_type": "Sunlight-Visible, Transflective Memory-in-Pixel (MIP)",
+                    "manufacturer": "Garmin",
+                    "model_number": "010-02641-21",
+                    "warranty_type": "Limited",
+                    "built_in_media": "Forerunner 255/255s; Charging/data Cable; documentation",
+                    "item_dimensions": "1.8 x 1.8 x 0.5 inches",
+                    "target_audience": "Unisex",
+                    "battery_capacity": "1100 Milliamp Hours",
+                    "customer_reviews": "4.7 4.7 out of 5 stars 127 ratings 4.7 out of 5 stars",
+                    "battery_cell_type": "Lithium Ion",
+                    "best_sellers_rank": "#5,883 in Electronics (See Top 100 in Electronics) #170 in Smartwatches",
+                    "wireless_provider": "du",
+                    "band_material_type": "Silicone",
+                    "compatible_devices": "Smartphone",
+                    "additional_features": "Daily Suggested Workouts; Garmin Coach; Triathlon and Multisport Profiles; Wrist-Based Running Dynamics; Wrist-Based Running Power, Sweat-Ready Materials; Morning Report; HRV Status; Built-in Sports Apps; Race Adaptive Training Plans",
+                    "battery_average_life": "14 days",
+                    "wireless_compability": "Bluetooth",
+                    "age_range_description": "Adult",
+                    "communication_feature": "[PARTIAL]",
+                    "human_interface_input": "Buttons",
+                    "supported_application": "GPS",
+                    "water_resistance_depth": "50 Meters",
+                    "water_resistance_level": "Water Resistant",
+                    "wearable_computer_type": "Smart Watch",
+                    "compatible_phone_models": "Smartphone",
+                    "connectivity_technology": "Bluetooth, USB",
+                    "memory_storage_capacity": "32 GB",
+                    "item_dimensions_d_x_w_x_h": "1.79\"D x 1.79\"W x 0.51\"H",
+                    "gps_geotagging_functionality": "True",
+                    "global_trade_identification_number": "00753759279929"
+                },
+                "featured_merchant": {
+                    "link": "/sp?marketplaceID=ATVPDKIKX0DER&seller=A1GRTT9GHGRY0B&ref_=dp_merchant_link&asin=B09WT93HQY",
+                    "name": "North To South (Serial Number Recorded)",
+                    "seller_id": "A1GRTT9GHGRY0B",
+                    "shipped_from": "North To South (Serial Number Recorded)",
+                    "is_amazon_fulfilled": false
+                },
+                "is_prime_eligible": false,
+                "parse_status_code": 12005,
+                "discount_percentage": 25,
+                "price_strikethrough": 399.99,
+                "warranty_and_support": {
+                    "links": [
+                        {
+                            "url": "/gp/feature.html/ref=dp_warranty_request_3P?docId=1002406021",
+                            "title": "click here"
+                        }
+                    ],
+                    "description": "Product Warranty: For warranty information about this product, please click here"
+                },
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 84
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 11
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 0
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 2
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 4
+                    }
+                ],
+                "frequently_bought_together": [
+                    {
+                        "asin": "B09WT93HQY"
+                    },
+                    {
+                        "asin": "B0B5VVNJBF"
+                    },
+                    {
+                        "asin": "B092FF2951"
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:50:38",
+            "updated_at": "2024-10-17 10:50:43",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B09WT93HQY?th=1&psc=1",
+            "job_id": "7252632093358831617",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:50:38",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252632093358831617",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B09WT93HQY",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:50:43",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252632093358831617",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252632093358831617/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252632093358831617/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252632093358831617/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252632093358831617/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252632093358831617/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252632093358831617/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

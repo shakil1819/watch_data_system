@@ -1,0 +1,508 @@
+{
+    "results": [
+        {
+            "content": {
+                "ads": [
+                    {
+                        "pos": 1,
+                        "asin": "B0CGWLVS4G",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "GOLDEN HOUR Men's Nylon Slip-Thru Strap Watch with Military Time Easy Read Dial Glowing Hands in Silver Green",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/516KdoD-RKL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 2,
+                        "asin": "B0D6VB2CJ3",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "SEA-GULL Men's Mechanical Wristwatch, 1963 Aviation Chronograph Pilot Mechanical Watch, Manual Winding, GD 1963 International Edition, ST1901, Yellow, strap, D1963EXP",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41wqPvVBdLL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 3,
+                        "asin": "B0CVX6RW57",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "1956 Marine Dive Watches for Men, 41mm Wide 12.55mm Thick Mens Watch - 316L Stainless Steel Analog Quartz 20 ATM Waterproof Men Watches - Round Sapphire Crystal Dial Men Watch (Navy Off White)",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41YcyQW89zL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 4,
+                        "asin": "B0D22DRYYL",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "BERNY Titanium Watch Japanese Sweep Second Quartz Movement VH31 5ATM Waterproof Analog Quartz Watches for Men and Women Super Luminous Canvas Strap",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41HpuaMW4CL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 5,
+                        "asin": "B0CKRYKGZ6",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "UNDONE Basecamp Classic Blackout 40mm 100M Water Resistance Automatic Wrist Watch",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41eWjUsi1JL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 6,
+                        "asin": "B0C9QS7PRW",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "About Vintage 1934 Telechron Mens Watch, Stainless Steel, (Steel/Off White, 42mm)",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/413o-s9j1ZL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 7,
+                        "asin": "B099F8L7QK",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "PRAESIDUS A-11 Service Watch Men's 38 mm Military Automatic Watch in Black Dial and Canvas Strap",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41iSAv3+vOL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 8,
+                        "asin": "B07FKKGKQP",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "FEICE Men\u2019s Watches Bauhaus Automatic Watch Stainless Steel Mechanical Watch Wristwatch Casual Dress Watches for Men with Leather Bands Date -FM121",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/419uxIjwX9L._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 9,
+                        "asin": "B0CKRZF46W",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "UNDONE Terra Daybreak Suede 37 mm Automatic Men's Watch with Brown Suede Band and Black Dial Wrist Watch for Men",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/415KgObKFSL._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 10,
+                        "asin": "B0971RSBV2",
+                        "type": "sponsored_products_bottom",
+                        "price": 0,
+                        "title": "SEIKO SRPG31 Watch for Men - 5 Sports - Automatic with Manual Winding Movement, Blue-Gray Dial, Stainless Steel Case, Blue-Gray Nylon Strap, 100m Water Resistant, and Day/Date Display",
+                        "images": [
+                            "https://m.media-amazon.com/images/I/41qgMvY6-xS._AC_UF480,480_SR480,480_.jpg"
+                        ],
+                        "rating": 4.5,
+                        "location": "carousel",
+                        "price_upper": 0,
+                        "reviews_count": 0,
+                        "is_prime_eligible": true
+                    },
+                    {
+                        "pos": 1,
+                        "asin": "B07BHJSCSJ",
+                        "type": "organic_also_viewed",
+                        "price": 29.97,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/91sCEvKeWjL._AC_SR555,630,0,C_BR3_.jpg",
+                            "https://images-na.ssl-images-amazon.com/images/I/71Q9T+1jYqL._AC_SR555,630,0,C_BR3_.jpg",
+                            "https://images-na.ssl-images-amazon.com/images/I/61tXky2iIZL._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 29.97,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 2,
+                        "asin": "B07BHJSCSJ",
+                        "type": "organic_also_viewed",
+                        "price": 29.97,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/91sCEvKeWjL._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 29.97,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 3,
+                        "asin": "B0D19D62LC",
+                        "type": "organic_also_viewed",
+                        "price": 189.9,
+                        "title": "",
+                        "images": [
+                            "https://images-na.ssl-images-amazon.com/images/I/61tXky2iIZL._AC_SR555,630,0,C_BR3_.jpg"
+                        ],
+                        "rating": 0,
+                        "location": "carousel",
+                        "price_upper": 189.9,
+                        "reviews_count": 0,
+                        "is_prime_eligible": false
+                    }
+                ],
+                "url": "https://www.amazon.com/dp/B000EQS1JW?th=1&psc=1",
+                "asin": "B000EQS1JW",
+                "page": 1,
+                "price": 187.5,
+                "stock": "In Stock",
+                "title": "Citizen Men's Eco-Drive Weekender Garrison Field Watch in Stainless Steel with Olive Nylon strap, Black Dial (Model: BM8180-03E)",
+                "buybox": [
+                    {
+                        "price": 187.5,
+                        "stock": "In Stock",
+                        "condition": " Buy new: ",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Monday, October 21",
+                                    "from": null
+                                },
+                                "type": "Or fastest delivery"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 187.5,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Saturday, October 19",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            },
+                            {
+                                "date": {
+                                    "by": "Tomorrow, October 18",
+                                    "from": null
+                                },
+                                "type": "Or fastest pickup"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/81t0KQkVwpS._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71Tmy-LpOeS._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/817RrkGbilS._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/613R3CapafL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/81A4E2cZjVL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/814o-t5+FBL._AC_SL1500_.jpg"
+                ],
+                "rating": 4.5,
+                "_errors": [
+                    "Could not parse ASIN for organic carousel item"
+                ],
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011",
+                                "name": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "url": "/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011",
+                                "name": "Men"
+                            },
+                            {
+                                "url": "/Mens-Watches/b/ref=dp_bc_aui_C_3?ie=UTF8&node=6358539011",
+                                "name": "Watches"
+                            },
+                            {
+                                "url": "/Mens-Wrist-Watches/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6358540011",
+                                "name": "Wrist Watches"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Monday, October 21",
+                            "from": null
+                        },
+                        "type": "Or fastest delivery"
+                    }
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [],
+                "has_videos": false,
+                "sales_rank": [
+                    {
+                        "rank": 105662,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/ref=pd_zg_ts_fashion",
+                                "name": "Clothing, Shoes & Jewelry"
+                            }
+                        ]
+                    },
+                    {
+                        "rank": 215,
+                        "ladder": [
+                            {
+                                "url": "/gp/bestsellers/fashion/6358540011/ref=pd_zg_hrsr_fashion",
+                                "name": "Men's Wrist Watches"
+                            }
+                        ]
+                    }
+                ],
+                "top_review": "A year or two ago I bought a watch from Amazon when it was on sale for 1/2  price. It was a dandy watch, worked perfect, but it was *huge*, and pretty  heavy. It was also pretty flashy, and I'm  not. So I wound up only wearing it for \"dressy\" times, e.g., like church.  Finally, the battery died, and I decided I didn't like the watch well enough to go to the expense of buying a new battery and the hassle of putting it in.So I decided I would buy a new watch that (1) wasn't as big, heavy, and flashy as this one, and (2) didn't have a battery - I hate messing with batteries. So  I started researching watches, and when the next Amazon watch sale came along, I found a lovely *automatic*  (we called it \"self-winding\" in the \"old days\") Seiko in the \"military-inspired\" minimalist style was that I was looking for. I *almost* bought it, but the rating was a flat 4.0/5, and there were enough negative reviews about stopping working and other problems that it gave me pause. In addition, I doubted that a self-winding watch would work reliably for someone like me who doesn't wear a watch all the time.So I did some more research, and discovered that there was a 3rd class of watches - solar-powered!! And the \"solar\" supposedly means any kind of light. I found this Citizen watch that looked almost exactly like the Seiko that I liked and almost bought. It was about 85 bucks, which seemed reasonable, esp. for a watch that didn't require me to buy a battery or even to walk around...lolI've had this watch for about 32 days now. I love the look, and it is keeping perfect time. I still only wear it when I go out (i.e., not around the house),  and I've been leaving it in the kitchen where there is usually natural light during the day, plus bright artificial light on and off. So far it has worked fine. I did have to charge it under bright light for something like 12-15 hours initially, so I just left the kitchen light on overnight. I suppose some would say that cost me maybe a  quarter, but I can live with that.The strap is of decent  quality, albeit a bit stiff (I'm sure that would have loosened up with wear),  but I just didn't like having to futz with securing the strap ever time I put it on (yes, I'm old and set in my ways). This was solved by one of the major life lessons I got from my dad. Along with teaching me how to determine the model year for 50s and 60s Fords and Chevys (back when they *didn't* all look alike, and when unveiling the new model Chevy was an actual event in my small town), and warning me to \"never buy a used car, you're just buying somebody else's problems\", my dad introduced me to the Spiedel Twist-O-Flex watch band. When he bought me my first watch when  I was around 12, the first thing we did was take off the band that came with it and replace it with a brand-new Twist-O-Flex (yes, we had to take out several links to get it to fit my thin young wrist). Heck, I didn't even know you could take the band off a watch, much less change its size !!! This watch has an 18mm aperture (or w/e you call it where the band attaches), and an 18mm Twist-O-Flex fits it perfectly.The only negative would be the dearth of documentation. Other than a little folder with a few lines in about 30 languages, I was referred to a web site for info on charging and setting, etc. This is standard in the 21st century, but it still chaps me a bit.I won't apologize for the length of this review. This is the kind of review I like to find when I am considering buying an item, so this is just \"do unto others\" for me.Keep it up, Jeff B., you are doing a great job !!!P.S. I added a couple of pics with the new band, mainly to practice with my new Kindle Fire...:)\n  \nRead more",
+                "asin_in_url": "B000EQS1JW",
+                "description": "For a rugged look with a comfortable fit, this military-inspired timepiece fits the bill. with a day-date indicator, luminous hands, 37mm screw-back case, and 100M WR. The black dial provides a backdrop for simple Arabic numerals, housed in a stainless steel case along with a woven green strap with patterned stitching and a buckle clasp. Featuring our Eco-Drive technology \u2013 powered by light, any light. Never needs a battery. Caliber number E100. You will never run late with this men's sporty, Eco-Drive timepiece. From the stainless steel case, green canvas strap and 12/24 hour time indicator, the bold details never end. Additional features include a day/date indicator and water resistance to 100 meters. To set the time *(refer to full-setting instructions here: Manual ) : Stop the second hand by pulling the crown out to the 2nd click (time setting position). Turn the crown to set the time. The watch will start after the crown is firmly pushed back into its normal position To set the Calendar*: Pull the crown out to the first click (calendar setting position). Set the desired date by turning the crown counterclockwise. Set the desired day of the week by turning the crown clockwise. After you have set the calendar, be sure to press the crown back to its normal position *Do not adjust the calendar when the watch is reading between 9:00 pm and 4:00 am, otherwise the movement may become damaged and the calendar may not change correctly P.when('A').execute(function(A) { A.on('a:expander:toggle_description:toggle:collapse', function(data) { window.scroll(0, data.expander.$expander[0].offsetTop-100); }); }); Since its foundation in 1930, CITIZEN has promoted a multi-cultural mindset that fosters excellence and creativity. The very name of the brand conveys a deep respect toward craftsmanship and considered as familiar by citizens the world-over. So as a \u201ccitizen\u201d of the world, we bear the responsibility to help cultivate a culture of positive change and on-going evolution through our craft. We take that mission seriously and steadfastly welcome what the future may bring. As a true manufacture d\u2019horlogerie, CITIZEN integrates a comprehensive manufacturing process from creating individual components to a watch\u2019s final assembly. It\u2019s an artisan\u2019s approach to watch making based on pushing forward the boundaries of technology and leveraging our experience toward exploring new possibilities. One pivotal technological breakthrough was the development of a light-driven watch. CITIZEN pioneered this engineering innovation well ahead of other watch manufacturers as early as 1976, which led to the launch of the highly acclaimed Eco-Drive in 1995. Utilizing electrical power converted from virtually any light source, this extraordinary innovation changed forever the way watches could be powered. Eco-Drive eliminated the need to ever replace batteries, which made it especially beneficial to areas where such specialist batteries were not obtainable. This leveled the field for citizens of virtually every country to be able to experience unrestricted joy of wearing and using a CITIZEN watch. The product development policy, \u201cThe Fusion of Technology and Beauty,\u201d remains a constant motivation for us to merge cutting-edge technology with perfection of design beauty, which as a consequence inspires people to strive to be their best at any time. CITIZEN launches a new campaign in collaboration with Wieden+Kennedy, Better Starts Now. This is the simple belief that no matter who you are or what you do, it is always possible to make something better \u2014 and now is the time to start doing it. We believe that better and now are both infinite, and that there is always a next \u2018better\u2019 and a new \u2018now\u2019 in which you can start pursuing it. It was clear from the onset of this project that we are dedicated to this ideal\u2026not to the past but to the present, and all the way we can improve it. To help communicate this belief to the world we have created a new global CITIZEN brand movie, brand identity and brand website that represents out Better Starts Now philosophy. See more",
+                "parent_asin": "B000EQS1JW",
+                "price_upper": 187.5,
+                "pricing_str": "New & Used (2) from $157.73$157.73 & FREE Shipping.",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B000EQS1JW/ref=dp_olp_ALL_mbc?ie=UTF8&condition=ALL",
+                "manufacturer": "Citizen",
+                "max_quantity": 3,
+                "price_buybox": 187.5,
+                "product_name": "Citizen Men's Eco-Drive Weekender Garrison Field Watch in Stainless Steel with Olive Nylon strap, Black Dial (Model: BM8180-03E)",
+                "sales_volume": "800+",
+                "bullet_points": "These military-inspired watches with rugged looks and a comfortable fit are born ready for adventure.\n3 Hand, Day / Date\nSilver-Tone Stainless Steel Case with Olive Green Nylon Strap\nLuminous Hands and Markers and Mineral Crystal\nFeaturing our Eco-Drive technology \u2013 powered by light, any light. Never needs a battery100 Meters Water Resistant and 5 Year Limited Warranty",
+                "other_sellers": "New & Used (2) from $157.73 & FREE Shipping.",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 8213,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "asin": "B000EQS1JW",
+                    "batteries": "1 CR123A batteries required. (included)",
+                    "department": "mens",
+                    "manufacturer": "Citizen",
+                    "country_of_origin": "Japan",
+                    "item_model_number": "BM8180-03E",
+                    "product_dimensions": "5.91 x 5.91 x 5.91 inches; 7.2 ounces",
+                    "date_first_available": "November 15, 2023",
+                    "is_discontinued_by_manufacturer": "No"
+                },
+                "featured_merchant": [],
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "product_dimensions": "5.91 x 5.91 x 5.91 inches; 7.2 ounces",
+                "discount_percentage": 25,
+                "price_strikethrough": 250,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 73
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 14
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 6
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 2
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 4
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:51:56",
+            "updated_at": "2024-10-17 10:51:59",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B000EQS1JW?th=1&psc=1",
+            "job_id": "7252632419436620801",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:51:56",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252632419436620801",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B000EQS1JW",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:51:59",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252632419436620801",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252632419436620801/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252632419436620801/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252632419436620801/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252632419436620801/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252632419436620801/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252632419436620801/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

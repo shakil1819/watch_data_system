@@ -1,0 +1,668 @@
+{
+    "results": [
+        {
+            "content": {
+                "ads": [
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": "Error parsing `pos`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "asin": "Error parsing `asin`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "type": "Error parsing `type`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price": "Error parsing `price`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "title": "Error parsing `title`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "images": "Error parsing `images`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "rating": "Error parsing `rating`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "location": "Error parsing `location`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "price_upper": "Error parsing `price_upper`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "reviews_count": "Error parsing `reviews_count`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`.",
+                        "is_prime_eligible": "Error parsing `is_prime_eligible`: `(<class 'AttributeError'>, AttributeError(\"'NoneType' object has no attribute 'xpath'\"))`."
+                    },
+                    {
+                        "pos": 1,
+                        "asin": "B0CYBVPW33",
+                        "type": "organic_also_viewed",
+                        "price": 29.99,
+                        "title": "Smart Watch for Men Women (Answer/Make Call), 2024 HD 1.91\"Smartwatch Fitness Activity Tracker, 110+ Sports IP68 Waterproof, Heart Rate/Sleep Monitor/Pedometer/Calories, Fitness Watch for Android iOS",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/419rFkR72-L._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 3.9,
+                        "location": "carousel",
+                        "price_upper": 29.99,
+                        "reviews_count": 39,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 2,
+                        "asin": "B0D3WXM5VW",
+                        "type": "organic_also_viewed",
+                        "price": 59.99,
+                        "title": "SUNKTA Military Smart Watches for Men(Answer/Dial Calls),1.43\" AMOLED 5ATM Waterproof/400mAh/126 Sport Modes/Heart Rate/SpO2/Sleep Monitor,Rugged Fitness Tracker Tactical Smartwatch for Android iOS",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/51jIlJGvmhL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 3.9,
+                        "location": "carousel",
+                        "price_upper": 59.99,
+                        "reviews_count": 39,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 3,
+                        "asin": "B0BFWVTLGM",
+                        "type": "organic_also_viewed",
+                        "price": 79.59,
+                        "title": "SKG Smart Watch for Men Women Android iPhone with Alexa Built-in & Bluetooth Call(Answer/Make Call) 1.69\" Fitness Tracker with IP68 Waterproof, 60+ Sports, Heart Rate SpO2 Monitor, V7 Pro",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/41EMaAd1ioL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4,
+                        "location": "carousel",
+                        "price_upper": 79.59,
+                        "reviews_count": 40,
+                        "is_prime_eligible": false
+                    },
+                    {
+                        "pos": 4,
+                        "asin": "B0C4DJNMP9",
+                        "type": "organic_also_viewed",
+                        "price": 49.95,
+                        "title": "Fitpolo Smart Watches for Women Android & iPhone, Alexa Built-in [1.8\" HD Screen] IP68 Waterproof Fitness Watch with Bluetooth Call (Answer/Make), Heart Rate/Sleep/SpO2 Monitor, 105+ Sports Tracker",
+                        "images": [
+                            "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%' width='100%' preserveAspectRatio='none' /%3E",
+                            "https://m.media-amazon.com/images/I/51E6f0OePfL._AC_SR100,100_.jpg"
+                        ],
+                        "rating": 4.1,
+                        "location": "carousel",
+                        "price_upper": 49.95,
+                        "reviews_count": 41,
+                        "is_prime_eligible": false
+                    }
+                ],
+                "url": "https://www.amazon.com/dp/B083M8DP6X?th=1&psc=1",
+                "asin": "B083M8DP6X",
+                "page": 1,
+                "brand": "Apple",
+                "price": 155.98,
+                "stock": "Only 4 left in stock - order soon.",
+                "title": "Apple Watch Series 5 (GPS, 44MM) - Space Gray Aluminum Case with Black Sport Band (Renewed)",
+                "buybox": [
+                    {
+                        "price": 155.98,
+                        "stock": "Only 4 left in stock - order soon.",
+                        "condition": " Refurbished - Excellent ",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tomorrow, October 18",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 129.58,
+                        "stock": "In stock Usually ships within 2 to 3 days.",
+                        "condition": " Refurbished - Good ",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "23",
+                                    "from": "October 22"
+                                },
+                                "type": "FREE delivery"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 105.1,
+                        "stock": "Only 10 left in stock - order soon.",
+                        "condition": " Refurbished - Acceptable ",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Monday, October 21",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Tomorrow, October 18",
+                                    "from": null
+                                },
+                                "type": "Or fastest delivery"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/71qp5fCNp7L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/61xyO06bZSL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71zZc4421HL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71lz3zTq55L._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71Jpr+Jc6lL._AC_SL1500_.jpg"
+                ],
+                "rating": 4.2,
+                "_errors": [
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'",
+                    "'NoneType' object has no attribute 'xpath'"
+                ],
+                "category": [
+                    {
+                        "ladder": [
+                            {
+                                "url": "/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011",
+                                "name": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "url": "/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011",
+                                "name": "Men"
+                            },
+                            {
+                                "url": "/Mens-Watches/b/ref=dp_bc_aui_C_3?ie=UTF8&node=6358539011",
+                                "name": "Watches"
+                            },
+                            {
+                                "url": "/Mens-Smartwatches/b/ref=dp_bc_aui_C_4?ie=UTF8&node=14130292011",
+                                "name": "Smartwatches"
+                            }
+                        ]
+                    }
+                ],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tomorrow, October 18",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    }
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [
+                    {
+                        "asin": "B08P5371GZ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44MM",
+                            "Color": "Gold Stainless Steel Case & Gold Stainless Steel",
+                            "Style": "GPS + Cellular"
+                        }
+                    },
+                    {
+                        "asin": "B0843HV4D5",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40MM",
+                            "Color": "Space Gray Aluminum w Black Sport Band",
+                            "Style": "GPS + Cellular"
+                        }
+                    },
+                    {
+                        "asin": "B082VLK58D",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44MM",
+                            "Color": "Stainless Steel Case & White Sport Band",
+                            "Style": "GPS + Cellular"
+                        }
+                    },
+                    {
+                        "asin": "B082VKS8V7",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40MM",
+                            "Color": "Gold Stainless Steel Case & Stone Sport Band",
+                            "Style": "GPS + Cellular"
+                        }
+                    },
+                    {
+                        "asin": "B082VL1841",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40MM",
+                            "Color": "Stainless Steel Case & White Sport Band",
+                            "Style": "GPS + Cellular"
+                        }
+                    },
+                    {
+                        "asin": "B082VL8TVF",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44MM",
+                            "Color": "Silver Aluminum Case with White Sport Band",
+                            "Style": "GPS + Cellular"
+                        }
+                    },
+                    {
+                        "asin": "B0849ST9TT",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44MM",
+                            "Color": "Gold Aluminum w Pink Sand Sport Band",
+                            "Style": "GPS"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41DCl9GwZKL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B08X8YTXHK",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44MM",
+                            "Color": "Titanium Silver w White Sport Band",
+                            "Style": "GPS + Cellular"
+                        }
+                    },
+                    {
+                        "asin": "B082VLF12G",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44MM",
+                            "Color": "Space Black Stainless Steel Case",
+                            "Style": "GPS + Cellular"
+                        }
+                    },
+                    {
+                        "asin": "B083M6YZKT",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40MM",
+                            "Color": "Gold Aluminum w Pink Sand Sport Band",
+                            "Style": "GPS"
+                        }
+                    },
+                    {
+                        "asin": "B0848FYW9M",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40MM",
+                            "Color": "Stainless Steel Case & Black Sport Band",
+                            "Style": "GPS + Cellular"
+                        }
+                    },
+                    {
+                        "asin": "B0842BFWZV",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40MM",
+                            "Color": "Silver Aluminum w White Sport Band",
+                            "Style": "GPS"
+                        }
+                    },
+                    {
+                        "asin": "B082VKRK29",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44MM",
+                            "Color": "Space Gray Aluminum w Black Sport Band",
+                            "Style": "GPS + Cellular"
+                        }
+                    },
+                    {
+                        "asin": "B084RMNMZ8",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44MM",
+                            "Color": "Silver Aluminum w White Sport Band",
+                            "Style": "GPS"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/01Amun1TQiL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B082VLCYKN",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "44MM",
+                            "Color": "Gold Aluminum w Pink Sand Sport Band",
+                            "Style": "GPS + Cellular"
+                        }
+                    },
+                    {
+                        "asin": "B0849M7QPQ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40MM",
+                            "Color": "Space Gray Aluminum w Black Sport Band",
+                            "Style": "GPS"
+                        }
+                    },
+                    {
+                        "asin": "B083M8DP6X",
+                        "selected": true,
+                        "dimensions": {
+                            "Size": "44MM",
+                            "Color": "Space Gray Aluminum w Black Sport Band",
+                            "Style": "GPS"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/01IC51UjD+L._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B083M8QB9Q",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40MM",
+                            "Color": "Gold Aluminum w Pink Sport Band",
+                            "Style": "GPS + Cellular"
+                        }
+                    },
+                    {
+                        "asin": "B0843JDCZW",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40MM",
+                            "Color": "Silver Aluminum w White Sport Band",
+                            "Style": "GPS + Cellular"
+                        }
+                    },
+                    {
+                        "asin": "B08X9CY4DJ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "40MM",
+                            "Color": "Titanium w White Sport Band",
+                            "Style": "GPS + Cellular"
+                        }
+                    }
+                ],
+                "has_videos": false,
+                "sales_rank": [],
+                "top_review": "Looks amazing and does everything it is supposed to do. I just needed something to track my steps accurately but it does that and the associated fitness + app accurately logs my workouts. I use the workouts on the Fitness app and I love that the watch automatically knows to begin tracking my workout time and calories burned. It even shows how many minutes left in the workout. I also swim with my watch own with no issue so it is in fact waterproof. The only way I know this is refurbished is because of the battery life.  It only lasts for the day. I typically wake up around 8 am and the watch needs to be charged by 12/ 12:30 am. I have no issues with this because I\u2019m usually heading to bed around then.\n  \nRead more",
+                "asin_in_url": "B083M8DP6X",
+                "buy_it_with": [
+                    {
+                        "asin": "B07WRBDXZ8",
+                        "price": 9.96,
+                        "title": "Misxi 2 Pack Hard PC Case with Tempered Glass Screen Protector Compatible with Apple Watch SE 2 (2024) SE Series 6 Series 5 Series 4 44mm, Black"
+                    },
+                    {
+                        "asin": "B09KLYT52T",
+                        "price": 9.99,
+                        "title": "UniqueMe [6 Pack TPU Screen Protector Compatible with Apple Watch 44mm SE Series 6/5/4, [Upgrade Flexible Film] Anti-Scratch Soft HD TPU Clear Film for iWatch 44mm"
+                    }
+                ],
+                "description": "PRODUCT OVERVIEWStay connected, healthy, and safe with the Apple Watch Series 5. You interface with all of the Series 5's features and the watchOS through its 44mm curved watch face with an LTPO OLED always-on Retina display. With an always-on screen in low brightness, you can quickly glance at the watch face for the time, workout stats, and more. If you lift your wrist, the screen will automatically come back to full brightness. The case also features a digital crown with haptic feedback and a heart rate monitor that's capable of recording your own ECG.KEY FEATURESGPSAlways-On Retina display30% larger screenSwimproofECG appElectrical and optical heart sensorsBuilt-in compassElevationEmergency SOSFall detection",
+                "parent_asin": "B0D627CTRK",
+                "price_upper": 155.98,
+                "pricing_str": "Renewed (20) from $105.10$105.10 & FREE Shipping",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B083M8DP6X/ref=dp_olp_ALL_mbc?ie=UTF8&condition=ALL",
+                "manufacturer": "Amazon Renewed",
+                "max_quantity": 4,
+                "price_buybox": 155.98,
+                "product_name": "Apple Watch Series 5 (GPS, 44MM) - Space Gray Aluminum Case with Black Sport Band (Renewed)",
+                "sales_volume": "1K+ bought in past month",
+                "bullet_points": "LEAVE YOUR PHONE IN YOUR POCKET: Apple Watch Series 5 GPS Model lets you call, text, and get directions from your wrist, while leaving your phone in your pocket. It offers multiple connectivity options, including: Bluetooth, Wi-Fi, and NFC to suit all of your possible needs.\nALWAYS-ON RETINA DISPLAY: You no longer need to raise your wrist or touch the screen to see the time or other information on your watch face, because the display never sleeps. All you need to do is glance to find the time or your workout metrics right there where you want them.\nECG ON YOUR WRIST: With the ECG app, Apple Watch Series 5 is capable of generating an ECG similar to a single-lead electrocardiogram. It's a momentous achievement for a wearable device that can provide data for doctors and peace of mind for you wherever may be during the day.\nWORKOUTS THAT DON'T QUIT: Cycling, yoga, swimming, high-intensity interval training...the list goes on. You name it, Apple Watch measures it. Set workout-specific goals, see full summaries when you're done, and track how you're trending over time in the Activity app on your iPhone.\nGET LOST IN YOUR MUSIC: With Apple Music on your wrist, you've got 60 million tracks of musical motivation to take you places. You can also catch up on the latest podcasts or listen to an audiobook if that's your thing. Stream everything you need right from your watch, even without your phone",
+                "other_sellers": "Renewed (20) from $105.10 & FREE Shipping",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 26705,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "product_details": {
+                    "upc": "684500020173",
+                    "asin": "B083M8DP6X",
+                    "brand": "Apple",
+                    "color": "Space Gray Aluminum w Black Sport Band",
+                    "item_shape": "Rectangular",
+                    "model_name": "Apple Watch Series 5 GPS",
+                    "sport_type": "Yoga, Hiking",
+                    "style_name": "GPS",
+                    "screen_size": "44 Millimeters",
+                    "display_type": "Digital",
+                    "manufacturer": "Apple Computer",
+                    "model_number": "MWVF2LL/A",
+                    "warranty_type": "Limited",
+                    "controller_type": "Siri",
+                    "item_dimensions": "5 x 4 x 7 inches",
+                    "target_audience": "Unisex Adult",
+                    "customer_reviews": "4.2 4.2 out of 5 stars 26,705 ratings 4.2 out of 5 stars",
+                    "metrics_measured": "Heart Rate",
+                    "operating_system": "Apple Watch OS",
+                    "battery_cell_type": "Lithium Ion",
+                    "best_sellers_rank": "#464 in Electronics (See Top 100 in Electronics) #2 in Renewed Smartwatches #4 in Men's Smartwatches #9 in Smartwatches",
+                    "band_material_type": "Aluminum",
+                    "case_material_type": "Aluminum",
+                    "compatible_devices": "Smartphone",
+                    "additional_features": "Time Display, Accelerometer, GPS, Notifications, Heart Rate Monitor, Always On display, Water Resistant",
+                    "battery_average_life": "18 Hours",
+                    "age_range_description": "Adult",
+                    "human_interface_input": "Touchscreen",
+                    "supported_application": "GPS",
+                    "water_resistance_level": "Water Resistant",
+                    "connectivity_technology": "GPS",
+                    "gps_geotagging_functionality": "Built-in GPS"
+                },
+                "featured_merchant": {
+                    "link": "/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3PVGDCUD7BHIH&asin=B083M8DP6X&ref_=dp_merchant_link",
+                    "name": "Gadget Replay",
+                    "seller_id": "A3PVGDCUD7BHIH",
+                    "shipped_from": "Gadget Replay",
+                    "is_amazon_fulfilled": false
+                },
+                "is_prime_eligible": false,
+                "parse_status_code": 12005,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 68
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 11
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 5
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 4
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 12
+                    }
+                ],
+                "frequently_bought_together": [
+                    {
+                        "asin": "B083M8DP6X"
+                    },
+                    {
+                        "asin": "B07WRBDXZ8"
+                    },
+                    {
+                        "asin": "B09KLYT52T"
+                    }
+                ],
+                "renewed_product_information": {
+                    "description": "",
+                    "notification": "This product is inspected, tested, and refurbished, as necessary to be fully functional according to Amazon Renewed standards. Learn about Amazon Renewed"
+                }
+            },
+            "created_at": "2024-10-17 10:50:15",
+            "updated_at": "2024-10-17 10:50:20",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B083M8DP6X?th=1&psc=1",
+            "job_id": "7252631998328478721",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:50:15",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252631998328478721",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B083M8DP6X",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:50:20",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252631998328478721",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252631998328478721/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631998328478721/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252631998328478721/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631998328478721/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252631998328478721/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252631998328478721/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}

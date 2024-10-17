@@ -1,0 +1,939 @@
+{
+    "results": [
+        {
+            "content": {
+                "url": "https://www.amazon.com/dp/B0DGHYDYMR?th=1&psc=1",
+                "asin": "B0DGHYDYMR",
+                "page": 1,
+                "brand": "Apple",
+                "price": 734.89,
+                "stock": "In Stock",
+                "title": "Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch, Sport Watch with Black Titanium Case with Black Trail Loop - M/L. Fitness Tracker, Precision GPS, Action Button, Carbon Neutral",
+                "buybox": [
+                    {
+                        "price": 734.89,
+                        "stock": "In Stock",
+                        "delivery_type": "Delivery",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE delivery"
+                            },
+                            {
+                                "date": {
+                                    "by": "Prime members",
+                                    "from": null
+                                },
+                                "type": "Or"
+                            }
+                        ]
+                    },
+                    {
+                        "price": 734.89,
+                        "stock": "In Stock",
+                        "delivery_type": "Pickup",
+                        "delivery_details": [
+                            {
+                                "date": {
+                                    "by": "Tuesday, October 22",
+                                    "from": null
+                                },
+                                "type": "FREE pickup"
+                            }
+                        ]
+                    }
+                ],
+                "coupon": "",
+                "images": [
+                    "https://m.media-amazon.com/images/I/81LqeMp4GRL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71PIysSj5pL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/71l4XRVDGZL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/81WbzL5nGyL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/91-qwi1D7oL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/713LO25x8oL._AC_SL1500_.jpg"
+                ],
+                "rating": 4.7,
+                "category": [],
+                "currency": "USD",
+                "delivery": [
+                    {
+                        "date": {
+                            "by": "Tuesday, October 22",
+                            "from": null
+                        },
+                        "type": "FREE delivery"
+                    },
+                    {
+                        "date": {
+                            "by": "Prime members",
+                            "from": null
+                        },
+                        "type": "Or"
+                    }
+                ],
+                "_warnings": [
+                    "Could not parse pricing count.",
+                    "Could not parse description.",
+                    "Could not parse category.",
+                    "Could not parse sales ranks."
+                ],
+                "page_type": "Product",
+                "price_sns": 0,
+                "variation": [
+                    {
+                        "asin": "B0D5K15V2Q",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "S/M - fits 130-180mm wrists",
+                            "Color": "Titanium Case with Blue/Black Trail Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVTVF8M",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Large - fits 165-210mm wrists",
+                            "Color": "Dark Green Alpine Loop",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0CSV8JVJP",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Medium - fits 145-190mm wrists",
+                            "Color": "Olive Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0CSTGJVKF",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "S/M - fits 130-180mm wrists",
+                            "Color": "Titanium Case with Blue/Black Trail Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0D5JX66PX",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "One Size",
+                            "Color": "Blue Ocean Band",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0D5JW8Y32",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Medium - fits 145-190mm wrists",
+                            "Color": "Indigo Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVXV1QL",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Large - fits 180-210mm wrists",
+                            "Color": "Black Titanium Milanese Loop",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJCTCB3",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Large - fits 180-210mm wrists",
+                            "Color": "Black Titanium Milanese Loop",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVJ7BRX",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Small - fits 130-160mm wrists",
+                            "Color": "Blue Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0D5JX57F3",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Large - fits 165-210mm wrists",
+                            "Color": "Olive Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHP9B6T",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Medium - fits 155-185mm wrists",
+                            "Color": "Natural Titanium Milanese Loop",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVL1GS9",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "M/L - fits 145-220mm wrists",
+                            "Color": "Titanium Case with Blue/Black Trail Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVZN7JB",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "M/L - fits 145-220mm wrists",
+                            "Color": "Black Trail Loop",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0D5JL3MJM",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Large - fits 165-210mm wrists",
+                            "Color": "Blue Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW4FXXJ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Small - fits 130-160mm wrists",
+                            "Color": "Tan Alpine Loop",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0D5JSGLFZ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "M/L - fits 145-220mm wrists",
+                            "Color": "Titanium Case with Green/Gray Trail Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW5YJTC",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "One Size",
+                            "Color": "Navy Ocean Band",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ2Y33D",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "S/M - fits 130-180mm wrists",
+                            "Color": "Blue Trail Loop",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ7N8VH",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Medium - fits 145-190mm wrists",
+                            "Color": "Dark Green Alpine Loop",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ5KSWL",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Large - fits 180-210mm wrists",
+                            "Color": "Natural Titanium Milanese Loop",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVMMBRM",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "S/M - fits 130-180mm wrists",
+                            "Color": "Orange/Beige Trail Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVJ5W27",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Large - fits 165-210mm wrists",
+                            "Color": "Indigo Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHRGSH3",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "One Size",
+                            "Color": "Navy Ocean Band",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHPYSGJ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Medium - fits 155-185mm wrists",
+                            "Color": "Black Titanium Milanese Loop",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0CSTHHVBM",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "One Size",
+                            "Color": "Orange Ocean Band",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHYDYMR",
+                        "selected": true,
+                        "dimensions": {
+                            "Size": "M/L - fits 145-220mm wrists",
+                            "Color": "Black Trail Loop",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        },
+                        "tooltip_image": "https://m.media-amazon.com/images/I/41PRlIHiYsL._SS36_.jpg"
+                    },
+                    {
+                        "asin": "B0CSTGYWZZ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "One Size",
+                            "Color": "White Ocean Band",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0D5JNDPYJ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "S/M - fits 130-180mm wrists",
+                            "Color": "Titanium Case with Green/Gray Trail Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0CSTGZT4Y",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Small - fits 130-160mm wrists",
+                            "Color": "Indigo Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0D5JXCXKW",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "M/L - fits 145-220mm wrists",
+                            "Color": "Titanium Case with Blue/Black Trail Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVQ713W",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "S/M - fits 130-180mm wrists",
+                            "Color": "Black Trail Loop",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGWK8L2B",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "One Size",
+                            "Color": "Black Ocean Band",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0D5K39KNT",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "S/M - fits 130-180mm wrists",
+                            "Color": "Orange/Beige Trail Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0D5JD9G95",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Small - fits 130-160mm wrists",
+                            "Color": "Blue Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHRFYMM",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "One Size",
+                            "Color": "Black Ocean Band",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVSNK83",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Small - fits 130-160mm wrists",
+                            "Color": "Dark Green Alpine Loop",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVGK51Y",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "M/L - fits 145-220mm wrists",
+                            "Color": "Orange/Beige Trail Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVCVXZF",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Medium - fits 145-190mm wrists",
+                            "Color": "Blue Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0D5JTCRZK",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "One Size",
+                            "Color": "Orange Ocean Band",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGWDHFWH",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Medium - fits 155-185mm wrists",
+                            "Color": "Natural Titanium Milanese Loop",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHZ13GG",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "S/M - fits 130-180mm wrists",
+                            "Color": "Black Trail Loop",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVXNSRY",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Medium - fits 155-185mm wrists",
+                            "Color": "Black Titanium Milanese Loop",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0D5JN1Y1X",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Small - fits 130-160mm wrists",
+                            "Color": "Indigo Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ1JMVX",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Small - fits 130-160mm wrists",
+                            "Color": "Black Titanium Milanese Loop",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0D5JQ4G6G",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Large - fits 165-210mm wrists",
+                            "Color": "Indigo Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHNX1SH",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Large - fits 165-210mm wrists",
+                            "Color": "Dark Green Alpine Loop",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ3PBKT",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Small - fits 130-160mm wrists",
+                            "Color": "Dark Green Alpine Loop",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW4K91R",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Large - fits 180-210mm wrists",
+                            "Color": "Natural Titanium Milanese Loop",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVMM8LR",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Large - fits 165-210mm wrists",
+                            "Color": "Olive Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW529K9",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Medium - fits 145-190mm wrists",
+                            "Color": "Tan Alpine Loop",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVCDCPP",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "M/L - fits 145-220mm wrists",
+                            "Color": "Titanium Case with Green/Gray Trail Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVYL4VW",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "S/M - fits 130-180mm wrists",
+                            "Color": "Blue Trail Loop",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW7QBTG",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "M/L - fits 145-220mm wrists",
+                            "Color": "Blue Trail Loop",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHNNYX4",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Medium - fits 145-190mm wrists",
+                            "Color": "Tan Alpine Loop",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGW8G37V",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Medium - fits 145-190mm wrists",
+                            "Color": "Dark Green Alpine Loop",
+                            "Style": "Black Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ74S5K",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Large - fits 165-210mm wrists",
+                            "Color": "Tan Alpine Loop",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0D5K3179B",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Medium - fits 145-190mm wrists",
+                            "Color": "Olive Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGVX1QDF",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Large - fits 165-210mm wrists",
+                            "Color": "Tan Alpine Loop",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0D5K38CKB",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "One Size",
+                            "Color": "White Ocean Band",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0CSTFM519",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "S/M - fits 130-180mm wrists",
+                            "Color": "Titanium Case with Green/Gray Trail Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVG1668",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Large - fits 165-210mm wrists",
+                            "Color": "Blue Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ32T81",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Small - fits 130-160mm wrists",
+                            "Color": "Natural Titanium Milanese Loop",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVB9C5G",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "One Size",
+                            "Color": "Blue Ocean Band",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0D5JYR2YP",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Medium - fits 145-190mm wrists",
+                            "Color": "Blue Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVG2GM8",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Medium - fits 145-190mm wrists",
+                            "Color": "Indigo Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0D5JL3MQP",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "M/L - fits 145-220mm wrists",
+                            "Color": "Orange/Beige Trail Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "With AppleCare+ (2 years)"
+                        }
+                    },
+                    {
+                        "asin": "B0DGHYB4XJ",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Small - fits 130-160mm wrists",
+                            "Color": "Tan Alpine Loop",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0CSVGDV7Q",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "Small - fits 130-160mm wrists",
+                            "Color": "Olive Alpine Loop",
+                            "Style": "Rugged Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    },
+                    {
+                        "asin": "B0DGJ2CT98",
+                        "selected": false,
+                        "dimensions": {
+                            "Size": "M/L - fits 145-220mm wrists",
+                            "Color": "Blue Trail Loop",
+                            "Style": "Natural Titanium Case",
+                            "Configuration": "Without AppleCare+"
+                        }
+                    }
+                ],
+                "has_videos": true,
+                "sales_rank": [],
+                "top_review": "I'm absolutely in love with my Apple Watch Ultra 2! As an avid outdoor enthusiast, I need a smartwatch that can keep up with my active lifestyle, and this one delivers.The durable titanium case and toughened sapphire crystal make it perfect for rugged activities like hiking, biking, and swimming. The always-on display is incredibly bright and easy to read even in direct sunlight.I've been using the Action button to quickly access my favorite workout apps and features, and it's a game-changer for my training sessions. The battery life is impressive, and I can easily get through a full day of activity without needing to recharge.The cellular connectivity is a huge plus, allowing me to stay connected and make calls even when I'm far from my phone. The built-in GPS is accurate and reliable, making it perfect for tracking my workouts and exploring new trails.If you're looking for a rugged, durable, and feature-packed smartwatch, I highly recommend the Apple Watch Ultra 2. It's the perfect companion for active individuals who demand the best.\n  \nRead more",
+                "asin_in_url": "B0DGHYDYMR",
+                "description": "",
+                "parent_asin": "B0CV3RS75J",
+                "price_upper": 734.89,
+                "pricing_str": "New (3) from $734.89$734.89 & FREE Shipping.",
+                "pricing_url": "https://www.amazon.com/gp/offer-listing/B0DGHYDYMR/ref=dp_olp_NEW_mbc?ie=UTF8&condition=NEW",
+                "manufacturer": "Apple",
+                "max_quantity": 3,
+                "price_buybox": 734.89,
+                "product_name": "Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch, Sport Watch with Black Titanium Case with Black Trail Loop - M/L. Fitness Tracker, Precision GPS, Action Button, Carbon Neutral",
+                "sales_volume": "1K+",
+                "amazon_choice": true,
+                "bullet_points": "WHY APPLE WATCH ULTRA 2 \u2014 Meet the ultimate sports and adventure watch. Advanced features for runners, cyclists, swimmers, hikers, divers, and more. Rugged titanium case, now available in satin black. Superbright Always-On Retina display. Incredibly accurate precision dual-frequency GPS.* Powerful health, safety, and connectivity features.* And up to 36 hours of battery life for normal use and 72 hours in Low Power Mode.*\nEXTREMELY RUGGED, INCREDIBLY CAPABLE \u2014 49mm corrosion-resistant titanium case. Sapphire front crystal. Large Digital Crown and customizable Action button for instant control over a variety of functions. Tested to MIL-STD 810H.* Water resistance 100m.*\nTHE FREEDOM OF CELLULAR \u2014 With a cellular service plan you can call and text without your iPhone nearby.* Stream your favorite music and podcasts. Get directions with Maps.\nMAXIMIZE YOUR TRAINING \u2014 Advanced metrics, views, and experiences in the Workout app, including Heart Rate Zones, custom workouts, and training load, which can provide insights into the impact your workouts have on your body over time.\nFOR RUNNERS \u2014 Precision dual-frequency GPS for incredible accuracy.* Automatic track detection. Advanced running form metrics to help understand how efficiently you run. Customizable workouts that can include warmups, recovery intervals, and time to cool down.\nFOR CYCLISTS \u2014 Powerful metrics take your cycling to the next level. See your speed, heart rate, and elevation in workout views. Start a cycling workout from your watch and it will automatically appear as a Live Activity on your iPhone, making it easier to see. Connect directly to Bluetooth accessories like power meters so you can see Functional Threshold Power and cadence.\nFOR HIKERS \u2014 Offline maps let you navigate with just your Apple Watch. And the Compass app is packed with essential navigation tools like current heading, elevation, longitude, and latitude. Find the last place where you had cellular reception. Mark your location with Compass Waypoints. Use Backtrack to map where you\u2019ve been and retrace your steps.\nFOR SWIMMERS AND DIVERS - Automatic stroke detection, lap count, splits, sets, and Custom Workouts for pool swimmers. Open water swimmers can view a route map in their workout summary. Full dive computer capabilities with the Oceanic+ app.* Senses depth to 40 meters along with water temperature. Certified EN13319. See tide conditions for shorelines around the world with the Tides app.\nADVANCED HEALTH AND SAFETY FEATURES \u2014 Take an ECG.* Get notifications for irregular heart rhythm.* See overnight health metrics. Track sleep and get notifications if Apple Watch detects signs of sleep apnea.* Connect automatically to emergency services in the event of a hard fall or a severe car crash. And call for emergency help or activate a siren with the press of a button.*\nLEGAL DISCLAIMERS \u2014 This is a summary of the main product features. See below to learn more.",
+                "other_sellers": "New (3) from $734.89 & FREE Shipping.",
+                "price_initial": 0,
+                "pricing_count": 1,
+                "reviews_count": 748,
+                "sns_discounts": [],
+                "developer_info": [],
+                "price_shipping": 0,
+                "featured_merchant": [],
+                "is_prime_eligible": true,
+                "parse_status_code": 12005,
+                "discount_percentage": 8,
+                "price_strikethrough": 799,
+                "answered_questions_count": 0,
+                "rating_stars_distribution": [
+                    {
+                        "rating": 5,
+                        "percentage": 86
+                    },
+                    {
+                        "rating": 4,
+                        "percentage": 5
+                    },
+                    {
+                        "rating": 3,
+                        "percentage": 2
+                    },
+                    {
+                        "rating": 2,
+                        "percentage": 1
+                    },
+                    {
+                        "rating": 1,
+                        "percentage": 5
+                    }
+                ]
+            },
+            "created_at": "2024-10-17 10:41:19",
+            "updated_at": "2024-10-17 10:41:21",
+            "page": 1,
+            "url": "https://www.amazon.com/dp/B0DGHYDYMR?th=1&psc=1",
+            "job_id": "7252629747014850561",
+            "is_render_forced": false,
+            "status_code": 200,
+            "parser_type": ""
+        }
+    ],
+    "job": {
+        "callback_url": null,
+        "client_id": 83505,
+        "context": [
+            {
+                "key": "force_headers",
+                "value": null
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": null
+            },
+            {
+                "key": "autoselect_variant",
+                "value": true
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            }
+        ],
+        "created_at": "2024-10-17 10:41:19",
+        "domain": "com",
+        "geo_location": null,
+        "id": "7252629747014850561",
+        "limit": 10,
+        "locale": null,
+        "pages": 1,
+        "parse": true,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "browser_instructions": null,
+        "render": null,
+        "url": null,
+        "query": "B0DGHYDYMR",
+        "source": "amazon_product",
+        "start_page": 1,
+        "status": "done",
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "content_encoding": "utf-8",
+        "updated_at": "2024-10-17 10:41:21",
+        "user_agent_type": "desktop",
+        "session_info": null,
+        "statuses": [],
+        "client_notes": null,
+        "_links": [
+            {
+                "rel": "self",
+                "href": "http://data.oxylabs.io/v1/queries/7252629747014850561",
+                "method": "GET"
+            },
+            {
+                "rel": "results",
+                "href": "http://data.oxylabs.io/v1/queries/7252629747014850561/results",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252629747014850561/results/1/content"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-html",
+                "href": "http://data.oxylabs.io/v1/queries/7252629747014850561/results?type=raw",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-html",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252629747014850561/results/1/content?type=raw"
+                ],
+                "method": "GET"
+            },
+            {
+                "rel": "results-parsed",
+                "href": "http://data.oxylabs.io/v1/queries/7252629747014850561/results?type=parsed",
+                "method": "GET"
+            },
+            {
+                "rel": "results-content-parsed",
+                "href_list": [
+                    "http://data.oxylabs.io/v1/queries/7252629747014850561/results/1/content?type=parsed"
+                ],
+                "method": "GET"
+            }
+        ]
+    }
+}
