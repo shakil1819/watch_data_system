@@ -14,6 +14,7 @@ services:
       - ${POSTGRES_PORT}:5432
     volumes:
       - postgres_data:/var/lib/postgresql/data
+      - shared_data:/app/data
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
       interval: 10s
@@ -41,7 +42,9 @@ services:
     user: root
     volumes:
       - ./entrypoint.sh:/entrypoint_custom.sh
+      - shared_data:/app/data
     entrypoint: /entrypoint_custom.sh
 
 volumes:
   postgres_data:
+  shared_data:
