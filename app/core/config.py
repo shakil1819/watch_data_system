@@ -17,6 +17,8 @@ class Settings(BaseSettings):
     POSTGRES_PORT: str = Field(..., env='POSTGRES_PORT')
     PGADMIN_DEFAULT_EMAIL: str = Field(..., env='PGADMIN_DEFAULT_EMAIL')
     PGADMIN_DEFAULT_PASSWORD: str = Field(..., env='PGADMIN_DEFAULT_PASSWORD')
+    OXYLAB_USERNAME: str = Field(..., env='OXYLAB_USERNAME')
+    OXYLAB_PASSWORD: str = Field(..., env='OXYLAB_PASSWORD')
 
     @validator('pg_url', pre=True, always=True)
     def validate_pg_url(cls, v):
