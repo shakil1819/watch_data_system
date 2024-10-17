@@ -15,8 +15,8 @@ app.include_router(product.router, prefix="/api", tags=["Product"])
 
 
 # Start the scheduler in a separate thread
-scheduler_thread = threading.Thread(target=schedule_scraper)
-scheduler_thread.start()
+# scheduler_thread = threading.Thread(target=schedule_scraper)
+# scheduler_thread.start()
 
 @app.get("/")
 def root():
