@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.api import product, review, insight
+from app.api import product
 from app.core.db import Base, engine
 from scheduler import schedule_scraper
 import threading
@@ -11,9 +11,8 @@ Base.metadata.create_all(bind=engine)
 app = FastAPI()
 
 # Include routers
-app.include_router(product.router, prefix="/api/products", tags=["Product"])
-app.include_router(review.router, prefix="/api/reviews", tags=["Review"])
-app.include_router(insight.router, prefix="/api/insights", tags=["Insight"])
+app.include_router(product.router, prefix="/api", tags=["Product"])
+
 
 # Start the scheduler in a separate thread
 scheduler_thread = threading.Thread(target=schedule_scraper)

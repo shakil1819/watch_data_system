@@ -8,3 +8,6 @@ requests
 sqlalchemy
 alembic
 uvicorn
+asyncpg
+openai
+chromadb
