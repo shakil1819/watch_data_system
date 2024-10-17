@@ -1,15 +1,17 @@
 ## Stacks Used: 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-323232?style=for-the-badge&logo=SQLAlchemy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pydantic-3776AB?style=for-the-badge&logo=Pydantic&logoColor=white" />
-<img src="https://img.shields.io/badge/Alembic-00758F?style=for-the-badge&logo=Alembic&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-FF4500?style=for-the-badge&logo=RAG&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-FF4500?style=for-the-badge&logo=LLM&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=OpenAI&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=RESTAPI&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF4500?style=for-the-badge&logo=ChromaDB&logoColor=white" />
+| Stack used | Shields |
+|------------|----------|
+| FastAPI | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" /> |
+| SQLAlchemy | <img src="https://img.shields.io/badge/SQLAlchemy-323232?style=for-the-badge&logo=SQLAlchemy&logoColor=white" /> |
+| Pydantic | <img src="https://img.shields.io/badge/Pydantic-3776AB?style=for-the-badge&logo=Pydantic&logoColor=white" /> |
+| Alembic | <img src="https://img.shields.io/badge/Alembic-00758F?style=for-the-badge&logo=Alembic&logoColor=white" /> |
+| PostgreSQL | <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" /> |
+| Docker | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" /> |
+| RAG | <img src="https://img.shields.io/badge/RAG-FF4500?style=for-the-badge&logo=RAG&logoColor=white" /> |
+| LLM | <img src="https://img.shields.io/badge/LLM-FF4500?style=for-the-badge&logo=LLM&logoColor=white" /> |
+| OpenAI API | <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=OpenAI&logoColor=white" /> |
+| REST API | <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=RESTAPI&logoColor=white" /> |
+| ChromaDB | <img src="https://img.shields.io/badge/ChromaDB-FF4500?style=for-the-badge&logo=ChromaDB&logoColor=white" /> |
 
 ## System Architecture:
 
