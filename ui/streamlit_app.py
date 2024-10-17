@@ -1,7 +1,8 @@
 import streamlit as st
 import requests
+from app.core.config import settings
 
-API_URL = "http://localhost:8000"
+API_URL = settings.API_URL
 
 st.title("Watch Data System")
 
