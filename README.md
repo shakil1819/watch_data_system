@@ -12,6 +12,7 @@
 | OpenAI API | <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=OpenAI&logoColor=white" /> |
 | REST API | <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=RESTAPI&logoColor=white" /> |
 | ChromaDB | <img src="https://img.shields.io/badge/ChromaDB-FF4500?style=for-the-badge&logo=ChromaDB&logoColor=white" /> |
+![image](https://github.com/user-attachments/assets/c6c4b235-2b52-4ae2-8b19-6a3762715786)
 
 ## System Architecture:
 
